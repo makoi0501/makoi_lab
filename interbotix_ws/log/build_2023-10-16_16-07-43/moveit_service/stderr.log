@@ -1,0 +1,5 @@
+  File "/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service/moveit_order.py", line 11
+    from original_interface.srv TargetPos
+                                ^^^^^^^^^
+SyntaxError: invalid syntax
+

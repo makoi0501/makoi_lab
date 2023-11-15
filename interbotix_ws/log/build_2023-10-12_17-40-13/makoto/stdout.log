@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/makoto/makoto.egg-info
+writing ../../build/makoto/makoto.egg-info/PKG-INFO
+writing dependency_links to ../../build/makoto/makoto.egg-info/dependency_links.txt
+writing entry points to ../../build/makoto/makoto.egg-info/entry_points.txt
+writing requirements to ../../build/makoto/makoto.egg-info/requires.txt
+writing top-level names to ../../build/makoto/makoto.egg-info/top_level.txt
+writing manifest file '../../build/makoto/makoto.egg-info/SOURCES.txt'
+reading manifest file '../../build/makoto/makoto.egg-info/SOURCES.txt'
+writing manifest file '../../build/makoto/makoto.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/inouemakoto/interbotix_ws/build/makoto/build
+creating /home/inouemakoto/interbotix_ws/build/makoto/build/lib
+creating /home/inouemakoto/interbotix_ws/build/makoto/build/lib/makoto
+copying makoto/pick__place.py -> /home/inouemakoto/interbotix_ws/build/makoto/build/lib/makoto
+copying makoto/__init__.py -> /home/inouemakoto/interbotix_ws/build/makoto/build/lib/makoto
+running install
+running install_lib
+creating /home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto
+copying /home/inouemakoto/interbotix_ws/build/makoto/build/lib/makoto/pick__place.py -> /home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto
+copying /home/inouemakoto/interbotix_ws/build/makoto/build/lib/makoto/__init__.py -> /home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto
+byte-compiling /home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto/pick__place.py to pick__place.cpython-310.pyc
+byte-compiling /home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/inouemakoto/interbotix_ws/install/makoto/share/ament_index
+creating /home/inouemakoto/interbotix_ws/install/makoto/share/ament_index/resource_index
+creating /home/inouemakoto/interbotix_ws/install/makoto/share/ament_index/resource_index/packages
+copying resource/makoto -> /home/inouemakoto/interbotix_ws/install/makoto/share/ament_index/resource_index/packages
+copying package.xml -> /home/inouemakoto/interbotix_ws/install/makoto/share/makoto
+running install_egg_info
+Copying ../../build/makoto/makoto.egg-info to /home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto-0.0.0-py3.10.egg-info
+running install_scripts
+Installing pick__place script to /home/inouemakoto/interbotix_ws/install/makoto/lib/makoto
+writing list of installed files to '/home/inouemakoto/interbotix_ws/build/makoto/install.log'

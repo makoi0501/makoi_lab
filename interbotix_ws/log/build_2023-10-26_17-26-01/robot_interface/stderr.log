@@ -1,0 +1,51 @@
+[0mCMake Deprecation Warning at /opt/ros/humble/share/ament_cmake_export_interfaces/cmake/ament_export_interfaces.cmake:37 (message):
+  ament_export_interfaces() is deprecated, use ament_export_targets() instead
+Call Stack (most recent call first):
+  CMakeLists.txt:89 (ament_export_interfaces)
+
+[0m
+[0mCMake Error: The following variables are used in this project, but they are set to NOTFOUND.
+Please set them or make sure they are set and tested correctly in the CMake files:
+ur_modern_driver_INCLUDE_DIRS
+   used as include directory in directory /home/inouemakoto/interbotix_ws/src/ros2_grasp_library/grasp_utils/robot_interface
+   used as include directory in directory /home/inouemakoto/interbotix_ws/src/ros2_grasp_library/grasp_utils/robot_interface
+   used as include directory in directory /home/inouemakoto/interbotix_ws/src/ros2_grasp_library/grasp_utils/robot_interface
+   used as include directory in directory /home/inouemakoto/interbotix_ws/src/ros2_grasp_library/grasp_utils/robot_interface
+   used as include directory in directory /home/inouemakoto/interbotix_ws/src/ros2_grasp_library/grasp_utils/robot_interface
+   used as include directory in directory /home/inouemakoto/interbotix_ws/src/ros2_grasp_library/grasp_utils/robot_interface
+   used as include directory in directory /home/inouemakoto/interbotix_ws/src/ros2_grasp_library/grasp_utils/robot_interface
+   used as include directory in directory /home/inouemakoto/interbotix_ws/src/ros2_grasp_library/grasp_utils/robot_interface
+   used as include directory in directory /home/inouemakoto/interbotix_ws/src/ros2_grasp_library/grasp_utils/robot_interface
+   used as include directory in directory /home/inouemakoto/interbotix_ws/src/ros2_grasp_library/grasp_utils/robot_interface
+   used as include directory in directory /home/inouemakoto/interbotix_ws/src/ros2_grasp_library/grasp_utils/robot_interface
+   used as include directory in directory /home/inouemakoto/interbotix_ws/src/ros2_grasp_library/grasp_utils/robot_interface
+ur_modern_driver_LIBRARIES
+    linked by target "ur_test_state_publish" in directory /home/inouemakoto/interbotix_ws/src/ros2_grasp_library/grasp_utils/robot_interface
+    linked by target "ur_test_move_command" in directory /home/inouemakoto/interbotix_ws/src/ros2_grasp_library/grasp_utils/robot_interface
+    linked by target "robot_interface" in directory /home/inouemakoto/interbotix_ws/src/ros2_grasp_library/grasp_utils/robot_interface
+[0m
+[31mCMake Error in CMakeLists.txt:
+  Found relative path while evaluating include directories of
+  "robot_interface":
+
+    "ur_modern_driver_INCLUDE_DIRS-NOTFOUND"
+
+
+[0m
+[31mCMake Error in CMakeLists.txt:
+  Found relative path while evaluating include directories of
+  "ur_test_move_command":
+
+    "ur_modern_driver_INCLUDE_DIRS-NOTFOUND"
+
+
+[0m
+[31mCMake Error in CMakeLists.txt:
+  Found relative path while evaluating include directories of
+  "ur_test_state_publish":
+
+    "ur_modern_driver_INCLUDE_DIRS-NOTFOUND"
+
+
+[0m
+[0mCMake Generate step failed.  Build files cannot be regenerated correctly.[0m

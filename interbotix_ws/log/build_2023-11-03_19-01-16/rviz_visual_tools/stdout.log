@@ -1,0 +1,8 @@
+[  2%] [34m[1mAutomatic MOC for target gtest_main[0m
+[  5%] [34m[1mAutomatic MOC for target rviz_visual_tools_remote_control[0m
+[  7%] [34m[1mAutomatic MOC for target rviz_visual_tools_gui[0m
+[ 10%] [34m[1mAutomatic MOC for target gtest[0m
+[ 10%] Built target rviz_visual_tools_remote_control_autogen
+[ 10%] Built target gtest_main_autogen
+[ 10%] Built target gtest_autogen
+[ 10%] Built target rviz_visual_tools_gui_autogen

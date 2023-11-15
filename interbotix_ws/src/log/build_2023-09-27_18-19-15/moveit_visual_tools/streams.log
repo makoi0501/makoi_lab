@@ -1,0 +1,68 @@
+[0.427s] Invoking command in '/home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools -- -j20 -l20
+[0.816s] [0mmoveit_visual_tools: You did not request a specific build type: Choosing 'Release' for maximum performance[0m
+[0.817s] -- Found moveit_common: 2.5.4 (/opt/ros/humble/share/moveit_common/cmake)
+[0.817s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.817s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[0.817s] -- Could NOT find libbfd (missing: LIBBFD_LIBRARY LIBBFD_INCLUDE_DIR) 
+[0.817s] -- BACKWARD_HAS_UNWIND=1
+[0.817s] -- BACKWARD_HAS_BACKTRACE=0
+[0.817s] -- BACKWARD_HAS_BACKTRACE_SYMBOL=0
+[0.817s] -- BACKWARD_HAS_DW=1
+[0.818s] -- BACKWARD_HAS_BFD=0
+[0.818s] -- Found Backward: /opt/ros/humble/share/backward_ros/cmake  
+[0.818s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system 
+[0.818s] -- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.818s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.818s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.818s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.818s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.829s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.962s] -- Found graph_msgs: 0.2.0 (/home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake)
+[1.091s] -- Found moveit_core: 2.5.4 (/opt/ros/humble/share/moveit_core/cmake)
+[1.114s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+[1.133s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: filesystem 
+[1.239s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.254s] -- Found rmw_fastrtps_cpp: 6.2.3 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.468s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[1.682s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[2.209s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[3.520s] -- Found moveit_ros_planning: 2.5.4 (/opt/ros/humble/share/moveit_ros_planning/cmake)
+[3.529s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread chrono 
+[4.151s] -- Found rviz_visual_tools: 4.1.4 (/home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/cmake)
+[4.281s] -- Setting OGRE_DIR to: '/opt/ros/humble/share/rviz_ogre_vendor/cmake/../../../opt/rviz_ogre_vendor/lib/OGRE/cmake'
+[4.283s] -- Found OGRE
+[4.283s] --   static     : OFF
+[4.283s] --   components : HLMS;MeshLodGenerator;Overlay;Paging;Property;RTShaderSystem;Terrain;Volume
+[4.283s] --   plugins    : Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[4.283s] --   media      : /opt/ros/humble/opt/rviz_ogre_vendor/share/OGRE/Media
+[4.283s] -- OGRE_LIBRARIES: OgreHLMS;OgreMeshLodGenerator;OgreOverlay;OgrePaging;OgreProperty;OgreRTShaderSystem;OgreTerrain;OgreVolume;OgreMain
+[4.283s] -- OGRE_LIBRARY_DIRS: /opt/ros/humble/opt/rviz_ogre_vendor/lib
+[4.284s] -- OGRE_PLUGINS: Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[4.284s] -- OGRE_PLUGIN_DIR: /opt/ros/humble/opt/rviz_ogre_vendor/lib/OGRE
+[4.284s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[4.284s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[4.284s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[4.284s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[4.377s] -- rviz_ogre_vendor::RenderSystem_GL for IMPORTED_LOCATION_RELEASE: _render_system_gl_static_library_abs-NOTFOUND
+[4.377s] -- rviz_ogre_vendor::RenderSystem_GL for IMPORTED_LOCATION_DEBUG: _render_system_gl_static_library_abs-NOTFOUND
+[5.202s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.210s] -- Added test 'copyright' to check source files copyright and LICENSE
+[5.213s] -- Added test 'flake8' to check Python code syntax and style conventions
+[5.215s] -- Added test 'lint_cmake' to check CMake code style
+[5.215s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[5.216s] -- Added test 'xmllint' to check XML markup files
+[5.218s] -- Configuring done
+[5.345s] -- Generating done
+[5.351s] -- Build files have been written to: /home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools
+[5.479s] [35m[1mConsolidate compiler generated dependencies of target moveit_visual_tools[0m
+[5.545s] [ 16%] [32mBuilding CXX object CMakeFiles/moveit_visual_tools.dir/src/moveit_visual_tools.cpp.o[0m
+[5.546s] [ 33%] [32mBuilding CXX object CMakeFiles/moveit_visual_tools.dir/src/imarker_robot_state.cpp.o[0m
+[5.549s] [ 50%] [32mBuilding CXX object CMakeFiles/moveit_visual_tools.dir/src/imarker_end_effector.cpp.o[0m
+[29.810s] [ 66%] [32m[1mLinking CXX shared library libmoveit_visual_tools.so[0m
+[30.478s] [ 66%] Built target moveit_visual_tools
+[30.500s] [35m[1mConsolidate compiler generated dependencies of target moveit_visual_tools_demo[0m
+[30.533s] [ 83%] [32mBuilding CXX object CMakeFiles/moveit_visual_tools_demo.dir/src/moveit_visual_tools_demo.cpp.o[0m
+[31.106s] gmake[2]: *** [CMakeFiles/moveit_visual_tools_demo.dir/build.make:76: CMakeFiles/moveit_visual_tools_demo.dir/src/moveit_visual_tools_demo.cpp.o] Interrupt
+[31.106s] gmake[1]: *** [CMakeFiles/Makefile2:165: CMakeFiles/moveit_visual_tools_demo.dir/all] Interrupt
+[31.106s] gmake: *** [Makefile:146: all] Interrupt
+[31.111s] Invoked command in '/home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools' returned '-2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools -- -j20 -l20

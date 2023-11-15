@@ -1,0 +1,2 @@
+Invoking command in '/home/inouemakoto/interbotix_ws/build/hello_moveit2': /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/hello_moveit2 -- -j20 -l20
+Invoked command in '/home/inouemakoto/interbotix_ws/build/hello_moveit2' returned '2': /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/hello_moveit2 -- -j20 -l20

@@ -1,0 +1,33 @@
+[2.217s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_moveit_interface_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/home/inouemakoto/install/camera:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/interbotix_moveit_interface_msgs -- -j20 -l20
+[3.616s] [  3%] Built target interbotix_moveit_interface_msgs__cpp
+[3.616s] [ 12%] Built target interbotix_moveit_interface_msgs__rosidl_generator_c
+[3.616s] [ 12%] Built target ament_cmake_python_copy_interbotix_moveit_interface_msgs
+[3.617s] [ 22%] Built target interbotix_moveit_interface_msgs__rosidl_typesupport_cpp
+[3.617s] [ 32%] Built target interbotix_moveit_interface_msgs__rosidl_typesupport_fastrtps_cpp
+[3.617s] [ 41%] Built target interbotix_moveit_interface_msgs__rosidl_typesupport_introspection_cpp
+[3.617s] [ 51%] Built target interbotix_moveit_interface_msgs__rosidl_typesupport_c
+[3.617s] [ 61%] Built target interbotix_moveit_interface_msgs__rosidl_typesupport_introspection_c
+[3.617s] [ 70%] Built target interbotix_moveit_interface_msgs__rosidl_typesupport_fastrtps_c
+[3.617s] gmake[2]: *** wait: No child processes.  Stop.
+[3.617s] gmake[2]: *** Waiting for unfinished jobs....
+[3.617s] gmake[2]: *** wait: No child processes.  Stop.
+[3.617s] gmake[1]: *** [CMakeFiles/Makefile2:186: CMakeFiles/interbotix_moveit_interface_msgs.dir/all] Error 2
+[3.617s] Traceback (most recent call last):
+[3.617s]   File "/home/inouemakoto/interbotix_ws/build/interbotix_moveit_interface_msgs/ament_cmake_python/interbotix_moveit_interface_msgs/setup.py", line 1, in <module>
+[3.617s]     from setuptools import find_packages
+[3.617s]   File "/home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/__init__.py", line 10, in <module>
+[3.617s]     import distutils.core
+[3.617s]   File "/usr/lib/python3.10/distutils/core.py", line 18, in <module>
+[3.617s]     from distutils.config import PyPIRCCommand
+[3.618s]   File "/usr/lib/python3.10/distutils/config.py", line 7, in <module>
+[3.618s]     from configparser import RawConfigParser
+[3.618s]   File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+[3.618s]   File "<frozen importlib._bootstrap>", line 1006, in _find_and_load_unlocked
+[3.618s]   File "<frozen importlib._bootstrap>", line 688, in _load_unlocked
+[3.618s]   File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+[3.618s]   File "<frozen importlib._bootstrap_external>", line 1012, in get_code
+[3.618s]   File "<frozen importlib._bootstrap_external>", line 672, in _compile_bytecode
+[3.618s] KeyboardInterrupt
+[3.618s] gmake[2]: *** [CMakeFiles/ament_cmake_python_build_interbotix_moveit_interface_msgs_egg.dir/build.make:70: CMakeFiles/ament_cmake_python_build_interbotix_moveit_interface_msgs_egg] Interrupt
+[3.618s] gmake[1]: *** [CMakeFiles/Makefile2:447: CMakeFiles/ament_cmake_python_build_interbotix_moveit_interface_msgs_egg.dir/all] Interrupt
+[3.618s] gmake: *** [Makefile:146: all] Interrupt

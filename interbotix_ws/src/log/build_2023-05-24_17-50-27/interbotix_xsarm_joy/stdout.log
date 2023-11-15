@@ -1,0 +1,26 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/xsarm_joy.dir/src/xsarm_joy.cpp.o[0m
+[100%] [32m[1mLinking CXX executable xsarm_joy[0m
+[100%] Built target xsarm_joy
+-- Install configuration: ""
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/lib/interbotix_xsarm_joy/xsarm_joy
+-- Set runtime path of "/home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/lib/interbotix_xsarm_joy/xsarm_joy" to ""
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/lib/interbotix_xsarm_joy/xsarm_robot.py
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy//config
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy//config/modes.yaml
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy//launch
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy//launch/xsarm_joy.launch.py
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/ament_index/resource_index/package_run_dependencies/interbotix_xsarm_joy
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/ament_index/resource_index/parent_prefix_path/interbotix_xsarm_joy
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy/environment/ament_prefix_path.sh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy/environment/ament_prefix_path.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy/environment/path.sh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy/environment/path.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy/local_setup.bash
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy/local_setup.sh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy/local_setup.zsh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy/local_setup.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy/package.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/ament_index/resource_index/packages/interbotix_xsarm_joy
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy/cmake/interbotix_xsarm_joyConfig.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy/cmake/interbotix_xsarm_joyConfig-version.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xsarm_joy/share/interbotix_xsarm_joy/package.xml

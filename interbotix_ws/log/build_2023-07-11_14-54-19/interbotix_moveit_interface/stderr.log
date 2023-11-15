@@ -1,0 +1,6 @@
+/usr/bin/ld: CMakeFiles/moveit_interface.dir/src/moveit_interface_obj.cpp.o: in function `interbotix::InterbotixMoveItInterface::InterbotixMoveItInterface(std::shared_ptr<rclcpp::Node>&)':
+/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:73: undefined reference to `interbotix::InterbotixMoveItInterface::moveit_execute_plan()'
+collect2: error: ld returned 1 exit status
+gmake[2]: *** [CMakeFiles/moveit_interface.dir/build.make:432: moveit_interface] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/moveit_interface.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

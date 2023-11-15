@@ -1,0 +1,24 @@
+[1.722s] Invoking command in '/home/inouemakoto/interbotix_ws/src/makoto': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/makoto/prefix_override:/home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/makoto build --build-base /home/inouemakoto/interbotix_ws/build/makoto/build install --record /home/inouemakoto/interbotix_ws/build/makoto/install.log --single-version-externally-managed
+[2.000s] running egg_info
+[2.001s] writing ../../build/makoto/makoto.egg-info/PKG-INFO
+[2.001s] writing dependency_links to ../../build/makoto/makoto.egg-info/dependency_links.txt
+[2.001s] writing entry points to ../../build/makoto/makoto.egg-info/entry_points.txt
+[2.001s] writing requirements to ../../build/makoto/makoto.egg-info/requires.txt
+[2.001s] writing top-level names to ../../build/makoto/makoto.egg-info/top_level.txt
+[2.003s] reading manifest file '../../build/makoto/makoto.egg-info/SOURCES.txt'
+[2.004s] writing manifest file '../../build/makoto/makoto.egg-info/SOURCES.txt'
+[2.004s] running build
+[2.004s] running build_py
+[2.004s] copying makoto/pick__place.py -> /home/inouemakoto/interbotix_ws/build/makoto/build/lib/makoto
+[2.004s] running install
+[2.004s] running install_lib
+[2.005s] copying /home/inouemakoto/interbotix_ws/build/makoto/build/lib/makoto/pick__place.py -> /home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto
+[2.005s] byte-compiling /home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto/pick__place.py to pick__place.cpython-310.pyc
+[2.006s] running install_data
+[2.006s] running install_egg_info
+[2.008s] removing '/home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto-0.0.0-py3.10.egg-info' (and everything under it)
+[2.008s] Copying ../../build/makoto/makoto.egg-info to /home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto-0.0.0-py3.10.egg-info
+[2.009s] running install_scripts
+[2.030s] Installing pick__place script to /home/inouemakoto/interbotix_ws/install/makoto/lib/makoto
+[2.030s] writing list of installed files to '/home/inouemakoto/interbotix_ws/build/makoto/install.log'
+[2.056s] Invoked command in '/home/inouemakoto/interbotix_ws/src/makoto' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/makoto/prefix_override:/home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/makoto build --build-base /home/inouemakoto/interbotix_ws/build/makoto/build install --record /home/inouemakoto/interbotix_ws/build/makoto/install.log --single-version-externally-managed

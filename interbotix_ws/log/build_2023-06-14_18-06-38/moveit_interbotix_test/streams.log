@@ -1,0 +1,47 @@
+[1.385s] Invoking command in '/home/inouemakoto/interbotix_ws/build/moveit_interbotix_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/moveit_interbotix_test -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test
+[1.906s] -- The C compiler identification is GNU 11.3.0
+[2.326s] -- The CXX compiler identification is GNU 11.3.0
+[2.367s] -- Detecting C compiler ABI info
+[2.955s] -- Detecting C compiler ABI info - done
+[2.998s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.001s] -- Detecting C compile features
+[3.001s] -- Detecting C compile features - done
+[3.002s] -- Detecting CXX compiler ABI info
+[3.614s] -- Detecting CXX compiler ABI info - done
+[3.634s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[3.636s] -- Detecting CXX compile features
+[3.638s] -- Detecting CXX compile features - done
+[3.664s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[5.094s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[5.896s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[6.530s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[6.530s] -- Configured cppcheck include dirs: 
+[6.531s] -- Configured cppcheck exclude dirs and/or files: 
+[6.537s] -- Added test 'lint_cmake' to check CMake code style
+[6.544s] -- Added test 'uncrustify' to check C / C++ code style
+[6.544s] -- Configured uncrustify additional arguments: 
+[6.549s] -- Added test 'xmllint' to check XML markup files
+[6.562s] -- Configuring done
+[6.577s] -- Generating done
+[6.579s] -- Build files have been written to: /home/inouemakoto/interbotix_ws/build/moveit_interbotix_test
+[6.619s] Invoked command in '/home/inouemakoto/interbotix_ws/build/moveit_interbotix_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/moveit_interbotix_test -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test
+[6.630s] Invoking command in '/home/inouemakoto/interbotix_ws/build/moveit_interbotix_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/moveit_interbotix_test -- -j20 -l20
+[6.871s] Invoked command in '/home/inouemakoto/interbotix_ws/build/moveit_interbotix_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/moveit_interbotix_test -- -j20 -l20
+[7.091s] Invoking command in '/home/inouemakoto/interbotix_ws/build/moveit_interbotix_test': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/moveit_interbotix_test
+[7.136s] -- Install configuration: ""
+[7.138s] -- Installing: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/ament_index/resource_index/package_run_dependencies/moveit_interbotix_test
+[7.138s] -- Installing: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/ament_index/resource_index/parent_prefix_path/moveit_interbotix_test
+[7.139s] -- Installing: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/environment/ament_prefix_path.sh
+[7.139s] -- Installing: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/environment/ament_prefix_path.dsv
+[7.140s] -- Installing: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/environment/path.sh
+[7.145s] -- Installing: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/environment/path.dsv
+[7.146s] -- Installing: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/local_setup.bash
+[7.146s] -- Installing: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/local_setup.sh
+[7.146s] -- Installing: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/local_setup.zsh
+[7.146s] -- Installing: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/local_setup.dsv
+[7.146s] -- Installing: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/package.dsv
+[7.146s] -- Installing: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/ament_index/resource_index/packages/moveit_interbotix_test
+[7.147s] -- Installing: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/cmake/moveit_interbotix_testConfig.cmake
+[7.147s] -- Installing: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/cmake/moveit_interbotix_testConfig-version.cmake
+[7.147s] -- Installing: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/package.xml
+[7.164s] Invoked command in '/home/inouemakoto/interbotix_ws/build/moveit_interbotix_test' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/moveit_interbotix_test

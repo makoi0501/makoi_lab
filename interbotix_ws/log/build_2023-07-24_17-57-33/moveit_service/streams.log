@@ -1,0 +1,40 @@
+[0.611s] Invoking command in '/home/inouemakoto/interbotix_ws/build/moveit_service': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/moveit_service/prefix_override:/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/inouemakoto/interbotix_ws/build/moveit_service/build
+[0.850s] running develop
+[0.850s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[0.850s]   warnings.warn(
+[0.851s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[0.851s]   warnings.warn(
+[0.907s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[0.907s]   warnings.warn(
+[0.908s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[0.908s]   warnings.warn(
+[0.908s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.12.1-git20200711.33e2d80-dfsg1-0.6 is an invalid version and will not be supported in a future release
+[0.908s]   warnings.warn(
+[1.029s] Invoked command in '/home/inouemakoto/interbotix_ws/build/moveit_service' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/moveit_service/prefix_override:/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/inouemakoto/interbotix_ws/build/moveit_service/build
+[1.031s] Invoking command in '/home/inouemakoto/interbotix_ws/src/moveit_service': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/moveit_service/prefix_override:/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/moveit_service build --build-base /home/inouemakoto/interbotix_ws/build/moveit_service/build install --record /home/inouemakoto/interbotix_ws/build/moveit_service/install.log --single-version-externally-managed
+[1.257s] running egg_info
+[1.257s] writing ../../build/moveit_service/moveit_service.egg-info/PKG-INFO
+[1.257s] writing dependency_links to ../../build/moveit_service/moveit_service.egg-info/dependency_links.txt
+[1.257s] writing entry points to ../../build/moveit_service/moveit_service.egg-info/entry_points.txt
+[1.257s] writing requirements to ../../build/moveit_service/moveit_service.egg-info/requires.txt
+[1.258s] writing top-level names to ../../build/moveit_service/moveit_service.egg-info/top_level.txt
+[1.258s] package init file 'moveit_service/__init__.py' not found (or not a regular file)
+[1.259s] reading manifest file '../../build/moveit_service/moveit_service.egg-info/SOURCES.txt'
+[1.259s] writing manifest file '../../build/moveit_service/moveit_service.egg-info/SOURCES.txt'
+[1.259s] running build
+[1.260s] running build_py
+[1.260s] copying moveit_service/moveit_order.py -> /home/inouemakoto/interbotix_ws/build/moveit_service/build/lib/moveit_service
+[1.260s] running install
+[1.260s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.260s]   warnings.warn(
+[1.260s] running install_lib
+[1.261s] copying /home/inouemakoto/interbotix_ws/build/moveit_service/build/lib/moveit_service/moveit_order.py -> /home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service
+[1.261s] byte-compiling /home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service/moveit_order.py to moveit_order.cpython-310.pyc
+[1.262s] running install_data
+[1.262s] running install_egg_info
+[1.263s] removing '/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service-0.0.0-py3.10.egg-info' (and everything under it)
+[1.263s] Copying ../../build/moveit_service/moveit_service.egg-info to /home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service-0.0.0-py3.10.egg-info
+[1.264s] running install_scripts
+[1.281s] Installing moveit_order script to /home/inouemakoto/interbotix_ws/install/moveit_service/lib/moveit_service
+[1.282s] writing list of installed files to '/home/inouemakoto/interbotix_ws/build/moveit_service/install.log'
+[1.302s] Invoked command in '/home/inouemakoto/interbotix_ws/src/moveit_service' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/moveit_service/prefix_override:/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/moveit_service build --build-base /home/inouemakoto/interbotix_ws/build/moveit_service/build install --record /home/inouemakoto/interbotix_ws/build/moveit_service/install.log --single-version-externally-managed

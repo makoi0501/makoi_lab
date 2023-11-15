@@ -1,0 +1,9 @@
+[  2%] Built target graph_msgs__cpp
+[ 12%] Built target graph_msgs__rosidl_generator_c
+[ 12%] Built target ament_cmake_python_copy_graph_msgs
+[ 23%] Built target graph_msgs__rosidl_typesupport_fastrtps_cpp
+[ 33%] Built target graph_msgs__rosidl_typesupport_cpp
+[ 43%] Built target graph_msgs__rosidl_typesupport_fastrtps_c
+[ 53%] Built target graph_msgs__rosidl_typesupport_c
+[ 64%] Built target graph_msgs__rosidl_typesupport_introspection_c
+[ 74%] Built target graph_msgs__rosidl_typesupport_introspection_cpp

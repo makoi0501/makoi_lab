@@ -1,0 +1,4 @@
+[  0%] Built target object_msgs__cpp
+[ 12%] Built target object_msgs__rosidl_generator_c
+[ 24%] Built target object_msgs__rosidl_typesupport_fastrtps_cpp
+[ 36%] Built target object_msgs__rosidl_typesupport_cpp

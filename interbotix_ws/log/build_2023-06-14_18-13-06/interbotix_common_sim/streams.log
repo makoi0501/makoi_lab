@@ -1,0 +1,43 @@
+[1.282s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_common_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/interbotix_common_sim -- -j20 -l20
+[1.504s] Invoked command in '/home/inouemakoto/interbotix_ws/build/interbotix_common_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/interbotix_common_sim -- -j20 -l20
+[1.770s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_common_sim': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/interbotix_common_sim
+[1.846s] -- Install configuration: ""
+[1.849s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/models
+[1.850s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/models/TrossenRoboticsOfficeBuilding
+[1.850s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/models/TrossenRoboticsOfficeBuilding/model.config
+[1.850s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/models/TrossenRoboticsOfficeBuilding/TrossenRoboticsOfficeBuilding.sdf
+[1.851s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/models/RealSenseD415
+[1.851s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/models/RealSenseD415/model.config
+[1.851s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/models/RealSenseD415/RealSenseD415.sdf
+[1.852s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/models/RealSenseD415/camera.stl
+[1.852s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/models/VisionKit
+[1.855s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/models/VisionKit/VisionKit.sdf
+[1.889s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/models/VisionKit/model.config
+[1.889s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/models/VisionKit/stand.stl
+[1.890s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/worlds
+[1.890s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/worlds/interbotix.world
+[1.890s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/worlds/vision_kit.world
+[1.890s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/media
+[1.890s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/media/interbotix_black.png
+[1.890s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/media/materials
+[1.890s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/media/materials/textures
+[1.891s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/media/materials/textures/interbotix_black.png
+[1.891s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/media/materials/scripts
+[1.891s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/media/materials/scripts/interbotix_texture.gazebo
+[1.891s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/media/materials/scripts/interbotix_black.material
+[1.891s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/ament_index/resource_index/package_run_dependencies/interbotix_common_sim
+[1.891s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/ament_index/resource_index/parent_prefix_path/interbotix_common_sim
+[1.892s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/environment/ament_prefix_path.sh
+[1.892s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/environment/ament_prefix_path.dsv
+[1.892s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/environment/path.sh
+[1.892s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/environment/path.dsv
+[1.892s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/local_setup.bash
+[1.893s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/local_setup.sh
+[1.893s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/local_setup.zsh
+[1.893s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/local_setup.dsv
+[1.903s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/package.dsv
+[1.905s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/ament_index/resource_index/packages/interbotix_common_sim
+[1.905s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/cmake/interbotix_common_simConfig.cmake
+[1.905s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/cmake/interbotix_common_simConfig-version.cmake
+[1.905s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_common_sim/share/interbotix_common_sim/package.xml
+[2.112s] Invoked command in '/home/inouemakoto/interbotix_ws/build/interbotix_common_sim' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/interbotix_common_sim

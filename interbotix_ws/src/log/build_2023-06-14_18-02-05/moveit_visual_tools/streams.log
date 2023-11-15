@@ -1,0 +1,44 @@
+[1.215s] Invoking command in '/home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools -- -j20 -l20
+[1.711s] [ 66%] Built target moveit_visual_tools
+[1.964s] [100%] Built target moveit_visual_tools_demo
+[2.038s] Invoked command in '/home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools -- -j20 -l20
+[2.404s] Invoking command in '/home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools
+[2.459s] -- Install configuration: "Release"
+[2.469s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/environment/library_path.sh
+[2.481s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/environment/library_path.dsv
+[2.486s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/lib/libmoveit_visual_tools.so
+[2.486s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/lib/moveit_visual_tools/moveit_visual_tools_demo
+[2.487s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/include
+[2.487s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/include/moveit_visual_tools
+[2.487s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/include/moveit_visual_tools/imarker_end_effector.h
+[2.487s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/include/moveit_visual_tools/moveit_visual_tools.h
+[2.487s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/include/moveit_visual_tools/imarker_robot_state.h
+[2.488s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/launch
+[2.488s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/launch/demo.rviz
+[2.488s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/launch/demo_rviz.launch.py
+[2.489s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/resources
+[2.489s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/resources/rrbot.urdf
+[2.489s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/resources/screenshot.png
+[2.489s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/resources/demo.png
+[2.489s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/resources/rrbot.srdf
+[2.490s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/resources/demo_mesh.stl
+[2.490s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/ament_index/resource_index/package_run_dependencies/moveit_visual_tools
+[2.490s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/ament_index/resource_index/parent_prefix_path/moveit_visual_tools
+[2.490s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/environment/ament_prefix_path.sh
+[2.491s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/environment/ament_prefix_path.dsv
+[2.491s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/environment/path.sh
+[2.491s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/environment/path.dsv
+[2.492s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/local_setup.bash
+[2.492s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/local_setup.sh
+[2.492s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/local_setup.zsh
+[2.493s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/local_setup.dsv
+[2.494s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/package.dsv
+[2.496s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/ament_index/resource_index/packages/moveit_visual_tools
+[2.504s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/cmake/export_moveit_visual_toolsExport.cmake
+[2.506s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/cmake/export_moveit_visual_toolsExport-release.cmake
+[2.507s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/cmake/ament_cmake_export_targets-extras.cmake
+[2.507s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.507s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/cmake/moveit_visual_toolsConfig.cmake
+[2.507s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/cmake/moveit_visual_toolsConfig-version.cmake
+[2.508s] -- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/moveit_visual_tools/share/moveit_visual_tools/package.xml
+[2.570s] Invoked command in '/home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools

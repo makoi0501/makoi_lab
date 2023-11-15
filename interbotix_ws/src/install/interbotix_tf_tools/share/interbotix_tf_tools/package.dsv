@@ -1,0 +1,6 @@
+source;share/interbotix_tf_tools/hook/cmake_prefix_path.ps1
+source;share/interbotix_tf_tools/hook/cmake_prefix_path.dsv
+source;share/interbotix_tf_tools/hook/cmake_prefix_path.sh
+source;share/interbotix_tf_tools/hook/ld_library_path_lib.ps1
+source;share/interbotix_tf_tools/hook/ld_library_path_lib.dsv
+source;share/interbotix_tf_tools/hook/ld_library_path_lib.sh

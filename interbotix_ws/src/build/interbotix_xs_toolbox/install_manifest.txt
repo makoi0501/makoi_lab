@@ -1,0 +1,15 @@
+/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_toolbox/share/ament_index/resource_index/package_run_dependencies/interbotix_xs_toolbox
+/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_toolbox/share/ament_index/resource_index/parent_prefix_path/interbotix_xs_toolbox
+/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_toolbox/share/interbotix_xs_toolbox/environment/ament_prefix_path.sh
+/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_toolbox/share/interbotix_xs_toolbox/environment/ament_prefix_path.dsv
+/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_toolbox/share/interbotix_xs_toolbox/environment/path.sh
+/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_toolbox/share/interbotix_xs_toolbox/environment/path.dsv
+/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_toolbox/share/interbotix_xs_toolbox/local_setup.bash
+/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_toolbox/share/interbotix_xs_toolbox/local_setup.sh
+/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_toolbox/share/interbotix_xs_toolbox/local_setup.zsh
+/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_toolbox/share/interbotix_xs_toolbox/local_setup.dsv
+/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_toolbox/share/interbotix_xs_toolbox/package.dsv
+/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_toolbox/share/ament_index/resource_index/packages/interbotix_xs_toolbox
+/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_toolbox/share/interbotix_xs_toolbox/cmake/interbotix_xs_toolboxConfig.cmake
+/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_toolbox/share/interbotix_xs_toolbox/cmake/interbotix_xs_toolboxConfig-version.cmake
+/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_toolbox/share/interbotix_xs_toolbox/package.xml

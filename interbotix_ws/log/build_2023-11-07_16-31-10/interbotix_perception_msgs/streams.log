@@ -1,0 +1,221 @@
+[4.712s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/home/inouemakoto/install/camera:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/interbotix_perception_msgs -- -j20 -l20
+[8.031s] [  1%] Built target interbotix_perception_msgs__cpp
+[8.032s] [  5%] Built target ament_cmake_python_copy_interbotix_perception_msgs
+[8.032s] [ 12%] Built target interbotix_perception_msgs__rosidl_generator_c
+[8.033s] [ 23%] Built target interbotix_perception_msgs__rosidl_typesupport_cpp
+[8.033s] [ 34%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp
+[8.033s] [ 45%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_c
+[8.033s] [ 56%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_cpp
+[8.033s] [ 67%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_c
+[8.033s] [ 78%] Built target interbotix_perception_msgs__rosidl_typesupport_c
+[8.033s] [ 78%] Built target interbotix_perception_msgs
+[8.033s] [ 80%] Built target interbotix_perception_msgs__py
+[8.033s] [ 89%] Built target interbotix_perception_msgs__rosidl_generator_py
+[8.033s] running egg_info
+[8.034s] writing interbotix_perception_msgs.egg-info/PKG-INFO
+[8.034s] writing dependency_links to interbotix_perception_msgs.egg-info/dependency_links.txt
+[8.034s] writing top-level names to interbotix_perception_msgs.egg-info/top_level.txt
+[8.034s] reading manifest file 'interbotix_perception_msgs.egg-info/SOURCES.txt'
+[8.034s] writing manifest file 'interbotix_perception_msgs.egg-info/SOURCES.txt'
+[8.034s] [ 92%] Built target interbotix_perception_msgs__rosidl_typesupport_c__pyext
+[8.034s] [ 96%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_c__pyext
+[8.035s] [100%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_c__pyext
+[8.035s] [100%] Built target ament_cmake_python_build_interbotix_perception_msgs_egg
+[8.063s] Invoked command in '/home/inouemakoto/interbotix_ws/build/interbotix_perception_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/home/inouemakoto/install/camera:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/interbotix_perception_msgs -- -j20 -l20
+[9.618s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/home/inouemakoto/install/camera:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/interbotix_perception_msgs
+[9.854s] -- Install configuration: ""
+[9.854s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/ament_index/resource_index/rosidl_interfaces/interbotix_perception_msgs
+[9.854s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs
+[9.854s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv
+[9.854s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/filter_params.h
+[9.854s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/snap_picture.h
+[9.854s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/cluster_info_array.h
+[9.855s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail
+[9.855s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__functions.h
+[9.855s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__type_support.h
+[9.855s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__functions.c
+[9.855s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__struct.h
+[9.855s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__struct.h
+[9.856s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__functions.h
+[9.856s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__functions.c
+[9.857s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__type_support.h
+[9.857s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__functions.h
+[9.857s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__type_support.h
+[9.857s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__functions.c
+[9.858s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__struct.h
+[9.858s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg
+[9.858s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/rosidl_generator_c__visibility_control.h
+[9.858s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/cluster_info.h
+[9.858s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail
+[9.858s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__functions.h
+[9.858s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__type_support.h
+[9.858s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__struct.h
+[9.859s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__functions.c
+[9.859s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/library_path.sh
+[9.859s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/library_path.dsv
+[9.859s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_generator_c.so
+[9.859s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs
+[9.859s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv
+[9.859s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail
+[9.859s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__rosidl_typesupport_fastrtps_c.h
+[9.860s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__rosidl_typesupport_fastrtps_c.h
+[9.860s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__rosidl_typesupport_fastrtps_c.h
+[9.860s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg
+[9.860s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail
+[9.861s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__rosidl_typesupport_fastrtps_c.h
+[9.861s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[9.861s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_fastrtps_c.so
+[9.861s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs
+[9.861s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv
+[9.861s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail
+[9.861s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__type_support.c
+[9.861s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__type_support.c
+[9.862s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__type_support.c
+[9.862s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__rosidl_typesupport_introspection_c.h
+[9.862s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__rosidl_typesupport_introspection_c.h
+[9.862s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__rosidl_typesupport_introspection_c.h
+[9.862s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg
+[9.862s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[9.862s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail
+[9.862s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__rosidl_typesupport_introspection_c.h
+[9.862s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__type_support.c
+[9.863s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_introspection_c.so
+[9.863s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_c.so
+[9.863s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs
+[9.863s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv
+[9.863s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/cluster_info_array.hpp
+[9.863s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/snap_picture.hpp
+[9.863s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/filter_params.hpp
+[9.864s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail
+[9.864s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__builder.hpp
+[9.864s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__traits.hpp
+[9.864s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__traits.hpp
+[9.864s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__traits.hpp
+[9.864s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__struct.hpp
+[9.864s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__struct.hpp
+[9.864s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__struct.hpp
+[9.864s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__builder.hpp
+[9.864s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__builder.hpp
+[9.864s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg
+[9.865s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/cluster_info.hpp
+[9.865s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail
+[9.865s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__struct.hpp
+[9.865s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__builder.hpp
+[9.865s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__traits.hpp
+[9.865s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs
+[9.865s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv
+[9.866s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail
+[9.866s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__rosidl_typesupport_fastrtps_cpp.hpp
+[9.866s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__rosidl_typesupport_fastrtps_cpp.hpp
+[9.866s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/dds_fastrtps
+[9.866s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__rosidl_typesupport_fastrtps_cpp.hpp
+[9.866s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg
+[9.866s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[9.866s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail
+[9.867s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/dds_fastrtps
+[9.867s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__rosidl_typesupport_fastrtps_cpp.hpp
+[9.867s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp.so
+[9.867s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs
+[9.867s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv
+[9.867s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail
+[9.867s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__type_support.cpp
+[9.868s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__rosidl_typesupport_introspection_cpp.hpp
+[9.868s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__rosidl_typesupport_introspection_cpp.hpp
+[9.868s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/cluster_info_array__type_support.cpp
+[9.868s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/snap_picture__type_support.cpp
+[9.868s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/srv/detail/filter_params__rosidl_typesupport_introspection_cpp.hpp
+[9.868s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg
+[9.868s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail
+[9.868s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__rosidl_typesupport_introspection_cpp.hpp
+[9.868s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/include/interbotix_perception_msgs/interbotix_perception_msgs/msg/detail/cluster_info__type_support.cpp
+[9.869s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_introspection_cpp.so
+[9.869s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_typesupport_cpp.so
+[9.869s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/pythonpath.sh
+[9.869s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/pythonpath.dsv
+[9.869s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs-0.0.0-py3.10.egg-info
+[9.869s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[9.869s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[9.869s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[9.869s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[9.869s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs
+[9.870s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[9.870s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv
+[9.870s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_filter_params_s.c
+[9.870s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_cluster_info_array_s.c
+[9.870s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_snap_picture.py
+[9.870s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_filter_params.py
+[9.870s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/__init__.py
+[9.870s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_snap_picture_s.c
+[9.870s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv/_cluster_info_array.py
+[9.870s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/_interbotix_perception_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[9.870s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg
+[9.870s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg/_cluster_info_s.c
+[9.871s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg/__init__.py
+[9.871s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg/_cluster_info.py
+[9.871s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/_interbotix_perception_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[9.871s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/__init__.py
+[9.871s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/libinterbotix_perception_msgs__rosidl_generator_py.so
+[9.871s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[9.871s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/_interbotix_perception_msgs_s.ep.rosidl_typesupport_c.c
+[9.871s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[9.956s] Listing '/home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs'...
+[9.956s] Listing '/home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/msg'...
+[9.956s] Listing '/home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/srv'...
+[9.974s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[9.974s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[9.975s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/local/lib/python3.10/dist-packages/interbotix_perception_msgs/interbotix_perception_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[9.975s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/lib/libinterbotix_perception_msgs__rosidl_generator_py.so
+[9.975s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/msg/ClusterInfo.idl
+[9.976s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/ClusterInfoArray.idl
+[9.976s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/FilterParams.idl
+[9.976s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/SnapPicture.idl
+[9.976s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/msg/ClusterInfo.msg
+[9.977s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/ClusterInfoArray.srv
+[9.977s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/ClusterInfoArray_Request.msg
+[9.977s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/ClusterInfoArray_Response.msg
+[9.977s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/FilterParams.srv
+[9.977s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/FilterParams_Request.msg
+[9.977s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/FilterParams_Response.msg
+[9.978s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/SnapPicture.srv
+[9.978s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/SnapPicture_Request.msg
+[9.978s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/srv/SnapPicture_Response.msg
+[9.978s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/ament_index/resource_index/package_run_dependencies/interbotix_perception_msgs
+[9.978s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/ament_index/resource_index/parent_prefix_path/interbotix_perception_msgs
+[9.978s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/ament_prefix_path.sh
+[9.979s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/ament_prefix_path.dsv
+[9.979s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/path.sh
+[9.979s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/environment/path.dsv
+[9.979s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/local_setup.bash
+[9.979s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/local_setup.sh
+[9.979s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/local_setup.zsh
+[9.980s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/local_setup.dsv
+[9.980s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/package.dsv
+[9.980s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/ament_index/resource_index/packages/interbotix_perception_msgs
+[9.980s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_generator_cExport.cmake
+[9.980s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_generator_cExport-noconfig.cmake
+[9.980s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[9.981s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[9.981s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_introspection_cExport.cmake
+[9.981s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[9.981s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_cExport.cmake
+[9.982s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[9.982s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_generator_cppExport.cmake
+[9.983s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[9.983s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[9.983s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[9.984s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[9.984s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_cppExport.cmake
+[9.984s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[9.985s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_generator_pyExport.cmake
+[9.985s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/export_interbotix_perception_msgs__rosidl_generator_pyExport-noconfig.cmake
+[9.985s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/rosidl_cmake-extras.cmake
+[9.985s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[9.985s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[9.986s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[9.986s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[9.986s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[9.986s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[9.987s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgsConfig.cmake
+[9.987s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/cmake/interbotix_perception_msgsConfig-version.cmake
+[9.987s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_perception_msgs/share/interbotix_perception_msgs/package.xml
+[11.552s] Invoked command in '/home/inouemakoto/interbotix_ws/build/interbotix_perception_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/home/inouemakoto/install/camera:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/interbotix_perception_msgs

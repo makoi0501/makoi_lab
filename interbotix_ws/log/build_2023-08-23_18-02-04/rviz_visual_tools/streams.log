@@ -1,0 +1,173 @@
+[0.363s] Invoking command in '/home/inouemakoto/interbotix_ws/build/rviz_visual_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/rviz_visual_tools -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/rviz_visual_tools
+[0.768s] -- The C compiler identification is GNU 11.4.0
+[0.768s] -- The CXX compiler identification is GNU 11.4.0
+[0.768s] -- Detecting C compiler ABI info
+[0.768s] -- Detecting C compiler ABI info - done
+[0.768s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.768s] -- Detecting C compile features
+[0.768s] -- Detecting C compile features - done
+[0.768s] -- Detecting CXX compiler ABI info
+[0.768s] -- Detecting CXX compiler ABI info - done
+[0.769s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.769s] -- Detecting CXX compile features
+[0.769s] -- Detecting CXX compile features - done
+[0.769s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.004s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.223s] -- Found rclcpp: 16.0.5 (/opt/ros/humble/share/rclcpp/cmake)
+[1.400s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.421s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.454s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.514s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.587s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.718s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[1.734s] -- Found rmw_fastrtps_cpp: 6.2.3 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[1.931s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[1.994s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.062s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.095s] -- Looking for pthread.h
+[2.180s] -- Looking for pthread.h - found
+[2.181s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[2.275s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[2.276s] -- Found Threads: TRUE  
+[2.515s] -- Found rclcpp_components: 16.0.5 (/opt/ros/humble/share/rclcpp_components/cmake)
+[2.635s] -- Found rviz_ogre_vendor: 11.2.6 (/opt/ros/humble/share/rviz_ogre_vendor/cmake)
+[2.635s] -- Setting OGRE_DIR to: '/opt/ros/humble/share/rviz_ogre_vendor/cmake/../../../opt/rviz_ogre_vendor/lib/OGRE/cmake'
+[2.637s] -- Found OGRE
+[2.637s] --   static     : OFF
+[2.637s] --   components : HLMS;MeshLodGenerator;Overlay;Paging;Property;RTShaderSystem;Terrain;Volume
+[2.637s] --   plugins    : Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[2.637s] --   media      : /opt/ros/humble/opt/rviz_ogre_vendor/share/OGRE/Media
+[2.637s] -- OGRE_LIBRARIES: OgreHLMS;OgreMeshLodGenerator;OgreOverlay;OgrePaging;OgreProperty;OgreRTShaderSystem;OgreTerrain;OgreVolume;OgreMain
+[2.637s] -- OGRE_LIBRARY_DIRS: /opt/ros/humble/opt/rviz_ogre_vendor/lib
+[2.638s] -- OGRE_PLUGINS: Plugin_BSPSceneManager;Plugin_OctreeSceneManager;Plugin_PCZSceneManager;Plugin_ParticleFX;RenderSystem_GL;RenderSystem_GL3Plus;Codec_STBI
+[2.638s] -- OGRE_PLUGIN_DIR: /opt/ros/humble/opt/rviz_ogre_vendor/lib/OGRE
+[2.638s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[2.638s] -- rviz_ogre_vendor::OgreOverlay for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreOverlay.so
+[2.638s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_RELEASE: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[2.638s] -- rviz_ogre_vendor::OgreMain for IMPORTED_LOCATION_DEBUG: /opt/ros/humble/opt/rviz_ogre_vendor/lib/libOgreMain.so
+[2.677s] -- Found ZLIB: /usr/lib/x86_64-linux-gnu/libz.so (found version "1.2.11") 
+[2.692s] -- Found OpenGL: /usr/lib/x86_64-linux-gnu/libOpenGL.so   
+[2.896s] -- Found X11: /usr/include   
+[2.897s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so
+[2.980s] -- Looking for XOpenDisplay in /usr/lib/x86_64-linux-gnu/libX11.so;/usr/lib/x86_64-linux-gnu/libXext.so - found
+[2.980s] -- Looking for gethostbyname
+[3.055s] -- Looking for gethostbyname - found
+[3.055s] -- Looking for connect
+[3.133s] -- Looking for connect - found
+[3.133s] -- Looking for remove
+[3.221s] -- Looking for remove - found
+[3.221s] -- Looking for shmat
+[3.304s] -- Looking for shmat - found
+[3.305s] -- Looking for IceConnectionNumber in ICE
+[3.417s] -- Looking for IceConnectionNumber in ICE - found
+[3.424s] -- rviz_ogre_vendor::RenderSystem_GL for IMPORTED_LOCATION_RELEASE: _render_system_gl_static_library_abs-NOTFOUND
+[3.424s] -- rviz_ogre_vendor::RenderSystem_GL for IMPORTED_LOCATION_DEBUG: _render_system_gl_static_library_abs-NOTFOUND
+[3.435s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[3.656s] -- Found shape_msgs: 4.2.3 (/opt/ros/humble/share/shape_msgs/cmake)
+[3.735s] -- Found visualization_msgs: 4.2.3 (/opt/ros/humble/share/visualization_msgs/cmake)
+[3.880s] -- Found trajectory_msgs: 4.2.3 (/opt/ros/humble/share/trajectory_msgs/cmake)
+[3.984s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[3.993s] -- Found eigen_stl_containers: 1.0.0 (/opt/ros/humble/share/eigen_stl_containers/cmake)
+[4.006s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[4.010s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.2") 
+[4.022s] -- Found tf2: 0.25.3 (/opt/ros/humble/share/tf2/cmake)
+[4.037s] -- Found tf2_eigen: 0.25.3 (/opt/ros/humble/share/tf2_eigen/cmake)
+[4.346s] -- Found tf2_geometry_msgs: 0.25.3 (/opt/ros/humble/share/tf2_geometry_msgs/cmake)
+[4.369s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[4.385s] -- Found pluginlib: 5.1.0 (/opt/ros/humble/share/pluginlib/cmake)
+[4.419s] -- Found interactive_markers: 2.3.2 (/opt/ros/humble/share/interactive_markers/cmake)
+[4.438s] -- Found rviz_common: 11.2.6 (/opt/ros/humble/share/rviz_common/cmake)
+[4.595s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[4.701s] -- Found rviz_default_plugins: 11.2.6 (/opt/ros/humble/share/rviz_default_plugins/cmake)
+[5.329s] -- Found ament_cmake_gtest: 1.3.5 (/opt/ros/humble/share/ament_cmake_gtest/cmake)
+[5.338s] -- Found gtest sources under '/opt/ros/humble/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[5.409s] -- Configuring done
+[5.601s] -- Generating done
+[5.604s] -- Build files have been written to: /home/inouemakoto/interbotix_ws/build/rviz_visual_tools
+[5.617s] Invoked command in '/home/inouemakoto/interbotix_ws/build/rviz_visual_tools' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/rviz_visual_tools -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/rviz_visual_tools
+[5.617s] Invoking command in '/home/inouemakoto/interbotix_ws/build/rviz_visual_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/rviz_visual_tools -- -j20 -l20
+[5.677s] [ 10%] [34m[1mAutomatic MOC for target gtest[0m
+[5.677s] [ 10%] [34m[1mAutomatic MOC for target gtest_main[0m
+[5.677s] [ 10%] [34m[1mAutomatic MOC for target rviz_visual_tools_remote_control[0m
+[5.677s] [ 10%] [34m[1mAutomatic MOC for target rviz_visual_tools_gui[0m
+[5.699s] [ 10%] Built target gtest_main_autogen
+[5.700s] [ 10%] Built target gtest_autogen
+[5.700s] [ 10%] Built target rviz_visual_tools_remote_control_autogen
+[5.709s] [ 10%] Built target rviz_visual_tools_gui_autogen
+[5.714s] [35m[1mConsolidate compiler generated dependencies of target gtest_main[0m
+[5.715s] [35m[1mConsolidate compiler generated dependencies of target rviz_visual_tools_remote_control[0m
+[5.715s] [35m[1mConsolidate compiler generated dependencies of target gtest[0m
+[5.728s] [35m[1mConsolidate compiler generated dependencies of target rviz_visual_tools_gui[0m
+[5.731s] [ 17%] Built target gtest_main
+[5.732s] [ 25%] Built target gtest
+[5.735s] [ 33%] Built target rviz_visual_tools_remote_control
+[5.759s] [ 46%] Built target rviz_visual_tools_gui
+[5.762s] [ 48%] [34m[1mAutomatic MOC for target rviz_visual_tools[0m
+[5.790s] [ 48%] Built target rviz_visual_tools_autogen
+[5.805s] [35m[1mConsolidate compiler generated dependencies of target rviz_visual_tools[0m
+[5.832s] [ 58%] Built target rviz_visual_tools
+[5.857s] [ 66%] [34m[1mAutomatic MOC for target rviz_visual_tools_rvt_test[0m
+[5.857s] [ 66%] [34m[1mAutomatic MOC for target rviz_visual_tools_imarker_simple[0m
+[5.857s] [ 66%] [34m[1mAutomatic MOC for target rviz_visual_tools_demo[0m
+[5.881s] [ 66%] Built target rviz_visual_tools_imarker_simple_autogen
+[5.881s] [ 66%] Built target rviz_visual_tools_rvt_test_autogen
+[5.881s] [ 66%] Built target rviz_visual_tools_demo_autogen
+[5.895s] [35m[1mConsolidate compiler generated dependencies of target rviz_visual_tools_imarker_simple[0m
+[5.895s] [35m[1mConsolidate compiler generated dependencies of target rviz_visual_tools_rvt_test[0m
+[5.895s] [35m[1mConsolidate compiler generated dependencies of target rviz_visual_tools_demo[0m
+[5.915s] [ 82%] Built target rviz_visual_tools_demo
+[5.915s] [ 84%] Built target rviz_visual_tools_rvt_test
+[5.915s] [ 89%] Built target rviz_visual_tools_imarker_simple
+[5.940s] [ 92%] [34m[1mAutomatic MOC for target rviz_visual_tools_imarker_simple_demo[0m
+[5.964s] [ 92%] Built target rviz_visual_tools_imarker_simple_demo_autogen
+[5.977s] [35m[1mConsolidate compiler generated dependencies of target rviz_visual_tools_imarker_simple_demo[0m
+[5.995s] [100%] Built target rviz_visual_tools_imarker_simple_demo
+[6.006s] Invoked command in '/home/inouemakoto/interbotix_ws/build/rviz_visual_tools' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/rviz_visual_tools -- -j20 -l20
+[6.112s] Invoking command in '/home/inouemakoto/interbotix_ws/build/rviz_visual_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/rviz_visual_tools
+[6.121s] -- Install configuration: ""
+[6.121s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/plugin_description.xml
+[6.127s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/lib/librviz_visual_tools.so
+[6.127s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/lib/librviz_visual_tools_remote_control.so
+[6.128s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/lib/librviz_visual_tools_gui.so
+[6.128s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/lib/librviz_visual_tools_imarker_simple.so
+[6.129s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/lib/rviz_visual_tools/rviz_visual_tools_demo
+[6.129s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/lib/rviz_visual_tools/rviz_visual_tools_imarker_simple_demo
+[6.129s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/include
+[6.129s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/include/rviz_visual_tools
+[6.129s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/include/rviz_visual_tools/rviz_visual_tools_gui.hpp
+[6.129s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/include/rviz_visual_tools/rviz_visual_tools.hpp
+[6.130s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/include/rviz_visual_tools/key_tool.hpp
+[6.130s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/include/rviz_visual_tools/imarker_simple.hpp
+[6.130s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/include/rviz_visual_tools/remote_control.hpp
+[6.130s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/include/rviz_visual_tools/remote_reciever.hpp
+[6.130s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/include/rviz_visual_tools/tf_visual_tools.hpp
+[6.130s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/launch
+[6.130s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/launch/demo.rviz
+[6.130s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/launch/demo_combined.launch.py
+[6.130s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/launch/rvt_test.launch
+[6.130s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/launch/demo_rviz.launch.py
+[6.130s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/environment/library_path.sh
+[6.130s] -- Installing: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/environment/library_path.dsv
+[6.130s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/ament_index/resource_index/package_run_dependencies/rviz_visual_tools
+[6.130s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/ament_index/resource_index/parent_prefix_path/rviz_visual_tools
+[6.130s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/environment/ament_prefix_path.sh
+[6.130s] -- Installing: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/environment/ament_prefix_path.dsv
+[6.130s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/environment/path.sh
+[6.131s] -- Installing: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/environment/path.dsv
+[6.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/local_setup.bash
+[6.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/local_setup.sh
+[6.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/local_setup.zsh
+[6.131s] -- Installing: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/local_setup.dsv
+[6.131s] -- Installing: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/package.dsv
+[6.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/ament_index/resource_index/packages/rviz_visual_tools
+[6.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/ament_index/resource_index/rviz_common__pluginlib__plugin/rviz_visual_tools
+[6.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/cmake/export_rviz_visual_toolsExport.cmake
+[6.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/cmake/export_rviz_visual_toolsExport-noconfig.cmake
+[6.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/cmake/ament_cmake_export_targets-extras.cmake
+[6.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/cmake/ament_cmake_export_dependencies-extras.cmake
+[6.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/cmake/ament_cmake_export_include_directories-extras.cmake
+[6.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/cmake/ament_cmake_export_libraries-extras.cmake
+[6.132s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/cmake/rviz_visual_toolsConfig.cmake
+[6.132s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/cmake/rviz_visual_toolsConfig-version.cmake
+[6.132s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/rviz_visual_tools/share/rviz_visual_tools/package.xml
+[6.135s] Invoked command in '/home/inouemakoto/interbotix_ws/build/rviz_visual_tools' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/rviz_visual_tools

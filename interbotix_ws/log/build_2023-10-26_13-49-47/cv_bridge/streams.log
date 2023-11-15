@@ -1,0 +1,63 @@
+[2.667s] Invoking command in '/home/inouemakoto/interbotix_ws/build/cv_bridge': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/cv_bridge -- -j20 -l20
+[3.880s] [35m[1mConsolidate compiler generated dependencies of target gtest_main[0m
+[3.880s] [35m[1mConsolidate compiler generated dependencies of target gtest[0m
+[3.880s] [35m[1mConsolidate compiler generated dependencies of target cv_bridge[0m
+[3.880s] [ 12%] Built target gtest
+[3.881s] [ 12%] Built target ament_cmake_python_copy_cv_bridge
+[3.881s] [ 25%] Built target gtest_main
+[3.881s] [ 43%] Built target cv_bridge
+[3.881s] [35m[1mConsolidate compiler generated dependencies of target cv_bridge_boost[0m
+[3.881s] [35m[1mConsolidate compiler generated dependencies of target cv_bridge-utest[0m
+[3.881s] [ 81%] Built target cv_bridge-utest
+[3.881s] [100%] Built target cv_bridge_boost
+[3.881s] running egg_info
+[3.881s] writing cv_bridge.egg-info/PKG-INFO
+[3.881s] writing dependency_links to cv_bridge.egg-info/dependency_links.txt
+[3.881s] writing top-level names to cv_bridge.egg-info/top_level.txt
+[3.881s] reading manifest file 'cv_bridge.egg-info/SOURCES.txt'
+[3.881s] writing manifest file 'cv_bridge.egg-info/SOURCES.txt'
+[3.881s] [100%] Built target ament_cmake_python_build_cv_bridge_egg
+[3.902s] Invoked command in '/home/inouemakoto/interbotix_ws/build/cv_bridge' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/cv_bridge -- -j20 -l20
+[3.976s] Invoking command in '/home/inouemakoto/interbotix_ws/build/cv_bridge': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/cv_bridge
+[3.997s] -- Install configuration: ""
+[3.998s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/environment/pythonpath.sh
+[3.998s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/environment/pythonpath.dsv
+[3.998s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/local/lib/python3.10/dist-packages/cv_bridge-3.2.1-py3.10.egg-info
+[3.998s] -- Installing: /home/inouemakoto/interbotix_ws/install/cv_bridge/local/lib/python3.10/dist-packages/cv_bridge-3.2.1-py3.10.egg-info/top_level.txt
+[3.998s] -- Installing: /home/inouemakoto/interbotix_ws/install/cv_bridge/local/lib/python3.10/dist-packages/cv_bridge-3.2.1-py3.10.egg-info/dependency_links.txt
+[3.998s] -- Installing: /home/inouemakoto/interbotix_ws/install/cv_bridge/local/lib/python3.10/dist-packages/cv_bridge-3.2.1-py3.10.egg-info/SOURCES.txt
+[3.999s] -- Installing: /home/inouemakoto/interbotix_ws/install/cv_bridge/local/lib/python3.10/dist-packages/cv_bridge-3.2.1-py3.10.egg-info/PKG-INFO
+[3.999s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/local/lib/python3.10/dist-packages/cv_bridge
+[3.999s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/local/lib/python3.10/dist-packages/cv_bridge/core.py
+[3.999s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/local/lib/python3.10/dist-packages/cv_bridge/__init__.py
+[4.066s] Listing '/home/inouemakoto/interbotix_ws/install/cv_bridge/local/lib/python3.10/dist-packages/cv_bridge'...
+[4.067s] Listing '/home/inouemakoto/interbotix_ws/install/cv_bridge/local/lib/python3.10/dist-packages/cv_bridge/boost'...
+[4.073s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/lib/libcv_bridge.so
+[4.073s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/include/cv_bridge/cv_bridge/cv_bridge_export.h
+[4.074s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/local/lib/python3.10/dist-packages/cv_bridge/boost/cv_bridge_boost.so
+[4.074s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/include/cv_bridge
+[4.075s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/include/cv_bridge/cv_bridge
+[4.075s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/include/cv_bridge/cv_bridge/cv_bridge.h
+[4.075s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/include/cv_bridge/cv_bridge/rgb_colors.h
+[4.075s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/lib/libcv_bridge.so
+[4.076s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/ament_index/resource_index/package_run_dependencies/cv_bridge
+[4.076s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/ament_index/resource_index/parent_prefix_path/cv_bridge
+[4.076s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/environment/ament_prefix_path.sh
+[4.076s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/environment/ament_prefix_path.dsv
+[4.076s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/environment/path.sh
+[4.076s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/environment/path.dsv
+[4.076s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/local_setup.bash
+[4.076s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/local_setup.sh
+[4.077s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/local_setup.zsh
+[4.077s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/local_setup.dsv
+[4.077s] -- Installing: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/package.dsv
+[4.077s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/ament_index/resource_index/packages/cv_bridge
+[4.077s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/cmake/export_cv_bridgeExport.cmake
+[4.077s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/cmake/export_cv_bridgeExport-noconfig.cmake
+[4.077s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/cmake/cv_bridge-extras.cmake
+[4.078s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/cmake/ament_cmake_export_dependencies-extras.cmake
+[4.078s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/cmake/ament_cmake_export_targets-extras.cmake
+[4.078s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/cmake/cv_bridgeConfig.cmake
+[4.078s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/cmake/cv_bridgeConfig-version.cmake
+[4.078s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/cv_bridge/share/cv_bridge/package.xml
+[4.426s] Invoked command in '/home/inouemakoto/interbotix_ws/build/cv_bridge' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/cv_bridge

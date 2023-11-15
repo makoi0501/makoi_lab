@@ -1,0 +1,34 @@
+[4.285s] Invoking command in '/home/inouemakoto/interbotix_ws/src/makoto': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/makoto/prefix_override:/home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/makoto build --build-base /home/inouemakoto/interbotix_ws/build/makoto/build install --record /home/inouemakoto/interbotix_ws/build/makoto/install.log --single-version-externally-managed
+[4.578s] running egg_info
+[4.598s] writing ../../build/makoto/makoto.egg-info/PKG-INFO
+[4.598s] writing dependency_links to ../../build/makoto/makoto.egg-info/dependency_links.txt
+[4.598s] writing entry points to ../../build/makoto/makoto.egg-info/entry_points.txt
+[4.598s] writing requirements to ../../build/makoto/makoto.egg-info/requires.txt
+[4.598s] writing top-level names to ../../build/makoto/makoto.egg-info/top_level.txt
+[4.637s] reading manifest file '../../build/makoto/makoto.egg-info/SOURCES.txt'
+[4.638s] writing manifest file '../../build/makoto/makoto.egg-info/SOURCES.txt'
+[4.638s] running build
+[4.638s] running build_py
+[4.638s] running install
+[4.638s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[4.638s] !!
+[4.638s] 
+[4.639s]         ********************************************************************************
+[4.639s]         Please avoid running ``setup.py`` directly.
+[4.639s]         Instead, use pypa/build, pypa/installer or other
+[4.639s]         standards-based tools.
+[4.639s] 
+[4.639s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[4.639s]         ********************************************************************************
+[4.639s] 
+[4.639s] !!
+[4.639s]   self.initialize_options()
+[4.643s] running install_lib
+[4.664s] running install_data
+[4.683s] running install_egg_info
+[4.704s] removing '/home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto-0.0.0-py3.10.egg-info' (and everything under it)
+[4.704s] Copying ../../build/makoto/makoto.egg-info to /home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto-0.0.0-py3.10.egg-info
+[4.704s] running install_scripts
+[4.875s] Installing pick__place script to /home/inouemakoto/interbotix_ws/install/makoto/lib/makoto
+[4.876s] writing list of installed files to '/home/inouemakoto/interbotix_ws/build/makoto/install.log'
+[5.740s] Invoked command in '/home/inouemakoto/interbotix_ws/src/makoto' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/makoto/prefix_override:/home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/makoto build --build-base /home/inouemakoto/interbotix_ws/build/makoto/build install --record /home/inouemakoto/interbotix_ws/build/makoto/install.log --single-version-externally-managed

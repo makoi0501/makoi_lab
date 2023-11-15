@@ -1,0 +1,33 @@
+[1.154s] Invoking command in '/home/inouemakoto/interbotix_ws/build/image_geometry': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/vision_opencv/image_geometry -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/image_geometry
+[2.418s] -- The C compiler identification is GNU 11.4.0
+[2.418s] -- The CXX compiler identification is GNU 11.4.0
+[2.419s] -- Detecting C compiler ABI info
+[2.426s] -- Detecting C compiler ABI info - done
+[2.427s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.427s] -- Detecting C compile features
+[2.427s] -- Detecting C compile features - done
+[2.427s] -- Detecting CXX compiler ABI info
+[2.427s] -- Detecting CXX compiler ABI info - done
+[2.427s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.427s] -- Detecting CXX compile features
+[2.427s] -- Detecting CXX compile features - done
+[2.428s] -- Found ament_cmake_python: 1.3.5 (/opt/ros/humble/share/ament_cmake_python/cmake)
+[2.428s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.518s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[2.653s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.041s] -- Found OpenCV: /usr (found version "4.5.4") found components: calib3d core highgui imgproc 
+[3.059s] -- Found sensor_msgs: 4.2.3 (/opt/ros/humble/share/sensor_msgs/cmake)
+[3.236s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.260s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.297s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.361s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.457s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.947s] -- Found gtest sources under '/opt/ros/humble/src/gtest_vendor': C++ tests using 'Google Test' will be built
+[3.950s] -- Looking for pthread.h
+[4.184s] -- Looking for pthread.h - found
+[4.187s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.364s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.365s] -- Found Threads: TRUE  
+[4.476s] -- Configuring done
+[4.487s] -- Generating done
+[4.489s] -- Build files have been written to: /home/inouemakoto/interbotix_ws/build/image_geometry

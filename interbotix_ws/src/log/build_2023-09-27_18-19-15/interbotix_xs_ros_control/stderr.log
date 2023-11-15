@@ -1,0 +1,6 @@
+gmake[2]: *** Deleting file 'test_load_xs_hardware_interface'
+gmake[2]: *** [CMakeFiles/interbotix_xs_ros_control.dir/build.make:76: CMakeFiles/interbotix_xs_ros_control.dir/src/xs_hardware_interface.cpp.o] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:176: CMakeFiles/interbotix_xs_ros_control.dir/all] Interrupt
+gmake[2]: *** [CMakeFiles/test_load_xs_hardware_interface.dir/build.make:291: test_load_xs_hardware_interface] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:203: CMakeFiles/test_load_xs_hardware_interface.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

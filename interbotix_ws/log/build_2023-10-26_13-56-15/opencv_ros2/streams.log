@@ -1,0 +1,57 @@
+[2.902s] Invoking command in '/home/inouemakoto/interbotix_ws/src/chapter5/opencv_ros2': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/opencv_ros2/prefix_override:/home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/opencv_ros2 build --build-base /home/inouemakoto/interbotix_ws/build/opencv_ros2/build install --record /home/inouemakoto/interbotix_ws/build/opencv_ros2/install.log --install-scripts $base/lib/opencv_ros2 --single-version-externally-managed
+[3.024s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/dist.py:498: SetuptoolsDeprecationWarning: Invalid dash-separated options
+[3.024s] !!
+[3.024s] 
+[3.024s]         ********************************************************************************
+[3.024s]         Usage of dash-separated 'script-dir' will not be supported in future
+[3.024s]         versions. Please use the underscore name 'script_dir' instead.
+[3.024s] 
+[3.024s]         This deprecation is overdue, please update your project and remove deprecated
+[3.025s]         calls to avoid build errors in the future.
+[3.025s] 
+[3.025s]         See https://setuptools.pypa.io/en/latest/userguide/declarative_config.html for details.
+[3.025s]         ********************************************************************************
+[3.025s] 
+[3.025s] !!
+[3.025s]   opt = self.warn_dash_deprecation(opt, section)
+[3.120s] running egg_info
+[3.135s] writing ../../../build/opencv_ros2/opencv_ros2.egg-info/PKG-INFO
+[3.136s] writing dependency_links to ../../../build/opencv_ros2/opencv_ros2.egg-info/dependency_links.txt
+[3.136s] writing entry points to ../../../build/opencv_ros2/opencv_ros2.egg-info/entry_points.txt
+[3.136s] writing requirements to ../../../build/opencv_ros2/opencv_ros2.egg-info/requires.txt
+[3.136s] writing top-level names to ../../../build/opencv_ros2/opencv_ros2.egg-info/top_level.txt
+[3.167s] reading manifest file '../../../build/opencv_ros2/opencv_ros2.egg-info/SOURCES.txt'
+[3.167s] adding license file 'LICENSE'
+[3.168s] writing manifest file '../../../build/opencv_ros2/opencv_ros2.egg-info/SOURCES.txt'
+[3.168s] running build
+[3.168s] running build_py
+[3.168s] running install
+[3.168s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[3.168s] !!
+[3.168s] 
+[3.168s]         ********************************************************************************
+[3.168s]         Please avoid running ``setup.py`` directly.
+[3.168s]         Instead, use pypa/build, pypa/installer or other
+[3.169s]         standards-based tools.
+[3.169s] 
+[3.169s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[3.169s]         ********************************************************************************
+[3.169s] 
+[3.169s] !!
+[3.169s]   self.initialize_options()
+[3.173s] running install_lib
+[3.189s] running install_data
+[3.204s] running install_egg_info
+[3.220s] removing '/home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/python3.10/site-packages/opencv_ros2-1.0.0-py3.10.egg-info' (and everything under it)
+[3.221s] Copying ../../../build/opencv_ros2/opencv_ros2.egg-info to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/python3.10/site-packages/opencv_ros2-1.0.0-py3.10.egg-info
+[3.221s] running install_scripts
+[3.362s] Installing aruco_node_tf script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[3.362s] Installing canny_edge_detection script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[3.362s] Installing challenge5_1_say_hello script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[3.362s] Installing challenge5_2_cup_direction script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[3.362s] Installing face_detection script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[3.362s] Installing imgproc_opencv_ros script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[3.362s] Installing qrcode_detector script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[3.362s] Installing quiz5_1_smile_detection script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[3.363s] writing list of installed files to '/home/inouemakoto/interbotix_ws/build/opencv_ros2/install.log'
+[3.380s] Invoked command in '/home/inouemakoto/interbotix_ws/src/chapter5/opencv_ros2' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/opencv_ros2/prefix_override:/home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/opencv_ros2 build --build-base /home/inouemakoto/interbotix_ws/build/opencv_ros2/build install --record /home/inouemakoto/interbotix_ws/build/opencv_ros2/install.log --install-scripts $base/lib/opencv_ros2 --single-version-externally-managed

@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/inouemakoto/interbotix_ws/build/moveit_interbotix_test1/moveit_interbotix_test" "TARGETS" "moveit_interbotix_test" "DESTINATION" "lib/moveit_interbotix_test1")

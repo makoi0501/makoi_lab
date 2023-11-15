@@ -1,0 +1,3 @@
+[console_scripts]
+camera_imu = camera.camera_imu:main
+

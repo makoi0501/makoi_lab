@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "/home/inouemakoto/interbotix_ws/build/realsense2_camera_msgs/ament_cmake_python/realsense2_camera_msgs/setup.py", line 1, in <module>
+gmake[1]: *** [CMakeFiles/Makefile2:186: CMakeFiles/realsense2_camera_msgs.dir/all] Interrupt
+    from setuptools import find_packages
+  File "/home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/__init__.py", line 16, in <module>
+    import setuptools.version
+  File "/home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/version.py", line 1, in <module>
+    import pkg_resources
+  File "/home/inouemakoto/.local/lib/python3.10/site-packages/pkg_resources/__init__.py", line 30, in <module>
+    import platform
+  File "/usr/lib/python3.10/platform.py", line 768, in <module>
+    collections.namedtuple(
+  File "/usr/lib/python3.10/collections/__init__.py", line 397, in namedtuple
+    field_names = tuple(map(_sys.intern, field_names))
+KeyboardInterrupt
+gmake[2]: *** [CMakeFiles/ament_cmake_python_build_realsense2_camera_msgs_egg.dir/build.make:70: CMakeFiles/ament_cmake_python_build_realsense2_camera_msgs_egg] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:447: CMakeFiles/ament_cmake_python_build_realsense2_camera_msgs_egg.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

@@ -1,0 +1,9 @@
+[ 10%] Built target interbotix_perception_msgs__rosidl_generator_c
+[ 10%] Built target ament_cmake_python_copy_interbotix_perception_msgs
+[ 12%] Built target interbotix_perception_msgs__cpp
+[ 23%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_c
+[ 34%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_c
+[ 45%] Built target interbotix_perception_msgs__rosidl_typesupport_c
+[ 56%] Built target interbotix_perception_msgs__rosidl_typesupport_cpp
+[ 67%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_cpp
+[ 78%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp

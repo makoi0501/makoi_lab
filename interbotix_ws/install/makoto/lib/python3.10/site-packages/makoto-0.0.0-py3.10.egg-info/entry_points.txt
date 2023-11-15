@@ -1,0 +1,3 @@
+[console_scripts]
+pick__place = makoto.pick__place:main
+

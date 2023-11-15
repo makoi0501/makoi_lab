@@ -1,0 +1,7 @@
+[console_scripts]
+camera_imu = moveit_service.camera_imu:main
+interbotix_gripper = moveit_service.interbotix_gripper:main
+moveit_order = moveit_service.moveit_order:main
+target_server = moveit_service.target_server:main
+test_server = moveit_service.test_server:main
+

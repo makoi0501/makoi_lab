@@ -1,0 +1,53 @@
+[1.216s] Invoking command in '/home/inouemakoto/interbotix_ws/build/image_geometry': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/image_geometry -- -j20 -l20
+[2.406s] [ 22%] Built target gtest
+[2.406s] [ 44%] Built target gtest_main
+[2.406s] [ 77%] Built target image_geometry
+[2.406s] [ 77%] Built target ament_cmake_python_copy_image_geometry
+[2.406s] [100%] Built target image_geometry-utest
+[2.406s] running egg_info
+[2.406s] writing image_geometry.egg-info/PKG-INFO
+[2.407s] writing dependency_links to image_geometry.egg-info/dependency_links.txt
+[2.407s] writing top-level names to image_geometry.egg-info/top_level.txt
+[2.407s] reading manifest file 'image_geometry.egg-info/SOURCES.txt'
+[2.407s] writing manifest file 'image_geometry.egg-info/SOURCES.txt'
+[2.407s] [100%] Built target ament_cmake_python_build_image_geometry_egg
+[2.418s] Invoked command in '/home/inouemakoto/interbotix_ws/build/image_geometry' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/image_geometry -- -j20 -l20
+[2.933s] Invoking command in '/home/inouemakoto/interbotix_ws/build/image_geometry': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/image_geometry
+[3.131s] -- Install configuration: ""
+[3.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/environment/pythonpath.sh
+[3.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/environment/pythonpath.dsv
+[3.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/local/lib/python3.10/dist-packages/image_geometry-3.2.1-py3.10.egg-info
+[3.131s] -- Installing: /home/inouemakoto/interbotix_ws/install/image_geometry/local/lib/python3.10/dist-packages/image_geometry-3.2.1-py3.10.egg-info/top_level.txt
+[3.131s] -- Installing: /home/inouemakoto/interbotix_ws/install/image_geometry/local/lib/python3.10/dist-packages/image_geometry-3.2.1-py3.10.egg-info/dependency_links.txt
+[3.131s] -- Installing: /home/inouemakoto/interbotix_ws/install/image_geometry/local/lib/python3.10/dist-packages/image_geometry-3.2.1-py3.10.egg-info/SOURCES.txt
+[3.131s] -- Installing: /home/inouemakoto/interbotix_ws/install/image_geometry/local/lib/python3.10/dist-packages/image_geometry-3.2.1-py3.10.egg-info/PKG-INFO
+[3.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/local/lib/python3.10/dist-packages/image_geometry
+[3.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/local/lib/python3.10/dist-packages/image_geometry/cameramodels.py
+[3.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/local/lib/python3.10/dist-packages/image_geometry/__init__.py
+[3.131s] Listing '/home/inouemakoto/interbotix_ws/install/image_geometry/local/lib/python3.10/dist-packages/image_geometry'...
+[3.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/include/image_geometry
+[3.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/include/image_geometry/image_geometry
+[3.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/include/image_geometry/image_geometry/visibility_control.hpp
+[3.131s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/include/image_geometry/image_geometry/stereo_camera_model.h
+[3.132s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/include/image_geometry/image_geometry/pinhole_camera_model.h
+[3.132s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/lib/libimage_geometry.so
+[3.132s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/ament_index/resource_index/package_run_dependencies/image_geometry
+[3.132s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/ament_index/resource_index/parent_prefix_path/image_geometry
+[3.132s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/environment/ament_prefix_path.sh
+[3.132s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/environment/ament_prefix_path.dsv
+[3.132s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/environment/path.sh
+[3.132s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/environment/path.dsv
+[3.132s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/local_setup.bash
+[3.132s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/local_setup.sh
+[3.132s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/local_setup.zsh
+[3.132s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/local_setup.dsv
+[3.132s] -- Installing: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/package.dsv
+[3.133s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/ament_index/resource_index/packages/image_geometry
+[3.133s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/cmake/export_image_geometryExport.cmake
+[3.133s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/cmake/export_image_geometryExport-noconfig.cmake
+[3.133s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/cmake/ament_cmake_export_targets-extras.cmake
+[3.133s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.133s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/cmake/image_geometryConfig.cmake
+[3.133s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/cmake/image_geometryConfig-version.cmake
+[3.133s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/image_geometry/share/image_geometry/package.xml
+[3.681s] Invoked command in '/home/inouemakoto/interbotix_ws/build/image_geometry' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/image_geometry

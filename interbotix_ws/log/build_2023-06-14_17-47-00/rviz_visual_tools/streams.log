@@ -1,0 +1,28 @@
+[1.309s] Invoking command in '/home/inouemakoto/interbotix_ws/build/rviz_visual_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/rviz_visual_tools -- -j20 -l20
+[1.692s] [  2%] [34m[1mAutomatic MOC for target rviz_visual_tools_remote_control[0m
+[1.713s] [  5%] [34m[1mAutomatic MOC for target rviz_visual_tools_gui[0m
+[1.726s] [  7%] [34m[1mAutomatic MOC for target gtest_main[0m
+[1.740s] [ 10%] [34m[1mAutomatic MOC for target gtest[0m
+[1.940s] [ 10%] Built target gtest_autogen
+[1.941s] [ 10%] Built target gtest_main_autogen
+[1.971s] [ 10%] Built target rviz_visual_tools_remote_control_autogen
+[1.974s] [ 10%] Built target rviz_visual_tools_gui_autogen
+[2.108s] [ 17%] Built target gtest_main
+[2.153s] [ 25%] Built target gtest
+[2.190s] [ 33%] Built target rviz_visual_tools_remote_control
+[2.236s] [ 46%] Built target rviz_visual_tools_gui
+[2.339s] [ 48%] [34m[1mAutomatic MOC for target rviz_visual_tools[0m
+[2.482s] [ 48%] Built target rviz_visual_tools_autogen
+[2.659s] [ 58%] Built target rviz_visual_tools
+[2.767s] [ 66%] [34m[1mAutomatic MOC for target rviz_visual_tools_rvt_test[0m
+[2.768s] [ 66%] [34m[1mAutomatic MOC for target rviz_visual_tools_imarker_simple[0m
+[2.768s] [ 66%] [34m[1mAutomatic MOC for target rviz_visual_tools_demo[0m
+[2.863s] [ 66%] Built target rviz_visual_tools_demo_autogen
+[2.864s] [ 66%] Built target rviz_visual_tools_imarker_simple_autogen
+[2.864s] [ 66%] Built target rviz_visual_tools_rvt_test_autogen
+[2.994s] [ 82%] Built target rviz_visual_tools_demo
+[2.994s] [ 82%] Built target rviz_visual_tools_rvt_test
+[2.997s] [ 89%] Built target rviz_visual_tools_imarker_simple
+[3.102s] [ 92%] [34m[1mAutomatic MOC for target rviz_visual_tools_imarker_simple_demo[0m
+[3.224s] [ 92%] Built target rviz_visual_tools_imarker_simple_demo_autogen
+[3.350s] [100%] Built target rviz_visual_tools_imarker_simple_demo

@@ -1,0 +1,8 @@
+source;share/hello_moveit2_interbotix/hook/cmake_prefix_path.ps1
+source;share/hello_moveit2_interbotix/hook/cmake_prefix_path.dsv
+source;share/hello_moveit2_interbotix/hook/cmake_prefix_path.sh
+source;share/hello_moveit2_interbotix/local_setup.bash
+source;share/hello_moveit2_interbotix/local_setup.dsv
+source;share/hello_moveit2_interbotix/local_setup.ps1
+source;share/hello_moveit2_interbotix/local_setup.sh
+source;share/hello_moveit2_interbotix/local_setup.zsh

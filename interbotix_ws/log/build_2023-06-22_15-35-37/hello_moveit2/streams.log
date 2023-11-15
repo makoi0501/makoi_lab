@@ -1,0 +1,32 @@
+[0.018s] Invoking command in '/home/inouemakoto/interbotix_ws/build/hello_moveit2': /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/hello_moveit2 -- -j20 -l20
+[0.043s] -- Found moveit_common: 2.5.4 (/home/inouemakoto/ws_moveit2/install/moveit_common/share/moveit_common/cmake)
+[0.043s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.201s] Error parsing '/home/inouemakoto/interbotix_ws/src/hello_moveit2/package.xml':
+[0.235s] Traceback (most recent call last):
+[0.235s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 150, in <module>
+[0.235s]     main()
+[0.235s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 53, in main
+[0.235s]     raise e
+[0.235s]   File "/opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py", line 49, in main
+[0.235s]     package = parse_package_string(
+[0.235s]   File "/usr/lib/python3/dist-packages/catkin_pkg/package.py", line 786, in parse_package_string
+[0.236s]     raise InvalidPackage('Error(s):%s' % (''.join(['\n- %s' % e for e in errors])), filename)
+[0.236s] catkin_pkg.package.InvalidPackage: Error(s) in package '/home/inouemakoto/interbotix_ws/src/hello_moveit2/package.xml':
+[0.236s] Error(s):
+[0.236s] - The generic dependency on 'moveit_ros_planning_interface' is redundant with: build_depend, build_export_depend, exec_depend
+[0.245s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:95 (message):
+[0.245s]   execute_process(/usr/bin/python3.10
+[0.245s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/package_xml_2_cmake.py
+[0.245s]   /home/inouemakoto/interbotix_ws/src/hello_moveit2/package.xml
+[0.245s]   /home/inouemakoto/interbotix_ws/build/hello_moveit2/ament_cmake_core/package.cmake)
+[0.245s]   returned error code 1
+[0.245s] Call Stack (most recent call first):
+[0.246s]   /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:49 (_ament_package_xml)
+[0.246s]   /home/inouemakoto/ws_moveit2/install/moveit_common/share/moveit_common/cmake/moveit_package.cmake:33 (ament_package_xml)
+[0.246s]   CMakeLists.txt:9 (moveit_package)
+[0.246s] 
+[0.246s] [0m
+[0.246s] -- Configuring incomplete, errors occurred!
+[0.246s] See also "/home/inouemakoto/interbotix_ws/build/hello_moveit2/CMakeFiles/CMakeOutput.log".
+[0.248s] gmake: *** [Makefile:267: cmake_check_build_system] Error 1
+[0.249s] Invoked command in '/home/inouemakoto/interbotix_ws/build/hello_moveit2' returned '2': /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/hello_moveit2 -- -j20 -l20

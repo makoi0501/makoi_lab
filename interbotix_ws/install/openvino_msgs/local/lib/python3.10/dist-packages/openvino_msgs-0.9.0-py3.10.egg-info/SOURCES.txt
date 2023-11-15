@@ -1,0 +1,12 @@
+setup.py
+openvino_msgs/__init__.py
+openvino_msgs.egg-info/PKG-INFO
+openvino_msgs.egg-info/SOURCES.txt
+openvino_msgs.egg-info/dependency_links.txt
+openvino_msgs.egg-info/top_level.txt
+openvino_msgs/msg/__init__.py
+openvino_msgs/msg/_connection.py
+openvino_msgs/msg/_pipeline.py
+openvino_msgs/msg/_pipeline_request.py
+openvino_msgs/srv/__init__.py
+openvino_msgs/srv/_pipeline_srv.py

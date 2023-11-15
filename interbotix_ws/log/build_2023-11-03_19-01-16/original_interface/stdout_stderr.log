@@ -1,0 +1,29 @@
+[  9%] Built target original_interface__rosidl_generator_c
+[ 12%] Built target original_interface__cpp
+[ 12%] Built target ament_cmake_python_copy_original_interface
+[ 22%] Built target original_interface__rosidl_typesupport_fastrtps_cpp
+[ 32%] Built target original_interface__rosidl_typesupport_c
+[ 41%] Built target original_interface__rosidl_typesupport_fastrtps_c
+[ 51%] Built target original_interface__rosidl_typesupport_cpp
+[ 61%] Built target original_interface__rosidl_typesupport_introspection_c
+[ 70%] Built target original_interface__rosidl_typesupport_introspection_cpp
+Fatal Python error: init_import_site: Failed to import the site module
+Python runtime state: initialized
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/site.py", line 636, in <module>
+gmake[2]: *** [CMakeFiles/original_interface.dir/build.make:86: CMakeFiles/original_interface.dir/depend] Interrupt
+    main()
+  File "/usr/lib/python3.10/site.py", line 629, in main
+    execsitecustomize()
+  File "/usr/lib/python3.10/site.py", line 568, in execsitecustomize
+gmake[1]: *** [CMakeFiles/Makefile2:186: CMakeFiles/original_interface.dir/all] Interrupt
+    import sitecustomize
+  File "/usr/lib/python3.10/sitecustomize.py", line 3, in <module>
+    import apport_python_hook
+  File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1002, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 937, in _find_spec
+KeyboardInterrupt
+gmake[2]: *** [CMakeFiles/ament_cmake_python_build_original_interface_egg.dir/build.make:70: CMakeFiles/ament_cmake_python_build_original_interface_egg] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:447: CMakeFiles/ament_cmake_python_build_original_interface_egg.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

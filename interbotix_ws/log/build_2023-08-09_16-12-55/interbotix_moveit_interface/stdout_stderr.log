@@ -1,0 +1,18 @@
+[35m[1mConsolidate compiler generated dependencies of target moveit_interface[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/moveit_interface.dir/src/moveit_interface.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/moveit_interface.dir/src/moveit_interface_obj.cpp.o[0m
+In file included from [01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:29[m[K:
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include/interbotix_moveit_interface/moveit_interface_obj.hpp:155:67:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ at end of member declaration
+  155 |   std::shared_ptr<moveit::planning_interface::MoveGroupInterface> [01;31m[Kmove_group_gripper[m[K
+      |                                                                   [01;31m[K^~~~~~~~~~~~~~~~~~[m[K
+      |                                                                                     [32m[K;[m[K
+In file included from [01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface.cpp:29[m[K:
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include/interbotix_moveit_interface/moveit_interface_obj.hpp:155:67:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ at end of member declaration
+  155 | :shared_ptr<moveit::planning_interface::MoveGroupInterface> [01;31m[Kmove_group_gripper[m[K
+      |                                                             [01;31m[K^~~~~~~~~~~~~~~~~~[m[K
+      |                                                                               [32m[K;[m[K
+gmake[2]: *** [CMakeFiles/moveit_interface.dir/build.make:76: CMakeFiles/moveit_interface.dir/src/moveit_interface.cpp.o] Error 1
+gmake[2]: *** Waiting for unfinished jobs....
+gmake[2]: *** [CMakeFiles/moveit_interface.dir/build.make:90: CMakeFiles/moveit_interface.dir/src/moveit_interface_obj.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/moveit_interface.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

@@ -1,0 +1,42 @@
+[0.265s] Invoking command in '/home/inouemakoto/interbotix_ws/build/vx300s_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/vx300s_moveit_config -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/vx300s_moveit_config
+[0.361s] -- The C compiler identification is GNU 11.3.0
+[0.444s] -- The CXX compiler identification is GNU 11.3.0
+[0.452s] -- Detecting C compiler ABI info
+[0.524s] -- Detecting C compiler ABI info - done
+[0.534s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.535s] -- Detecting C compile features
+[0.535s] -- Detecting C compile features - done
+[0.539s] -- Detecting CXX compiler ABI info
+[0.630s] -- Detecting CXX compiler ABI info - done
+[0.643s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.643s] -- Detecting CXX compile features
+[0.643s] -- Detecting CXX compile features - done
+[0.654s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.904s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[1.133s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.280s] -- Added test 'lint_cmake' to check CMake code style
+[1.285s] -- Added test 'xmllint' to check XML markup files
+[1.291s] -- Configuring done
+[1.295s] -- Generating done
+[1.296s] -- Build files have been written to: /home/inouemakoto/interbotix_ws/build/vx300s_moveit_config
+[1.301s] Invoked command in '/home/inouemakoto/interbotix_ws/build/vx300s_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/vx300s_moveit_config -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/vx300s_moveit_config
+[1.302s] Invoking command in '/home/inouemakoto/interbotix_ws/build/vx300s_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/vx300s_moveit_config -- -j20 -l20
+[1.356s] Invoked command in '/home/inouemakoto/interbotix_ws/build/vx300s_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/vx300s_moveit_config -- -j20 -l20
+[1.396s] Invoking command in '/home/inouemakoto/interbotix_ws/build/vx300s_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/vx300s_moveit_config
+[1.405s] -- Install configuration: ""
+[1.405s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/ament_index/resource_index/package_run_dependencies/vx300s_moveit_config
+[1.405s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/ament_index/resource_index/parent_prefix_path/vx300s_moveit_config
+[1.405s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/environment/ament_prefix_path.sh
+[1.406s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/environment/ament_prefix_path.dsv
+[1.406s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/environment/path.sh
+[1.406s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/environment/path.dsv
+[1.406s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/local_setup.bash
+[1.406s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/local_setup.sh
+[1.406s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/local_setup.zsh
+[1.406s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/local_setup.dsv
+[1.406s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/package.dsv
+[1.406s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/ament_index/resource_index/packages/vx300s_moveit_config
+[1.406s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/cmake/vx300s_moveit_configConfig.cmake
+[1.407s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/cmake/vx300s_moveit_configConfig-version.cmake
+[1.407s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/package.xml
+[1.411s] Invoked command in '/home/inouemakoto/interbotix_ws/build/vx300s_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/vx300s_moveit_config

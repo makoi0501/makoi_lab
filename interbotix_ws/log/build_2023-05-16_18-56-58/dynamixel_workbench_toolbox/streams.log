@@ -1,0 +1,22 @@
+[0.041s] Invoking command in '/home/inouemakoto/interbotix_ws/build/dynamixel_workbench_toolbox': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/interbotix_ros_core/interbotix_ros_xseries/dynamixel_workbench_toolbox -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/dynamixel_workbench_toolbox
+[0.279s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.279s] -- Found dynamixel_sdk: 3.7.60 (/home/inouemakoto/robotis_ws/install/dynamixel_sdk/share/dynamixel_sdk/cmake)
+[0.280s] -- Found rclcpp: 16.0.4 (/opt/ros/humble/share/rclcpp/cmake)
+[0.280s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.280s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.280s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.280s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.280s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.289s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.291s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.377s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.403s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.447s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.455s] -- Looking for pthread.h
+[0.505s] -- Looking for pthread.h - found
+[0.505s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.561s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.562s] -- Found Threads: TRUE  
+[0.866s] -- Configuring done
+[0.873s] -- Generating done
+[0.874s] -- Build files have been written to: /home/inouemakoto/interbotix_ws/build/dynamixel_workbench_toolbox

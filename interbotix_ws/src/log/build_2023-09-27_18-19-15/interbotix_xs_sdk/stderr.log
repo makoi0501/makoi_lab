@@ -1,0 +1,3 @@
+gmake[2]: *** [CMakeFiles/xs_sdk.dir/build.make:90: CMakeFiles/xs_sdk.dir/src/xs_sdk_obj.cpp.o] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/xs_sdk.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

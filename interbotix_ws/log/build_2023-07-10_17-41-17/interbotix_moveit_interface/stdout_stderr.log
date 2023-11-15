@@ -1,0 +1,18 @@
+[35m[1mConsolidate compiler generated dependencies of target moveit_interface[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/moveit_interface.dir/src/moveit_interface_obj.cpp.o[0m
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:[m[K In member function ‘[01m[Kbool interbotix::InterbotixMoveItInterface::moveit_plan_ee_pose(geometry_msgs::msg::Pose)[m[K’:
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:124:21:[m[K [01;31m[Kerror: [m[Kassignment of member ‘[01m[Kgeometry_msgs::msg::Quaternion_<std::allocator<void> >::w[m[K’ in read-only object
+  124 |   [01;31m[Kpose.orientation.w=1.0[m[K;
+      |   [01;31m[K~~~~~~~~~~~~~~~~~~^~~~[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:125:18:[m[K [01;31m[Kerror: [m[Kassignment of member ‘[01m[Kgeometry_msgs::msg::Point_<std::allocator<void> >::x[m[K’ in read-only object
+  125 |   [01;31m[Kpose.position.x=0.28[m[K;
+      |   [01;31m[K~~~~~~~~~~~~~~~^~~~~[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:126:18:[m[K [01;31m[Kerror: [m[Kassignment of member ‘[01m[Kgeometry_msgs::msg::Point_<std::allocator<void> >::y[m[K’ in read-only object
+  126 |   [01;31m[Kpose.position.y=-0.2[m[K;
+      |   [01;31m[K~~~~~~~~~~~~~~~^~~~~[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:127:18:[m[K [01;31m[Kerror: [m[Kassignment of member ‘[01m[Kgeometry_msgs::msg::Point_<std::allocator<void> >::z[m[K’ in read-only object
+  127 |   [01;31m[Kpose.position.z=0.5[m[K;
+      |   [01;31m[K~~~~~~~~~~~~~~~^~~~[m[K
+gmake[2]: *** [CMakeFiles/moveit_interface.dir/build.make:90: CMakeFiles/moveit_interface.dir/src/moveit_interface_obj.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/moveit_interface.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

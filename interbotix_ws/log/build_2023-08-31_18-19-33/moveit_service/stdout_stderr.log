@@ -1,0 +1,24 @@
+running develop
+running egg_info
+writing ../../build/moveit_service/moveit_service.egg-info/PKG-INFO
+writing dependency_links to ../../build/moveit_service/moveit_service.egg-info/dependency_links.txt
+writing entry points to ../../build/moveit_service/moveit_service.egg-info/entry_points.txt
+writing requirements to ../../build/moveit_service/moveit_service.egg-info/requires.txt
+writing top-level names to ../../build/moveit_service/moveit_service.egg-info/top_level.txt
+reading manifest file '../../build/moveit_service/moveit_service.egg-info/SOURCES.txt'
+writing manifest file '../../build/moveit_service/moveit_service.egg-info/SOURCES.txt'
+running build
+running build_py
+copying moveit_service/interbotix_gripper.py -> /home/inouemakoto/interbotix_ws/build/moveit_service/build/lib/moveit_service
+running install
+running install_lib
+copying /home/inouemakoto/interbotix_ws/build/moveit_service/build/lib/moveit_service/interbotix_gripper.py -> /home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service
+byte-compiling /home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service/interbotix_gripper.py to interbotix_gripper.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/moveit_service/moveit_service.egg-info to /home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service-0.0.0-py3.10.egg-info
+running install_scripts
+Installing interbotix_gripper script to /home/inouemakoto/interbotix_ws/install/moveit_service/lib/moveit_service
+Installing moveit_order script to /home/inouemakoto/interbotix_ws/install/moveit_service/lib/moveit_service
+writing list of installed files to '/home/inouemakoto/interbotix_ws/build/moveit_service/install.log'

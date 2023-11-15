@@ -1,0 +1,5 @@
+[console_scripts]
+landmark_finder = interbotix_landmark_modules.landmark_finder:main
+landmark_manager = interbotix_landmark_modules.landmark_manager:main
+tf_map_to_landmark = interbotix_landmark_modules.tf_map_to_landmark:main
+

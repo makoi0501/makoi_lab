@@ -1,0 +1,1 @@
+Invoking command in '/home/inouemakoto/interbotix_ws/build/moveit_visual_tools': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/moveit_visual_tools -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/moveit_visual_tools

@@ -1,0 +1,28 @@
+[3.027s] Invoking command in '/home/inouemakoto/interbotix_ws/build/realsense2_camera_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/home/inouemakoto/install/camera:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/realsense2_camera_msgs -- -j20 -l20
+[4.430s] [  1%] Built target realsense2_camera_msgs__cpp
+[4.430s] [  1%] Built target ament_cmake_python_copy_realsense2_camera_msgs
+[4.431s] [ 12%] Built target realsense2_camera_msgs__rosidl_generator_c
+[4.431s] [ 23%] Built target realsense2_camera_msgs__rosidl_typesupport_cpp
+[4.432s] [ 34%] Built target realsense2_camera_msgs__rosidl_typesupport_fastrtps_cpp
+[4.432s] [ 46%] Built target realsense2_camera_msgs__rosidl_typesupport_introspection_cpp
+[4.433s] [ 57%] Built target realsense2_camera_msgs__rosidl_typesupport_c
+[4.433s] [ 68%] Built target realsense2_camera_msgs__rosidl_typesupport_fastrtps_c
+[4.433s] [ 79%] Built target realsense2_camera_msgs__rosidl_typesupport_introspection_c
+[4.433s] Traceback (most recent call last):
+[4.433s]   File "/home/inouemakoto/interbotix_ws/build/realsense2_camera_msgs/ament_cmake_python/realsense2_camera_msgs/setup.py", line 1, in <module>
+[4.433s] gmake[1]: *** [CMakeFiles/Makefile2:186: CMakeFiles/realsense2_camera_msgs.dir/all] Interrupt
+[4.433s]     from setuptools import find_packages
+[4.433s]   File "/home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/__init__.py", line 16, in <module>
+[4.433s]     import setuptools.version
+[4.434s]   File "/home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/version.py", line 1, in <module>
+[4.434s]     import pkg_resources
+[4.434s]   File "/home/inouemakoto/.local/lib/python3.10/site-packages/pkg_resources/__init__.py", line 30, in <module>
+[4.434s]     import platform
+[4.434s]   File "/usr/lib/python3.10/platform.py", line 768, in <module>
+[4.434s]     collections.namedtuple(
+[4.434s]   File "/usr/lib/python3.10/collections/__init__.py", line 397, in namedtuple
+[4.434s]     field_names = tuple(map(_sys.intern, field_names))
+[4.434s] KeyboardInterrupt
+[4.434s] gmake[2]: *** [CMakeFiles/ament_cmake_python_build_realsense2_camera_msgs_egg.dir/build.make:70: CMakeFiles/ament_cmake_python_build_realsense2_camera_msgs_egg] Interrupt
+[4.434s] gmake[1]: *** [CMakeFiles/Makefile2:447: CMakeFiles/ament_cmake_python_build_realsense2_camera_msgs_egg.dir/all] Interrupt
+[4.434s] gmake: *** [Makefile:146: all] Interrupt

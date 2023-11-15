@@ -1,0 +1,5 @@
+  File "/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service/interbotix_gripper.py", line 5
+    from import
+         ^^^^^^
+SyntaxError: invalid syntax
+

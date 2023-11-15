@@ -1,0 +1,1 @@
+Invoking command in '/home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools -- -j20 -l20

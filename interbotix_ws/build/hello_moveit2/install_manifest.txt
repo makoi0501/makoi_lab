@@ -1,0 +1,16 @@
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/lib/hello_moveit2/hello_moveit2
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/share/ament_index/resource_index/package_run_dependencies/hello_moveit2
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/share/ament_index/resource_index/parent_prefix_path/hello_moveit2
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/environment/ament_prefix_path.sh
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/environment/ament_prefix_path.dsv
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/environment/path.sh
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/environment/path.dsv
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/local_setup.bash
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/local_setup.sh
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/local_setup.zsh
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/local_setup.dsv
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/package.dsv
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/share/ament_index/resource_index/packages/hello_moveit2
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/cmake/hello_moveit2Config.cmake
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/cmake/hello_moveit2Config-version.cmake
+/home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/package.xml

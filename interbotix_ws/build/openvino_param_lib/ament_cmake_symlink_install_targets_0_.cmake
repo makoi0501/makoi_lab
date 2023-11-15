@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/inouemakoto/interbotix_ws/build/openvino_param_lib/libopenvino_param_lib.so" "TARGETS" "openvino_param_lib" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

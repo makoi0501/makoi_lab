@@ -1,0 +1,83 @@
+[3.034s] Invoking command in '/home/inouemakoto/interbotix_ws/src/chapter5/yolov5_ros2': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/yolov5_ros2/prefix_override:/home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/yolov5_ros2 build --build-base /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build install --record /home/inouemakoto/interbotix_ws/build/yolov5_ros2/install.log --install-scripts $base/lib/yolov5_ros2 --single-version-externally-managed
+[3.274s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/dist.py:498: SetuptoolsDeprecationWarning: Invalid dash-separated options
+[3.274s] !!
+[3.274s] 
+[3.274s]         ********************************************************************************
+[3.274s]         Usage of dash-separated 'script-dir' will not be supported in future
+[3.274s]         versions. Please use the underscore name 'script_dir' instead.
+[3.274s] 
+[3.274s]         This deprecation is overdue, please update your project and remove deprecated
+[3.274s]         calls to avoid build errors in the future.
+[3.274s] 
+[3.274s]         See https://setuptools.pypa.io/en/latest/userguide/declarative_config.html for details.
+[3.274s]         ********************************************************************************
+[3.274s] 
+[3.274s] !!
+[3.274s]   opt = self.warn_dash_deprecation(opt, section)
+[3.274s] running egg_info
+[3.274s] creating ../../../build/yolov5_ros2/yolov5_ros2.egg-info
+[3.274s] writing ../../../build/yolov5_ros2/yolov5_ros2.egg-info/PKG-INFO
+[3.275s] writing dependency_links to ../../../build/yolov5_ros2/yolov5_ros2.egg-info/dependency_links.txt
+[3.275s] writing entry points to ../../../build/yolov5_ros2/yolov5_ros2.egg-info/entry_points.txt
+[3.275s] writing requirements to ../../../build/yolov5_ros2/yolov5_ros2.egg-info/requires.txt
+[3.275s] writing top-level names to ../../../build/yolov5_ros2/yolov5_ros2.egg-info/top_level.txt
+[3.275s] writing manifest file '../../../build/yolov5_ros2/yolov5_ros2.egg-info/SOURCES.txt'
+[3.284s] reading manifest file '../../../build/yolov5_ros2/yolov5_ros2.egg-info/SOURCES.txt'
+[3.284s] adding license file 'LICENSE'
+[3.285s] writing manifest file '../../../build/yolov5_ros2/yolov5_ros2.egg-info/SOURCES.txt'
+[3.285s] running build
+[3.285s] running build_py
+[3.285s] creating /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build
+[3.285s] creating /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build/lib
+[3.285s] creating /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build/lib/yolov5_ros2
+[3.285s] copying yolov5_ros2/object_detection_srv.py -> /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build/lib/yolov5_ros2
+[3.286s] copying yolov5_ros2/object_detection.py -> /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build/lib/yolov5_ros2
+[3.286s] copying yolov5_ros2/object_detection_tf.py -> /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build/lib/yolov5_ros2
+[3.286s] copying yolov5_ros2/detector.py -> /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build/lib/yolov5_ros2
+[3.286s] copying yolov5_ros2/detect.py -> /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build/lib/yolov5_ros2
+[3.286s] copying yolov5_ros2/__init__.py -> /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build/lib/yolov5_ros2
+[3.286s] running install
+[3.286s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[3.286s] !!
+[3.286s] 
+[3.287s]         ********************************************************************************
+[3.287s]         Please avoid running ``setup.py`` directly.
+[3.287s]         Instead, use pypa/build, pypa/installer or other
+[3.287s]         standards-based tools.
+[3.287s] 
+[3.287s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[3.287s]         ********************************************************************************
+[3.287s] 
+[3.287s] !!
+[3.287s]   self.initialize_options()
+[3.291s] running install_lib
+[3.305s] creating /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages/yolov5_ros2
+[3.305s] copying /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build/lib/yolov5_ros2/object_detection_srv.py -> /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages/yolov5_ros2
+[3.306s] copying /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build/lib/yolov5_ros2/object_detection.py -> /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages/yolov5_ros2
+[3.306s] copying /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build/lib/yolov5_ros2/object_detection_tf.py -> /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages/yolov5_ros2
+[3.306s] copying /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build/lib/yolov5_ros2/detector.py -> /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages/yolov5_ros2
+[3.306s] copying /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build/lib/yolov5_ros2/detect.py -> /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages/yolov5_ros2
+[3.306s] copying /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build/lib/yolov5_ros2/__init__.py -> /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages/yolov5_ros2
+[3.306s] byte-compiling /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages/yolov5_ros2/object_detection_srv.py to object_detection_srv.cpython-310.pyc
+[3.307s] byte-compiling /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages/yolov5_ros2/object_detection.py to object_detection.cpython-310.pyc
+[3.308s] byte-compiling /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages/yolov5_ros2/object_detection_tf.py to object_detection_tf.cpython-310.pyc
+[3.308s] byte-compiling /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages/yolov5_ros2/detector.py to detector.cpython-310.pyc
+[3.309s] byte-compiling /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages/yolov5_ros2/detect.py to detect.cpython-310.pyc
+[3.311s] byte-compiling /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages/yolov5_ros2/__init__.py to __init__.cpython-310.pyc
+[3.311s] running install_data
+[3.325s] creating /home/inouemakoto/interbotix_ws/install/yolov5_ros2/share/ament_index
+[3.325s] creating /home/inouemakoto/interbotix_ws/install/yolov5_ros2/share/ament_index/resource_index
+[3.325s] creating /home/inouemakoto/interbotix_ws/install/yolov5_ros2/share/ament_index/resource_index/packages
+[3.325s] copying resource/yolov5_ros2 -> /home/inouemakoto/interbotix_ws/install/yolov5_ros2/share/ament_index/resource_index/packages
+[3.326s] copying package.xml -> /home/inouemakoto/interbotix_ws/install/yolov5_ros2/share/yolov5_ros2
+[3.326s] creating /home/inouemakoto/interbotix_ws/install/yolov5_ros2/share/yolov5_ros2/launch
+[3.326s] running install_egg_info
+[3.341s] Copying ../../../build/yolov5_ros2/yolov5_ros2.egg-info to /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages/yolov5_ros2-1.0.0-py3.10.egg-info
+[3.341s] running install_scripts
+[3.477s] Installing detect script to /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/yolov5_ros2
+[3.478s] Installing detector script to /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/yolov5_ros2
+[3.478s] Installing object_detection script to /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/yolov5_ros2
+[3.478s] Installing object_detection_srv script to /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/yolov5_ros2
+[3.478s] Installing object_detection_tf script to /home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/yolov5_ros2
+[3.478s] writing list of installed files to '/home/inouemakoto/interbotix_ws/build/yolov5_ros2/install.log'
+[4.384s] Invoked command in '/home/inouemakoto/interbotix_ws/src/chapter5/yolov5_ros2' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/yolov5_ros2/prefix_override:/home/inouemakoto/interbotix_ws/install/yolov5_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/yolov5_ros2 build --build-base /home/inouemakoto/interbotix_ws/build/yolov5_ros2/build install --record /home/inouemakoto/interbotix_ws/build/yolov5_ros2/install.log --install-scripts $base/lib/yolov5_ros2 --single-version-externally-managed

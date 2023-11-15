@@ -1,0 +1,33 @@
+[1.906s] Invoking command in '/home/inouemakoto/interbotix_ws/build/apriltag_ros': /usr/bin/cmake /home/inouemakoto/interbotix_ws/apriltag_ros/apriltag_ros -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/apriltag_ros
+[2.621s] [31mCMake Error at CMakeLists.txt:6 (find_package):
+[2.621s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[2.622s]   asked CMake to find a package configuration file provided by "catkin", but
+[2.622s]   CMake did not find one.
+[2.622s] 
+[2.622s]   Could not find a package configuration file provided by "catkin" with any
+[2.622s]   of the following names:
+[2.622s] 
+[2.622s]     catkinConfig.cmake
+[2.623s]     catkin-config.cmake
+[2.623s] 
+[2.623s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[2.624s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[2.624s]   provides a separate development package or SDK, be sure it has been
+[2.624s]   installed.
+[2.624s] 
+[2.624s] [0m
+[2.624s] -- The C compiler identification is GNU 11.4.0
+[2.624s] -- The CXX compiler identification is GNU 11.4.0
+[2.624s] -- Detecting C compiler ABI info
+[2.625s] -- Detecting C compiler ABI info - done
+[2.625s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.625s] -- Detecting C compile features
+[2.625s] -- Detecting C compile features - done
+[2.625s] -- Detecting CXX compiler ABI info
+[2.626s] -- Detecting CXX compiler ABI info - done
+[2.626s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.626s] -- Detecting CXX compile features
+[2.626s] -- Detecting CXX compile features - done
+[2.626s] -- Configuring incomplete, errors occurred!
+[2.626s] See also "/home/inouemakoto/interbotix_ws/build/apriltag_ros/CMakeFiles/CMakeOutput.log".
+[2.665s] Invoked command in '/home/inouemakoto/interbotix_ws/build/apriltag_ros' returned '1': /usr/bin/cmake /home/inouemakoto/interbotix_ws/apriltag_ros/apriltag_ros -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/apriltag_ros

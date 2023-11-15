@@ -1,0 +1,2 @@
+Invoking command in '/home/inouemakoto/interbotix_ws/build/apriltag_ros': /usr/bin/cmake /home/inouemakoto/interbotix_ws/apriltag_ros/apriltag_ros -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/apriltag_ros
+Invoked command in '/home/inouemakoto/interbotix_ws/build/apriltag_ros' returned '1': /usr/bin/cmake /home/inouemakoto/interbotix_ws/apriltag_ros/apriltag_ros -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/apriltag_ros

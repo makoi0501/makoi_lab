@@ -1,0 +1,16 @@
+[  3%] Built target interbotix_moveit_interface_msgs__cpp
+[ 12%] Built target interbotix_moveit_interface_msgs__rosidl_generator_c
+[ 16%] [32mBuilding CXX object CMakeFiles/interbotix_moveit_interface_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/interbotix_moveit_interface_msgs/srv/detail/dds_fastrtps/move_it_plan__type_support.cpp.o[0m
+[ 19%] [32mBuilding CXX object CMakeFiles/interbotix_moveit_interface_msgs__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/interbotix_moveit_interface_msgs/srv/detail/move_it_plan__type_support.cpp.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/interbotix_moveit_interface_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/interbotix_moveit_interface_msgs/srv/move_it_plan__type_support.cpp.o[0m
+failed to create symbolic link '/home/inouemakoto/interbotix_ws/build/interbotix_moveit_interface_msgs/ament_cmake_python/interbotix_moveit_interface_msgs/interbotix_moveit_interface_msgs' because existing path cannot be removed: Is a directory
+gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_interbotix_moveit_interface_msgs.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_interbotix_moveit_interface_msgs] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:421: CMakeFiles/ament_cmake_python_symlink_interbotix_moveit_interface_msgs.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+[ 25%] [32m[1mLinking CXX shared library libinterbotix_moveit_interface_msgs__rosidl_typesupport_cpp.so[0m
+[ 29%] Built target interbotix_moveit_interface_msgs__rosidl_typesupport_cpp
+[ 32%] [32m[1mLinking CXX shared library libinterbotix_moveit_interface_msgs__rosidl_typesupport_introspection_cpp.so[0m
+[ 35%] [32m[1mLinking CXX shared library libinterbotix_moveit_interface_msgs__rosidl_typesupport_fastrtps_cpp.so[0m
+[ 38%] Built target interbotix_moveit_interface_msgs__rosidl_typesupport_introspection_cpp
+[ 41%] Built target interbotix_moveit_interface_msgs__rosidl_typesupport_fastrtps_cpp
+gmake: *** [Makefile:146: all] Error 2

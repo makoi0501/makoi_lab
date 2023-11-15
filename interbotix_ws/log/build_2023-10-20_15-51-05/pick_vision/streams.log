@@ -1,0 +1,45 @@
+[0.936s] Invoking command in '/home/inouemakoto/interbotix_ws/src/pick_vision': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/pick_vision/prefix_override:/home/inouemakoto/interbotix_ws/install/pick_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pick_vision build --build-base /home/inouemakoto/interbotix_ws/build/pick_vision/build install --record /home/inouemakoto/interbotix_ws/build/pick_vision/install.log --single-version-externally-managed
+[1.141s] running egg_info
+[1.141s] creating ../../build/pick_vision/pick_vision.egg-info
+[1.155s] writing ../../build/pick_vision/pick_vision.egg-info/PKG-INFO
+[1.155s] writing dependency_links to ../../build/pick_vision/pick_vision.egg-info/dependency_links.txt
+[1.156s] writing requirements to ../../build/pick_vision/pick_vision.egg-info/requires.txt
+[1.156s] writing top-level names to ../../build/pick_vision/pick_vision.egg-info/top_level.txt
+[1.156s] writing manifest file '../../build/pick_vision/pick_vision.egg-info/SOURCES.txt'
+[1.184s] reading manifest file '../../build/pick_vision/pick_vision.egg-info/SOURCES.txt'
+[1.185s] writing manifest file '../../build/pick_vision/pick_vision.egg-info/SOURCES.txt'
+[1.185s] running build
+[1.185s] running build_py
+[1.185s] creating /home/inouemakoto/interbotix_ws/build/pick_vision/build
+[1.185s] creating /home/inouemakoto/interbotix_ws/build/pick_vision/build/lib
+[1.185s] creating /home/inouemakoto/interbotix_ws/build/pick_vision/build/lib/pick_vision
+[1.185s] copying pick_vision/__init__.py -> /home/inouemakoto/interbotix_ws/build/pick_vision/build/lib/pick_vision
+[1.185s] running install
+[1.186s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[1.186s] !!
+[1.186s] 
+[1.186s]         ********************************************************************************
+[1.186s]         Please avoid running ``setup.py`` directly.
+[1.186s]         Instead, use pypa/build, pypa/installer or other
+[1.186s]         standards-based tools.
+[1.186s] 
+[1.186s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[1.186s]         ********************************************************************************
+[1.186s] 
+[1.186s] !!
+[1.186s]   self.initialize_options()
+[1.190s] running install_lib
+[1.204s] creating /home/inouemakoto/interbotix_ws/install/pick_vision/lib/python3.10/site-packages/pick_vision
+[1.205s] copying /home/inouemakoto/interbotix_ws/build/pick_vision/build/lib/pick_vision/__init__.py -> /home/inouemakoto/interbotix_ws/install/pick_vision/lib/python3.10/site-packages/pick_vision
+[1.205s] byte-compiling /home/inouemakoto/interbotix_ws/install/pick_vision/lib/python3.10/site-packages/pick_vision/__init__.py to __init__.cpython-310.pyc
+[1.205s] running install_data
+[1.219s] creating /home/inouemakoto/interbotix_ws/install/pick_vision/share/ament_index
+[1.219s] creating /home/inouemakoto/interbotix_ws/install/pick_vision/share/ament_index/resource_index
+[1.219s] creating /home/inouemakoto/interbotix_ws/install/pick_vision/share/ament_index/resource_index/packages
+[1.220s] copying resource/pick_vision -> /home/inouemakoto/interbotix_ws/install/pick_vision/share/ament_index/resource_index/packages
+[1.220s] copying package.xml -> /home/inouemakoto/interbotix_ws/install/pick_vision/share/pick_vision
+[1.220s] running install_egg_info
+[1.235s] Copying ../../build/pick_vision/pick_vision.egg-info to /home/inouemakoto/interbotix_ws/install/pick_vision/lib/python3.10/site-packages/pick_vision-0.0.0-py3.10.egg-info
+[1.235s] running install_scripts
+[1.368s] writing list of installed files to '/home/inouemakoto/interbotix_ws/build/pick_vision/install.log'
+[1.383s] Invoked command in '/home/inouemakoto/interbotix_ws/src/pick_vision' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/pick_vision/prefix_override:/home/inouemakoto/interbotix_ws/install/pick_vision/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/pick_vision build --build-base /home/inouemakoto/interbotix_ws/build/pick_vision/build install --record /home/inouemakoto/interbotix_ws/build/pick_vision/install.log --single-version-externally-managed

@@ -1,0 +1,51 @@
+running egg_info
+creating ../../../../build/interbotix_landmark_modules/interbotix_landmark_modules.egg-info
+writing ../../../../build/interbotix_landmark_modules/interbotix_landmark_modules.egg-info/PKG-INFO
+writing dependency_links to ../../../../build/interbotix_landmark_modules/interbotix_landmark_modules.egg-info/dependency_links.txt
+writing entry points to ../../../../build/interbotix_landmark_modules/interbotix_landmark_modules.egg-info/entry_points.txt
+writing requirements to ../../../../build/interbotix_landmark_modules/interbotix_landmark_modules.egg-info/requires.txt
+writing top-level names to ../../../../build/interbotix_landmark_modules/interbotix_landmark_modules.egg-info/top_level.txt
+writing manifest file '../../../../build/interbotix_landmark_modules/interbotix_landmark_modules.egg-info/SOURCES.txt'
+reading manifest file '../../../../build/interbotix_landmark_modules/interbotix_landmark_modules.egg-info/SOURCES.txt'
+writing manifest file '../../../../build/interbotix_landmark_modules/interbotix_landmark_modules.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/inouemakoto/interbotix_ws/build/interbotix_landmark_modules/build
+creating /home/inouemakoto/interbotix_ws/build/interbotix_landmark_modules/build/lib
+creating /home/inouemakoto/interbotix_ws/build/interbotix_landmark_modules/build/lib/interbotix_landmark_modules
+copying interbotix_landmark_modules/landmark_manager.py -> /home/inouemakoto/interbotix_ws/build/interbotix_landmark_modules/build/lib/interbotix_landmark_modules
+copying interbotix_landmark_modules/landmark_finder.py -> /home/inouemakoto/interbotix_ws/build/interbotix_landmark_modules/build/lib/interbotix_landmark_modules
+copying interbotix_landmark_modules/landmark.py -> /home/inouemakoto/interbotix_ws/build/interbotix_landmark_modules/build/lib/interbotix_landmark_modules
+copying interbotix_landmark_modules/__init__.py -> /home/inouemakoto/interbotix_ws/build/interbotix_landmark_modules/build/lib/interbotix_landmark_modules
+copying interbotix_landmark_modules/tf_map_to_landmark.py -> /home/inouemakoto/interbotix_ws/build/interbotix_landmark_modules/build/lib/interbotix_landmark_modules
+running install
+running install_lib
+creating /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/lib/python3.10/site-packages/interbotix_landmark_modules
+copying /home/inouemakoto/interbotix_ws/build/interbotix_landmark_modules/build/lib/interbotix_landmark_modules/landmark_manager.py -> /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/lib/python3.10/site-packages/interbotix_landmark_modules
+copying /home/inouemakoto/interbotix_ws/build/interbotix_landmark_modules/build/lib/interbotix_landmark_modules/landmark_finder.py -> /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/lib/python3.10/site-packages/interbotix_landmark_modules
+copying /home/inouemakoto/interbotix_ws/build/interbotix_landmark_modules/build/lib/interbotix_landmark_modules/landmark.py -> /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/lib/python3.10/site-packages/interbotix_landmark_modules
+copying /home/inouemakoto/interbotix_ws/build/interbotix_landmark_modules/build/lib/interbotix_landmark_modules/__init__.py -> /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/lib/python3.10/site-packages/interbotix_landmark_modules
+copying /home/inouemakoto/interbotix_ws/build/interbotix_landmark_modules/build/lib/interbotix_landmark_modules/tf_map_to_landmark.py -> /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/lib/python3.10/site-packages/interbotix_landmark_modules
+byte-compiling /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/lib/python3.10/site-packages/interbotix_landmark_modules/landmark_manager.py to landmark_manager.cpython-310.pyc
+byte-compiling /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/lib/python3.10/site-packages/interbotix_landmark_modules/landmark_finder.py to landmark_finder.cpython-310.pyc
+byte-compiling /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/lib/python3.10/site-packages/interbotix_landmark_modules/landmark.py to landmark.cpython-310.pyc
+byte-compiling /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/lib/python3.10/site-packages/interbotix_landmark_modules/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/lib/python3.10/site-packages/interbotix_landmark_modules/tf_map_to_landmark.py to tf_map_to_landmark.cpython-310.pyc
+running install_data
+creating /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/share/ament_index
+creating /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/share/ament_index/resource_index
+creating /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/share/ament_index/resource_index/packages
+copying resource/interbotix_landmark_modules -> /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/share/ament_index/resource_index/packages
+copying package.xml -> /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/share/interbotix_landmark_modules
+creating /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/share/interbotix_landmark_modules/launch
+copying launch/tf_map_to_landmark.launch.py -> /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/share/interbotix_landmark_modules/launch
+copying launch/landmark_manager.launch.py -> /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/share/interbotix_landmark_modules/launch
+creating /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/share/interbotix_landmark_modules/landmarks
+copying landmarks/landmarks.yaml -> /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/share/interbotix_landmark_modules/landmarks
+running install_egg_info
+Copying ../../../../build/interbotix_landmark_modules/interbotix_landmark_modules.egg-info to /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/lib/python3.10/site-packages/interbotix_landmark_modules-0.0.0-py3.10.egg-info
+running install_scripts
+Installing landmark_finder script to /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/lib/interbotix_landmark_modules
+Installing landmark_manager script to /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/lib/interbotix_landmark_modules
+Installing tf_map_to_landmark script to /home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules/lib/interbotix_landmark_modules
+writing list of installed files to '/home/inouemakoto/interbotix_ws/build/interbotix_landmark_modules/install.log'

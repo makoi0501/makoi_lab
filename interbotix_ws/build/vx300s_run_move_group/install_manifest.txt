@@ -1,0 +1,15 @@
+/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/ament_index/resource_index/package_run_dependencies/vx300s_run_move_group
+/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/ament_index/resource_index/parent_prefix_path/vx300s_run_move_group
+/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/environment/ament_prefix_path.sh
+/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/environment/ament_prefix_path.dsv
+/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/environment/path.sh
+/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/environment/path.dsv
+/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/local_setup.bash
+/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/local_setup.sh
+/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/local_setup.zsh
+/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/local_setup.dsv
+/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/package.dsv
+/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/ament_index/resource_index/packages/vx300s_run_move_group
+/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/cmake/vx300s_run_move_groupConfig.cmake
+/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/cmake/vx300s_run_move_groupConfig-version.cmake
+/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/package.xml

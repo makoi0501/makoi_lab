@@ -1,0 +1,7 @@
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:[m[K In constructor ‘[01m[Kinterbotix::InterbotixMoveItInterface::InterbotixMoveItInterface(rclcpp::Node::SharedPtr&)[m[K’:
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:76:36:[m[K [01;31m[Kerror: [m[K‘[01m[Kpose[m[K’ was not declared in this scope
+   76 |   visual_tools->publishAxisLabeled([01;31m[Kpose[m[K, VT_FRAME_NAME);
+      |                                    [01;31m[K^~~~[m[K
+gmake[2]: *** [CMakeFiles/moveit_interface.dir/build.make:90: CMakeFiles/moveit_interface.dir/src/moveit_interface_obj.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/moveit_interface.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

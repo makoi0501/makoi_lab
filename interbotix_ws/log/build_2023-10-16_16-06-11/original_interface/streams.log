@@ -1,0 +1,218 @@
+[0.115s] Invoking command in '/home/inouemakoto/interbotix_ws/build/original_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/original_interface -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/original_interface
+[0.126s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.253s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.274s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.276s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.307s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.548s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.742s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.968s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.993s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[1.002s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.040s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[1.040s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.040s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.040s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.060s] -- Found PythonExtra: .so  
+[1.161s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.250s] -- Added test 'lint_cmake' to check CMake code style
+[1.252s] -- Added test 'xmllint' to check XML markup files
+[1.257s] -- Configuring done
+[1.276s] -- Generating done
+[1.278s] -- Build files have been written to: /home/inouemakoto/interbotix_ws/build/original_interface
+[1.284s] Invoked command in '/home/inouemakoto/interbotix_ws/build/original_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/original_interface -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/original_interface
+[1.284s] Invoking command in '/home/inouemakoto/interbotix_ws/build/original_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/original_interface -- -j20 -l20
+[1.325s] [  3%] [34m[1mGenerating C code for ROS interfaces[0m
+[1.336s] [  6%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[1.346s] [  6%] Built target ament_cmake_python_copy_original_interface
+[1.563s] [  6%] Built target original_interface__cpp
+[1.576s] [ 19%] [32mBuilding C object CMakeFiles/original_interface__rosidl_generator_c.dir/rosidl_generator_c/original_interface/srv/detail/target_pos__functions.c.o[0m
+[1.576s] [ 19%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[1.576s] [ 19%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[1.576s] [ 19%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[1.595s] running egg_info
+[1.595s] creating original_interface.egg-info
+[1.596s] writing original_interface.egg-info/PKG-INFO
+[1.596s] writing dependency_links to original_interface.egg-info/dependency_links.txt
+[1.596s] writing top-level names to original_interface.egg-info/top_level.txt
+[1.596s] writing manifest file 'original_interface.egg-info/SOURCES.txt'
+[1.598s] reading manifest file 'original_interface.egg-info/SOURCES.txt'
+[1.598s] writing manifest file 'original_interface.egg-info/SOURCES.txt'
+[1.624s] [ 19%] Built target ament_cmake_python_build_original_interface_egg
+[1.643s] [ 22%] [32m[1mLinking C shared library liboriginal_interface__rosidl_generator_c.so[0m
+[1.680s] [ 22%] Built target original_interface__rosidl_generator_c
+[1.692s] [ 32%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[1.692s] [ 32%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[1.692s] [ 32%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[1.786s] [ 35%] [32mBuilding CXX object CMakeFiles/original_interface__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/original_interface/srv/target_pos__type_support.cpp.o[0m
+[1.807s] [ 38%] [32mBuilding CXX object CMakeFiles/original_interface__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/original_interface/srv/detail/target_pos__type_support.cpp.o[0m
+[1.822s] [ 41%] [32mBuilding CXX object CMakeFiles/original_interface__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/original_interface/srv/detail/dds_fastrtps/target_pos__type_support.cpp.o[0m
+[1.913s] [ 45%] [32mBuilding CXX object CMakeFiles/original_interface__rosidl_typesupport_c.dir/rosidl_typesupport_c/original_interface/srv/target_pos__type_support.cpp.o[0m
+[1.949s] [ 54%] [32m[1mLinking CXX shared library liboriginal_interface__rosidl_typesupport_c.so[0m
+[1.949s] [ 54%] [32mBuilding C object CMakeFiles/original_interface__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/original_interface/srv/detail/target_pos__type_support.c.o[0m
+[1.950s] [ 54%] [32mBuilding CXX object CMakeFiles/original_interface__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/original_interface/srv/detail/target_pos__type_support_c.cpp.o[0m
+[1.988s] [ 58%] [32m[1mLinking C shared library liboriginal_interface__rosidl_typesupport_introspection_c.so[0m
+[1.997s] [ 58%] Built target original_interface__rosidl_typesupport_c
+[2.025s] [ 58%] Built target original_interface__rosidl_typesupport_introspection_c
+[2.053s] [ 61%] [32m[1mLinking CXX shared library liboriginal_interface__rosidl_typesupport_cpp.so[0m
+[2.098s] [ 61%] Built target original_interface__rosidl_typesupport_cpp
+[2.151s] [ 64%] [32m[1mLinking CXX shared library liboriginal_interface__rosidl_typesupport_introspection_cpp.so[0m
+[2.178s] [ 67%] [32m[1mLinking CXX shared library liboriginal_interface__rosidl_typesupport_fastrtps_cpp.so[0m
+[2.195s] [ 67%] Built target original_interface__rosidl_typesupport_introspection_cpp
+[2.244s] [ 67%] Built target original_interface__rosidl_typesupport_fastrtps_cpp
+[2.244s] [ 70%] [32m[1mLinking CXX shared library liboriginal_interface__rosidl_typesupport_fastrtps_c.so[0m
+[2.306s] [ 70%] Built target original_interface__rosidl_typesupport_fastrtps_c
+[2.329s] [ 70%] Built target original_interface
+[2.356s] [ 74%] [34m[1mGenerating Python code for ROS interfaces[0m
+[2.676s] [ 74%] Built target original_interface__py
+[2.699s] [ 77%] [32mBuilding C object CMakeFiles/original_interface__rosidl_generator_py.dir/rosidl_generator_py/original_interface/srv/_target_pos_s.c.o[0m
+[2.829s] [ 80%] [32m[1mLinking C shared library rosidl_generator_py/original_interface/liboriginal_interface__rosidl_generator_py.so[0m
+[2.871s] [ 80%] Built target original_interface__rosidl_generator_py
+[2.899s] [ 90%] [32mBuilding C object CMakeFiles/original_interface__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/original_interface/_original_interface_s.ep.rosidl_typesupport_c.c.o[0m
+[2.899s] [ 90%] [32mBuilding C object CMakeFiles/original_interface__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/original_interface/_original_interface_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[2.899s] [ 90%] [32mBuilding C object CMakeFiles/original_interface__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/original_interface/_original_interface_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[2.974s] [100%] [32m[1mLinking C shared library rosidl_generator_py/original_interface/original_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[2.974s] [100%] [32m[1mLinking C shared library rosidl_generator_py/original_interface/original_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[2.974s] [100%] [32m[1mLinking C shared library rosidl_generator_py/original_interface/original_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[3.007s] [100%] Built target original_interface__rosidl_typesupport_fastrtps_c__pyext
+[3.007s] [100%] Built target original_interface__rosidl_typesupport_c__pyext
+[3.007s] [100%] Built target original_interface__rosidl_typesupport_introspection_c__pyext
+[3.017s] Invoked command in '/home/inouemakoto/interbotix_ws/build/original_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/original_interface -- -j20 -l20
+[3.243s] Invoking command in '/home/inouemakoto/interbotix_ws/build/original_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/original_interface
+[3.272s] -- Install configuration: ""
+[3.273s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/ament_index/resource_index/rosidl_interfaces/original_interface
+[3.273s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface
+[3.274s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv
+[3.274s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/target_pos.h
+[3.275s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail
+[3.275s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail/target_pos__type_support.h
+[3.275s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail/target_pos__functions.h
+[3.276s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail/target_pos__functions.c
+[3.276s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail/target_pos__struct.h
+[3.276s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/msg
+[3.276s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/msg/rosidl_generator_c__visibility_control.h
+[3.276s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/environment/library_path.sh
+[3.276s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/environment/library_path.dsv
+[3.277s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_generator_c.so
+[3.277s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_generator_c.so" to ""
+[3.277s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface
+[3.277s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv
+[3.277s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail
+[3.278s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail/target_pos__rosidl_typesupport_fastrtps_c.h
+[3.278s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/msg
+[3.278s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[3.278s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_typesupport_fastrtps_c.so
+[3.278s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_typesupport_fastrtps_c.so" to ""
+[3.278s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface
+[3.278s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv
+[3.279s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail
+[3.279s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail/target_pos__rosidl_typesupport_introspection_c.h
+[3.279s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail/target_pos__type_support.c
+[3.279s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/msg
+[3.279s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[3.279s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_typesupport_introspection_c.so
+[3.279s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_typesupport_introspection_c.so" to ""
+[3.279s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_typesupport_c.so
+[3.279s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_typesupport_c.so" to ""
+[3.279s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface
+[3.279s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv
+[3.279s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/target_pos.hpp
+[3.279s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail
+[3.280s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail/target_pos__traits.hpp
+[3.280s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail/target_pos__struct.hpp
+[3.280s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail/target_pos__builder.hpp
+[3.280s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface
+[3.280s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv
+[3.280s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail
+[3.280s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail/dds_fastrtps
+[3.280s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail/target_pos__rosidl_typesupport_fastrtps_cpp.hpp
+[3.280s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/msg
+[3.280s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[3.280s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_typesupport_fastrtps_cpp.so
+[3.280s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_typesupport_fastrtps_cpp.so" to ""
+[3.280s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface
+[3.280s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv
+[3.280s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail
+[3.281s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail/target_pos__type_support.cpp
+[3.281s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/include/original_interface/original_interface/srv/detail/target_pos__rosidl_typesupport_introspection_cpp.hpp
+[3.281s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_typesupport_introspection_cpp.so
+[3.281s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_typesupport_introspection_cpp.so" to ""
+[3.281s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_typesupport_cpp.so
+[3.281s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_typesupport_cpp.so" to ""
+[3.281s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/environment/pythonpath.sh
+[3.281s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/environment/pythonpath.dsv
+[3.281s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface-0.0.0-py3.10.egg-info
+[3.281s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface-0.0.0-py3.10.egg-info/top_level.txt
+[3.282s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface-0.0.0-py3.10.egg-info/dependency_links.txt
+[3.282s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface-0.0.0-py3.10.egg-info/SOURCES.txt
+[3.282s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface-0.0.0-py3.10.egg-info/PKG-INFO
+[3.282s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface
+[3.282s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/liboriginal_interface__rosidl_generator_py.so
+[3.282s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/original_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[3.282s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/srv
+[3.282s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/srv/_target_pos.py
+[3.282s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/srv/_target_pos_s.c
+[3.282s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/srv/__init__.py
+[3.282s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/original_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[3.282s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/original_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[3.283s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/_original_interface_s.ep.rosidl_typesupport_introspection_c.c
+[3.283s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/__init__.py
+[3.283s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/_original_interface_s.ep.rosidl_typesupport_fastrtps_c.c
+[3.283s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/_original_interface_s.ep.rosidl_typesupport_c.c
+[3.318s] Listing '/home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface'...
+[3.318s] Compiling '/home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/__init__.py'...
+[3.318s] Listing '/home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/srv'...
+[3.318s] Compiling '/home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/srv/__init__.py'...
+[3.318s] Compiling '/home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/srv/_target_pos.py'...
+[3.321s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/original_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[3.321s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/original_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[3.321s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/original_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[3.322s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/original_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[3.322s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/original_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[3.322s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/original_interface/local/lib/python3.10/dist-packages/original_interface/original_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[3.322s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_generator_py.so
+[3.322s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/original_interface/lib/liboriginal_interface__rosidl_generator_py.so" to ""
+[3.322s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/srv/TargetPos.idl
+[3.322s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/srv/TargetPos.srv
+[3.322s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/srv/TargetPos_Request.msg
+[3.322s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/srv/TargetPos_Response.msg
+[3.322s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/ament_index/resource_index/package_run_dependencies/original_interface
+[3.323s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/ament_index/resource_index/parent_prefix_path/original_interface
+[3.323s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/environment/ament_prefix_path.sh
+[3.323s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/environment/ament_prefix_path.dsv
+[3.323s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/environment/path.sh
+[3.323s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/environment/path.dsv
+[3.323s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/local_setup.bash
+[3.323s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/local_setup.sh
+[3.323s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/local_setup.zsh
+[3.323s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/local_setup.dsv
+[3.323s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/package.dsv
+[3.323s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/ament_index/resource_index/packages/original_interface
+[3.323s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/export_original_interface__rosidl_generator_cExport.cmake
+[3.323s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/export_original_interface__rosidl_generator_cExport-noconfig.cmake
+[3.324s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/export_original_interface__rosidl_typesupport_fastrtps_cExport.cmake
+[3.324s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/export_original_interface__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[3.324s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/original_interface__rosidl_typesupport_introspection_cExport.cmake
+[3.324s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/original_interface__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[3.324s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/original_interface__rosidl_typesupport_cExport.cmake
+[3.324s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/original_interface__rosidl_typesupport_cExport-noconfig.cmake
+[3.324s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/export_original_interface__rosidl_generator_cppExport.cmake
+[3.324s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/export_original_interface__rosidl_typesupport_fastrtps_cppExport.cmake
+[3.324s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/export_original_interface__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[3.324s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/original_interface__rosidl_typesupport_introspection_cppExport.cmake
+[3.324s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/original_interface__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[3.325s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/original_interface__rosidl_typesupport_cppExport.cmake
+[3.325s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/original_interface__rosidl_typesupport_cppExport-noconfig.cmake
+[3.325s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/export_original_interface__rosidl_generator_pyExport.cmake
+[3.325s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/export_original_interface__rosidl_generator_pyExport-noconfig.cmake
+[3.325s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/rosidl_cmake-extras.cmake
+[3.325s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[3.325s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[3.325s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/ament_cmake_export_targets-extras.cmake
+[3.325s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[3.325s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[3.325s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[3.325s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/original_interfaceConfig.cmake
+[3.326s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/cmake/original_interfaceConfig-version.cmake
+[3.326s] -- Installing: /home/inouemakoto/interbotix_ws/install/original_interface/share/original_interface/package.xml
+[3.327s] Invoked command in '/home/inouemakoto/interbotix_ws/build/original_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/original_interface

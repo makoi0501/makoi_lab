@@ -1,0 +1,60 @@
+[0.304s] Invoking command in '/home/inouemakoto/interbotix_ws/build/vx300s_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/vx300s_moveit_config -- -j20 -l20
+[0.325s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.599s] -- Found moveit_ros_planning_interface: 2.5.4 (/home/inouemakoto/ws_moveit2/install/moveit_ros_planning_interface/share/moveit_ros_planning_interface/cmake)
+[0.829s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: date_time filesystem program_options system thread 
+[0.930s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.942s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.959s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.985s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.021s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.937s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+[1.972s] -- Found parameter_traits: 0.3.3 (/opt/ros/humble/share/parameter_traits/cmake)
+[2.093s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.104s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.220s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.249s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.301s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.324s] -- Found Threads: TRUE  
+[2.490s] -- Found rclcpp_lifecycle: 16.0.4 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+[2.542s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: filesystem 
+[2.681s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[2.861s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[2.861s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[3.486s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread chrono 
+[4.034s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: thread system filesystem regex date_time program_options 
+[4.282s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread 
+[4.716s] -- Found control_msgs: 4.4.0 (/opt/ros/humble/share/control_msgs/cmake)
+[4.918s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system 
+[4.973s] -- Configuring done
+[4.979s] -- Generating done
+[4.981s] -- Build files have been written to: /home/inouemakoto/interbotix_ws/build/vx300s_moveit_config
+[5.010s] Invoked command in '/home/inouemakoto/interbotix_ws/build/vx300s_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/vx300s_moveit_config -- -j20 -l20
+[5.037s] Invoking command in '/home/inouemakoto/interbotix_ws/build/vx300s_moveit_config': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/vx300s_moveit_config
+[5.046s] -- Install configuration: ""
+[5.046s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//launch
+[5.046s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//launch/moveit_demo.launch.py
+[5.046s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config
+[5.046s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/vx300s.srdf.xacro
+[5.046s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/ompl_planning.yaml
+[5.047s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/vx300s_ros2_controllers.yaml
+[5.047s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/modes.yaml
+[5.047s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/vx300s_joint_limits.yaml
+[5.047s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/vx300s_controllers.yaml
+[5.047s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/chomp_planning.yaml
+[5.047s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/kinematics.yaml
+[5.047s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/ament_index/resource_index/package_run_dependencies/vx300s_moveit_config
+[5.047s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/ament_index/resource_index/parent_prefix_path/vx300s_moveit_config
+[5.047s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/environment/ament_prefix_path.sh
+[5.047s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/environment/ament_prefix_path.dsv
+[5.047s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/environment/path.sh
+[5.047s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/environment/path.dsv
+[5.047s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/local_setup.bash
+[5.047s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/local_setup.sh
+[5.047s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/local_setup.zsh
+[5.047s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/local_setup.dsv
+[5.048s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/package.dsv
+[5.048s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/ament_index/resource_index/packages/vx300s_moveit_config
+[5.048s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/cmake/vx300s_moveit_configConfig.cmake
+[5.048s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/cmake/vx300s_moveit_configConfig-version.cmake
+[5.048s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/package.xml
+[5.050s] Invoked command in '/home/inouemakoto/interbotix_ws/build/vx300s_moveit_config' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/vx300s_moveit_config

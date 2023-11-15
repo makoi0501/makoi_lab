@@ -1,0 +1,29 @@
+[3.254s] Invoking command in '/home/inouemakoto/interbotix_ws/build/makoto': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/makoto/prefix_override:/home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/inouemakoto/interbotix_ws/build/makoto/build
+[3.897s] running develop
+[3.898s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[3.898s] !!
+[3.898s] 
+[3.898s]         ********************************************************************************
+[3.898s]         Please avoid running ``setup.py`` and ``easy_install``.
+[3.898s]         Instead, use pypa/build, pypa/installer or other
+[3.898s]         standards-based tools.
+[3.898s] 
+[3.899s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[3.899s]         ********************************************************************************
+[3.899s] 
+[3.899s] !!
+[3.899s]   easy_install.initialize_options(self)
+[3.963s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[3.964s] !!
+[3.964s] 
+[3.964s]         ********************************************************************************
+[3.964s]         Please avoid running ``setup.py`` directly.
+[3.964s]         Instead, use pypa/build, pypa/installer or other
+[3.964s]         standards-based tools.
+[3.964s] 
+[3.964s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[3.965s]         ********************************************************************************
+[3.965s] 
+[3.965s] !!
+[3.965s]   self.initialize_options()
+[4.280s] Removing /home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto.egg-link (link to .)

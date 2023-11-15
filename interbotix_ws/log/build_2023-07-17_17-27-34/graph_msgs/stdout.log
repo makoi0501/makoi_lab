@@ -1,0 +1,8 @@
+[ 10%] Built target graph_msgs__rosidl_generator_c
+[ 12%] Built target graph_msgs__cpp
+[ 23%] Built target graph_msgs__rosidl_typesupport_c
+[ 33%] Built target graph_msgs__rosidl_typesupport_introspection_c
+[ 35%] [32mBuilding CXX object CMakeFiles/graph_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/graph_msgs/msg/detail/geometry_graph__type_support_c.cpp.o[0m
+[ 38%] [32mBuilding CXX object CMakeFiles/graph_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/graph_msgs/msg/detail/edges__type_support_c.cpp.o[0m
+[ 41%] [32m[1mLinking CXX shared library libgraph_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[ 43%] Built target graph_msgs__rosidl_typesupport_fastrtps_c

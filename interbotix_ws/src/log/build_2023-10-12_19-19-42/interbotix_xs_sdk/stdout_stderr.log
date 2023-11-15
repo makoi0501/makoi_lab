@@ -1,0 +1,4 @@
+[35m[1mConsolidate compiler generated dependencies of target xs_sdk[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/xs_sdk.dir/src/xs_sdk_obj.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable xs_sdk[0m
+[100%] Built target xs_sdk

@@ -1,0 +1,10 @@
+[0.017s] Invoking command in '/home/inouemakoto/interbotix_ws/build/hello_moveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/hello_moveit2 -- -j20 -l20
+[0.081s] [ 50%] [32mBuilding CXX object CMakeFiles/hello_moveit2.dir/src/hello_moveit2.cpp.o[0m
+[0.090s] [01m[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:1:10:[m[K [01;31m[Kfatal error: [m[Kmoveit/moveit_group_interface/move_group_interface.h: No such file or directory
+[0.090s]     1 | #include [01;31m[K<moveit/moveit_group_interface/move_group_interface.h>[m[K
+[0.091s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[0.091s] compilation terminated.
+[0.091s] gmake[2]: *** [CMakeFiles/hello_moveit2.dir/build.make:76: CMakeFiles/hello_moveit2.dir/src/hello_moveit2.cpp.o] Error 1
+[0.091s] gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/hello_moveit2.dir/all] Error 2
+[0.092s] gmake: *** [Makefile:146: all] Error 2
+[0.093s] Invoked command in '/home/inouemakoto/interbotix_ws/build/hello_moveit2' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/hello_moveit2 -- -j20 -l20

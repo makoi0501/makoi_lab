@@ -1,0 +1,21 @@
+[4.885s] Invoking command in '/home/inouemakoto/interbotix_ws/src/camera': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/camera/prefix_override:/home/inouemakoto/interbotix_ws/install/camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera build --build-base /home/inouemakoto/interbotix_ws/build/camera/build install --record /home/inouemakoto/interbotix_ws/build/camera/install.log --single-version-externally-managed
+[5.381s] running egg_info
+[5.381s] writing ../../build/camera/camera.egg-info/PKG-INFO
+[5.382s] writing dependency_links to ../../build/camera/camera.egg-info/dependency_links.txt
+[5.382s] writing entry points to ../../build/camera/camera.egg-info/entry_points.txt
+[5.382s] writing requirements to ../../build/camera/camera.egg-info/requires.txt
+[5.382s] writing top-level names to ../../build/camera/camera.egg-info/top_level.txt
+[5.382s] reading manifest file '../../build/camera/camera.egg-info/SOURCES.txt'
+[5.382s] writing manifest file '../../build/camera/camera.egg-info/SOURCES.txt'
+[5.382s] running build
+[5.382s] running build_py
+[5.382s] running install
+[5.382s] running install_lib
+[5.382s] running install_data
+[5.382s] running install_egg_info
+[5.382s] removing '/home/inouemakoto/interbotix_ws/install/camera/lib/python3.10/site-packages/camera-0.0.0-py3.10.egg-info' (and everything under it)
+[5.383s] Copying ../../build/camera/camera.egg-info to /home/inouemakoto/interbotix_ws/install/camera/lib/python3.10/site-packages/camera-0.0.0-py3.10.egg-info
+[5.383s] running install_scripts
+[5.383s] Installing camera_imu script to /home/inouemakoto/interbotix_ws/install/camera/lib/camera
+[5.383s] writing list of installed files to '/home/inouemakoto/interbotix_ws/build/camera/install.log'
+[6.568s] Invoked command in '/home/inouemakoto/interbotix_ws/src/camera' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/camera/prefix_override:/home/inouemakoto/interbotix_ws/install/camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera build --build-base /home/inouemakoto/interbotix_ws/build/camera/build install --record /home/inouemakoto/interbotix_ws/build/camera/install.log --single-version-externally-managed

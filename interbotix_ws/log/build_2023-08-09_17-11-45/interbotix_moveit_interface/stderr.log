@@ -1,0 +1,7 @@
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:[m[K In member function ‘[01m[Kbool interbotix::InterbotixMoveItInterface::moveit_planner(std::shared_ptr<rmw_request_id_s>, std::shared_ptr<interbotix_moveit_interface_msgs::srv::MoveItPlan_Request_<std::allocator<void> > >, std::shared_ptr<interbotix_moveit_interface_msgs::srv::MoveItPlan_Response_<std::allocator<void> > >)[m[K’:
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:335:40:[m[K [01;31m[Kerror: [m[K‘[01m[Kusing element_type = struct interbotix_moveit_interface_msgs::srv::MoveItPlan_Request_<std::allocator<void> >[m[K’ {aka ‘[01m[Kstruct interbotix_moveit_interface_msgs::srv::MoveItPlan_Request_<std::allocator<void> >[m[K’} has no member named ‘[01m[Kmsg[m[K’
+  335 |     success = moveit_plan_gripper(req->[01;31m[Kmsg[m[K);
+      |                                        [01;31m[K^~~[m[K
+gmake[2]: *** [CMakeFiles/moveit_interface.dir/build.make:90: CMakeFiles/moveit_interface.dir/src/moveit_interface_obj.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/moveit_interface.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

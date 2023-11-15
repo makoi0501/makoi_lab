@@ -1,0 +1,7 @@
+/home/inouemakoto/interbotix_ws/build/moveit_msgs/rosidl_adapter/moveit_msgs:msg/CollisionObject.idl
+/home/inouemakoto/interbotix_ws/build/moveit_msgs/rosidl_adapter/moveit_msgs:msg/Grasp.idl
+/home/inouemakoto/interbotix_ws/build/moveit_msgs/rosidl_adapter/moveit_msgs:msg/GripperTranslation.idl
+/home/inouemakoto/interbotix_ws/build/moveit_msgs/rosidl_adapter/moveit_msgs:msg/MoveItErrorCodes.idl
+/home/inouemakoto/interbotix_ws/build/moveit_msgs/rosidl_adapter/moveit_msgs:msg/ObjectType.idl
+/home/inouemakoto/interbotix_ws/build/moveit_msgs/rosidl_adapter/moveit_msgs:msg/PlaceLocation.idl
+/home/inouemakoto/interbotix_ws/build/moveit_msgs/rosidl_adapter/moveit_msgs:srv/GraspPlanning.idl

@@ -1,0 +1,13 @@
+[2.379s] Invoking command in '/home/inouemakoto/interbotix_ws/build/rviz_visual_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/home/inouemakoto/install/camera:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/rviz_visual_tools -- -j20 -l20
+[3.780s] [  2%] [34m[1mAutomatic MOC for target gtest_main[0m
+[3.780s] [  5%] [34m[1mAutomatic MOC for target rviz_visual_tools_remote_control[0m
+[3.780s] [  7%] [34m[1mAutomatic MOC for target rviz_visual_tools_gui[0m
+[3.781s] [ 10%] [34m[1mAutomatic MOC for target gtest[0m
+[3.781s] [ 10%] Built target rviz_visual_tools_remote_control_autogen
+[3.781s] [ 10%] Built target gtest_main_autogen
+[3.781s] [ 10%] Built target gtest_autogen
+[3.781s] [ 10%] Built target rviz_visual_tools_gui_autogen
+[3.781s] gmake[1]: *** [CMakeFiles/Makefile2:555: gtest/CMakeFiles/gtest.dir/all] Interrupt
+[3.781s] gmake[1]: *** [CMakeFiles/Makefile2:581: gtest/CMakeFiles/gtest_main.dir/all] Interrupt
+[3.781s] gmake[1]: *** [CMakeFiles/Makefile2:203: CMakeFiles/rviz_visual_tools_remote_control.dir/all] Interrupt
+[3.781s] gmake: *** [Makefile:146: all] Interrupt

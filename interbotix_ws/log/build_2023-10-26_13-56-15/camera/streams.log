@@ -1,0 +1,34 @@
+[3.498s] Invoking command in '/home/inouemakoto/interbotix_ws/src/camera': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/camera/prefix_override:/home/inouemakoto/interbotix_ws/install/camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera build --build-base /home/inouemakoto/interbotix_ws/build/camera/build install --record /home/inouemakoto/interbotix_ws/build/camera/install.log --single-version-externally-managed
+[3.721s] running egg_info
+[3.727s] writing ../../build/camera/camera.egg-info/PKG-INFO
+[3.727s] writing dependency_links to ../../build/camera/camera.egg-info/dependency_links.txt
+[3.727s] writing entry points to ../../build/camera/camera.egg-info/entry_points.txt
+[3.727s] writing requirements to ../../build/camera/camera.egg-info/requires.txt
+[3.727s] writing top-level names to ../../build/camera/camera.egg-info/top_level.txt
+[3.755s] reading manifest file '../../build/camera/camera.egg-info/SOURCES.txt'
+[3.756s] writing manifest file '../../build/camera/camera.egg-info/SOURCES.txt'
+[3.756s] running build
+[3.756s] running build_py
+[3.757s] running install
+[3.757s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[3.758s] !!
+[3.758s] 
+[3.758s]         ********************************************************************************
+[3.758s]         Please avoid running ``setup.py`` directly.
+[3.758s]         Instead, use pypa/build, pypa/installer or other
+[3.758s]         standards-based tools.
+[3.758s] 
+[3.758s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[3.758s]         ********************************************************************************
+[3.758s] 
+[3.758s] !!
+[3.758s]   self.initialize_options()
+[3.761s] running install_lib
+[3.777s] running install_data
+[3.792s] running install_egg_info
+[3.808s] removing '/home/inouemakoto/interbotix_ws/install/camera/lib/python3.10/site-packages/camera-0.0.0-py3.10.egg-info' (and everything under it)
+[3.808s] Copying ../../build/camera/camera.egg-info to /home/inouemakoto/interbotix_ws/install/camera/lib/python3.10/site-packages/camera-0.0.0-py3.10.egg-info
+[3.809s] running install_scripts
+[3.952s] Installing camera_imu.py script to /home/inouemakoto/interbotix_ws/install/camera/lib/camera
+[3.952s] writing list of installed files to '/home/inouemakoto/interbotix_ws/build/camera/install.log'
+[4.408s] Invoked command in '/home/inouemakoto/interbotix_ws/src/camera' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/camera/prefix_override:/home/inouemakoto/interbotix_ws/install/camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/camera build --build-base /home/inouemakoto/interbotix_ws/build/camera/build install --record /home/inouemakoto/interbotix_ws/build/camera/install.log --single-version-externally-managed

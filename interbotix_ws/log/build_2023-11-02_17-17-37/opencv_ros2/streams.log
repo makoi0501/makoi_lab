@@ -1,0 +1,31 @@
+[4.859s] Invoking command in '/home/inouemakoto/interbotix_ws/src/chapter5/opencv_ros2': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/opencv_ros2/prefix_override:/home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/opencv_ros2 build --build-base /home/inouemakoto/interbotix_ws/build/opencv_ros2/build install --record /home/inouemakoto/interbotix_ws/build/opencv_ros2/install.log --install-scripts $base/lib/opencv_ros2 --single-version-externally-managed
+[5.152s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[5.152s]   warnings.warn(
+[5.171s] running egg_info
+[5.172s] writing ../../../build/opencv_ros2/opencv_ros2.egg-info/PKG-INFO
+[5.172s] writing dependency_links to ../../../build/opencv_ros2/opencv_ros2.egg-info/dependency_links.txt
+[5.172s] writing entry points to ../../../build/opencv_ros2/opencv_ros2.egg-info/entry_points.txt
+[5.172s] writing requirements to ../../../build/opencv_ros2/opencv_ros2.egg-info/requires.txt
+[5.173s] writing top-level names to ../../../build/opencv_ros2/opencv_ros2.egg-info/top_level.txt
+[5.174s] reading manifest file '../../../build/opencv_ros2/opencv_ros2.egg-info/SOURCES.txt'
+[5.174s] adding license file 'LICENSE'
+[5.175s] writing manifest file '../../../build/opencv_ros2/opencv_ros2.egg-info/SOURCES.txt'
+[5.175s] running build
+[5.175s] running build_py
+[5.176s] running install
+[5.176s] running install_lib
+[5.178s] running install_data
+[5.178s] running install_egg_info
+[5.180s] removing '/home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/python3.10/site-packages/opencv_ros2-1.0.0-py3.10.egg-info' (and everything under it)
+[5.180s] Copying ../../../build/opencv_ros2/opencv_ros2.egg-info to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/python3.10/site-packages/opencv_ros2-1.0.0-py3.10.egg-info
+[5.181s] running install_scripts
+[5.207s] Installing aruco_node_tf script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[5.207s] Installing canny_edge_detection script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[5.207s] Installing challenge5_1_say_hello script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[5.207s] Installing challenge5_2_cup_direction script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[5.207s] Installing face_detection script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[5.207s] Installing imgproc_opencv_ros script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[5.208s] Installing qrcode_detector script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[5.208s] Installing quiz5_1_smile_detection script to /home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/opencv_ros2
+[5.208s] writing list of installed files to '/home/inouemakoto/interbotix_ws/build/opencv_ros2/install.log'
+[6.652s] Invoked command in '/home/inouemakoto/interbotix_ws/src/chapter5/opencv_ros2' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/opencv_ros2/prefix_override:/home/inouemakoto/interbotix_ws/install/opencv_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../build/opencv_ros2 build --build-base /home/inouemakoto/interbotix_ws/build/opencv_ros2/build install --record /home/inouemakoto/interbotix_ws/build/opencv_ros2/install.log --install-scripts $base/lib/opencv_ros2 --single-version-externally-managed

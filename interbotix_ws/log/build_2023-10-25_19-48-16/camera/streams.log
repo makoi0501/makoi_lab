@@ -1,0 +1,42 @@
+[3.318s] Invoking command in '/home/inouemakoto/interbotix_ws/build/camera': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/camera/prefix_override:/home/inouemakoto/interbotix_ws/install/camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/inouemakoto/interbotix_ws/build/camera/build --no-deps install_data
+[3.926s] running develop
+[3.926s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[3.926s] !!
+[3.926s] 
+[3.927s]         ********************************************************************************
+[3.929s]         Please avoid running ``setup.py`` and ``easy_install``.
+[3.929s]         Instead, use pypa/build, pypa/installer or other
+[3.930s]         standards-based tools.
+[3.930s] 
+[3.930s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[3.930s]         ********************************************************************************
+[3.930s] 
+[3.930s] !!
+[3.930s]   easy_install.initialize_options(self)
+[3.979s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[3.979s] !!
+[3.979s] 
+[3.979s]         ********************************************************************************
+[3.979s]         Please avoid running ``setup.py`` directly.
+[3.980s]         Instead, use pypa/build, pypa/installer or other
+[3.980s]         standards-based tools.
+[3.980s] 
+[3.980s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[3.980s]         ********************************************************************************
+[3.980s] 
+[3.980s] !!
+[3.980s]   self.initialize_options()
+[4.270s] running egg_info
+[4.297s] writing camera.egg-info/PKG-INFO
+[4.297s] writing dependency_links to camera.egg-info/dependency_links.txt
+[4.297s] writing entry points to camera.egg-info/entry_points.txt
+[4.297s] writing requirements to camera.egg-info/requires.txt
+[4.298s] writing top-level names to camera.egg-info/top_level.txt
+[4.335s] reading manifest file 'camera.egg-info/SOURCES.txt'
+[4.336s] writing manifest file 'camera.egg-info/SOURCES.txt'
+[4.357s] running build_ext
+[4.357s] Creating /home/inouemakoto/interbotix_ws/install/camera/lib/python3.10/site-packages/camera.egg-link (link to .)
+[4.357s] Installing camera_imu.py script to /home/inouemakoto/interbotix_ws/install/camera/lib/camera
+[4.358s] 
+[4.358s] Installed /home/inouemakoto/interbotix_ws/build/camera
+[4.358s] running install_data

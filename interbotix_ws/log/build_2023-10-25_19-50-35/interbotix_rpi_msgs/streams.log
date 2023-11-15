@@ -1,0 +1,195 @@
+[1.392s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_rpi_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_rpi_toolbox/interbotix_rpi_msgs -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs
+[2.772s] -- The C compiler identification is GNU 11.4.0
+[2.772s] -- The CXX compiler identification is GNU 11.4.0
+[2.772s] -- Detecting C compiler ABI info
+[2.772s] -- Detecting C compiler ABI info - done
+[2.772s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.773s] -- Detecting C compile features
+[2.773s] -- Detecting C compile features - done
+[2.773s] -- Detecting CXX compiler ABI info
+[2.773s] -- Detecting CXX compiler ABI info - done
+[2.773s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.773s] -- Detecting CXX compile features
+[2.773s] -- Detecting CXX compile features - done
+[2.773s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[2.773s] -- Found ament_cmake_core: 1.3.5 (/opt/ros/humble/share/ament_cmake_core/cmake)
+[2.989s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[3.230s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.295s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.701s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.871s] -- Found std_msgs: 4.2.3 (/opt/ros/humble/share/std_msgs/cmake)
+[4.594s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[5.187s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[5.718s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.767s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[5.781s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[5.831s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[5.831s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[5.832s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[5.832s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[5.875s] -- Found PythonExtra: .so  
+[6.210s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[6.259s] -- Configuring done
+[6.312s] -- Generating done
+[6.317s] -- Build files have been written to: /home/inouemakoto/interbotix_ws/build/interbotix_rpi_msgs
+[6.335s] Invoked command in '/home/inouemakoto/interbotix_ws/build/interbotix_rpi_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_rpi_toolbox/interbotix_rpi_msgs -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs
+[6.336s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_rpi_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/interbotix_rpi_msgs -- -j20 -l20
+[7.099s] [35m[1mConsolidate compiler generated dependencies of target interbotix_rpi_msgs__rosidl_generator_c[0m
+[7.099s] [  3%] Built target interbotix_rpi_msgs__cpp
+[7.099s] [ 12%] Built target interbotix_rpi_msgs__rosidl_generator_c
+[7.099s] [ 12%] Built target ament_cmake_python_copy_interbotix_rpi_msgs
+[7.099s] [35m[1mConsolidate compiler generated dependencies of target interbotix_rpi_msgs__rosidl_typesupport_introspection_cpp[0m
+[7.099s] [35m[1mConsolidate compiler generated dependencies of target interbotix_rpi_msgs__rosidl_typesupport_cpp[0m
+[7.099s] [35m[1mConsolidate compiler generated dependencies of target interbotix_rpi_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[7.099s] [ 22%] Built target interbotix_rpi_msgs__rosidl_typesupport_introspection_cpp
+[7.099s] [35m[1mConsolidate compiler generated dependencies of target interbotix_rpi_msgs__rosidl_typesupport_introspection_c[0m
+[7.100s] [35m[1mConsolidate compiler generated dependencies of target interbotix_rpi_msgs__rosidl_typesupport_fastrtps_c[0m
+[7.100s] [ 32%] Built target interbotix_rpi_msgs__rosidl_typesupport_cpp
+[7.100s] [35m[1mConsolidate compiler generated dependencies of target interbotix_rpi_msgs__rosidl_typesupport_c[0m
+[7.100s] [ 41%] Built target interbotix_rpi_msgs__rosidl_typesupport_fastrtps_cpp
+[7.100s] [ 61%] Built target interbotix_rpi_msgs__rosidl_typesupport_introspection_c
+[7.100s] [ 61%] Built target interbotix_rpi_msgs__rosidl_typesupport_fastrtps_c
+[7.100s] [ 70%] Built target interbotix_rpi_msgs__rosidl_typesupport_c
+[7.100s] [ 70%] Built target interbotix_rpi_msgs
+[7.100s] [ 74%] Built target interbotix_rpi_msgs__py
+[7.100s] [35m[1mConsolidate compiler generated dependencies of target interbotix_rpi_msgs__rosidl_generator_py[0m
+[7.101s] [ 80%] Built target interbotix_rpi_msgs__rosidl_generator_py
+[7.101s] [35m[1mConsolidate compiler generated dependencies of target interbotix_rpi_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[7.101s] [35m[1mConsolidate compiler generated dependencies of target interbotix_rpi_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[7.101s] [35m[1mConsolidate compiler generated dependencies of target interbotix_rpi_msgs__rosidl_typesupport_c__pyext[0m
+[7.101s] [ 83%] [32m[1mLinking C shared library rosidl_generator_py/interbotix_rpi_msgs/interbotix_rpi_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[7.101s] [ 87%] [32m[1mLinking C shared library rosidl_generator_py/interbotix_rpi_msgs/interbotix_rpi_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[7.101s] [ 90%] [32m[1mLinking C shared library rosidl_generator_py/interbotix_rpi_msgs/interbotix_rpi_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[7.119s] running egg_info
+[7.150s] writing interbotix_rpi_msgs.egg-info/PKG-INFO
+[7.151s] writing dependency_links to interbotix_rpi_msgs.egg-info/dependency_links.txt
+[7.164s] writing top-level names to interbotix_rpi_msgs.egg-info/top_level.txt
+[7.169s] [ 93%] Built target interbotix_rpi_msgs__rosidl_typesupport_fastrtps_c__pyext
+[7.200s] [ 96%] Built target interbotix_rpi_msgs__rosidl_typesupport_introspection_c__pyext
+[7.211s] [100%] Built target interbotix_rpi_msgs__rosidl_typesupport_c__pyext
+[7.275s] reading manifest file 'interbotix_rpi_msgs.egg-info/SOURCES.txt'
+[7.276s] writing manifest file 'interbotix_rpi_msgs.egg-info/SOURCES.txt'
+[7.389s] [100%] Built target ament_cmake_python_build_interbotix_rpi_msgs_egg
+[8.020s] Invoked command in '/home/inouemakoto/interbotix_ws/build/interbotix_rpi_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/interbotix_rpi_msgs -- -j20 -l20
+[9.776s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_rpi_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/interbotix_rpi_msgs
+[10.358s] -- Install configuration: ""
+[10.358s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/ament_index/resource_index/rosidl_interfaces/interbotix_rpi_msgs
+[10.358s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs
+[10.358s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg
+[10.358s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/pixel_commands.h
+[10.359s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/rosidl_generator_c__visibility_control.h
+[10.359s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail
+[10.359s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail/pixel_commands__functions.c
+[10.359s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail/pixel_commands__struct.h
+[10.359s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail/pixel_commands__type_support.h
+[10.359s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail/pixel_commands__functions.h
+[10.359s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/environment/library_path.sh
+[10.359s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/environment/library_path.dsv
+[10.359s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/lib/libinterbotix_rpi_msgs__rosidl_generator_c.so
+[10.359s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs
+[10.360s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg
+[10.360s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail
+[10.360s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail/pixel_commands__rosidl_typesupport_fastrtps_c.h
+[10.360s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[10.360s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/lib/libinterbotix_rpi_msgs__rosidl_typesupport_fastrtps_c.so
+[10.360s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs
+[10.360s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg
+[10.360s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[10.361s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail
+[10.361s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail/pixel_commands__type_support.c
+[10.361s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail/pixel_commands__rosidl_typesupport_introspection_c.h
+[10.361s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/lib/libinterbotix_rpi_msgs__rosidl_typesupport_introspection_c.so
+[10.361s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/lib/libinterbotix_rpi_msgs__rosidl_typesupport_c.so
+[10.371s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs
+[10.371s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg
+[10.371s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/pixel_commands.hpp
+[10.371s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail
+[10.371s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail/pixel_commands__struct.hpp
+[10.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail/pixel_commands__builder.hpp
+[10.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail/pixel_commands__traits.hpp
+[10.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs
+[10.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg
+[10.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[10.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail
+[10.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail/dds_fastrtps
+[10.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail/pixel_commands__rosidl_typesupport_fastrtps_cpp.hpp
+[10.373s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/lib/libinterbotix_rpi_msgs__rosidl_typesupport_fastrtps_cpp.so
+[10.373s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs
+[10.373s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg
+[10.374s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail
+[10.374s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail/pixel_commands__rosidl_typesupport_introspection_cpp.hpp
+[10.374s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/include/interbotix_rpi_msgs/interbotix_rpi_msgs/msg/detail/pixel_commands__type_support.cpp
+[10.374s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/lib/libinterbotix_rpi_msgs__rosidl_typesupport_introspection_cpp.so
+[10.374s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/lib/libinterbotix_rpi_msgs__rosidl_typesupport_cpp.so
+[10.374s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/environment/pythonpath.sh
+[10.374s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/environment/pythonpath.dsv
+[10.375s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs-0.0.0-py3.10.egg-info
+[10.375s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs-0.0.0-py3.10.egg-info/top_level.txt
+[10.375s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs-0.0.0-py3.10.egg-info/dependency_links.txt
+[10.375s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs-0.0.0-py3.10.egg-info/SOURCES.txt
+[10.375s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs-0.0.0-py3.10.egg-info/PKG-INFO
+[10.378s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs
+[10.378s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/interbotix_rpi_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[10.378s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/libinterbotix_rpi_msgs__rosidl_generator_py.so
+[10.378s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/msg
+[10.378s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/msg/_pixel_commands.py
+[10.378s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/msg/__init__.py
+[10.379s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/msg/_pixel_commands_s.c
+[10.379s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/interbotix_rpi_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[10.379s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/_interbotix_rpi_msgs_s.ep.rosidl_typesupport_c.c
+[10.379s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/_interbotix_rpi_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[10.379s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/_interbotix_rpi_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[10.379s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/__init__.py
+[10.379s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/interbotix_rpi_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[10.380s] Listing '/home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs'...
+[10.380s] Compiling '/home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/__init__.py'...
+[10.380s] Listing '/home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/msg'...
+[10.380s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/interbotix_rpi_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[10.380s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/interbotix_rpi_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so" to ""
+[10.380s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/interbotix_rpi_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[10.380s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/interbotix_rpi_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so" to ""
+[10.381s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/interbotix_rpi_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[10.381s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/local/lib/python3.10/dist-packages/interbotix_rpi_msgs/interbotix_rpi_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so" to ""
+[10.381s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/lib/libinterbotix_rpi_msgs__rosidl_generator_py.so
+[10.381s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/msg/PixelCommands.idl
+[10.381s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/msg/PixelCommands.msg
+[10.381s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/ament_index/resource_index/package_run_dependencies/interbotix_rpi_msgs
+[10.381s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/ament_index/resource_index/parent_prefix_path/interbotix_rpi_msgs
+[10.381s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/environment/ament_prefix_path.sh
+[10.382s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/environment/ament_prefix_path.dsv
+[10.382s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/environment/path.sh
+[10.382s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/environment/path.dsv
+[10.382s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/local_setup.bash
+[10.382s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/local_setup.sh
+[10.382s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/local_setup.zsh
+[10.382s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/local_setup.dsv
+[10.382s] -- Installing: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/package.dsv
+[10.382s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/ament_index/resource_index/packages/interbotix_rpi_msgs
+[10.383s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/export_interbotix_rpi_msgs__rosidl_generator_cExport.cmake
+[10.383s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/export_interbotix_rpi_msgs__rosidl_generator_cExport-noconfig.cmake
+[10.383s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/export_interbotix_rpi_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[10.383s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/export_interbotix_rpi_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[10.383s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/interbotix_rpi_msgs__rosidl_typesupport_introspection_cExport.cmake
+[10.383s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/interbotix_rpi_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[10.383s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/interbotix_rpi_msgs__rosidl_typesupport_cExport.cmake
+[10.383s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/interbotix_rpi_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[10.383s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/export_interbotix_rpi_msgs__rosidl_generator_cppExport.cmake
+[10.383s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/export_interbotix_rpi_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[10.384s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/export_interbotix_rpi_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[10.384s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/interbotix_rpi_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[10.384s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/interbotix_rpi_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[10.384s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/interbotix_rpi_msgs__rosidl_typesupport_cppExport.cmake
+[10.384s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/interbotix_rpi_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[10.384s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/export_interbotix_rpi_msgs__rosidl_generator_pyExport.cmake
+[10.384s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/export_interbotix_rpi_msgs__rosidl_generator_pyExport-noconfig.cmake
+[10.384s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/rosidl_cmake-extras.cmake
+[10.384s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[10.384s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[10.385s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[10.385s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[10.385s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[10.385s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[10.385s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/interbotix_rpi_msgsConfig.cmake
+[10.385s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/cmake/interbotix_rpi_msgsConfig-version.cmake
+[10.385s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/interbotix_rpi_msgs/share/interbotix_rpi_msgs/package.xml
+[10.864s] Invoked command in '/home/inouemakoto/interbotix_ws/build/interbotix_rpi_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/interbotix_rpi_msgs

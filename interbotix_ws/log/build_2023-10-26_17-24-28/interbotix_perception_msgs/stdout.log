@@ -1,0 +1,8 @@
+[  1%] Built target interbotix_perception_msgs__cpp
+[ 12%] Built target interbotix_perception_msgs__rosidl_generator_c
+[ 23%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp
+[ 34%] Built target interbotix_perception_msgs__rosidl_typesupport_cpp
+[ 56%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_c
+[ 56%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_cpp
+[ 72%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_c
+[ 78%] Built target interbotix_perception_msgs__rosidl_typesupport_c

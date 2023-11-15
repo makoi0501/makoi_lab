@@ -1,0 +1,4 @@
+source;share/vx300s_run_move_group/local_setup.bash
+source;share/vx300s_run_move_group/local_setup.dsv
+source;share/vx300s_run_move_group/local_setup.sh
+source;share/vx300s_run_move_group/local_setup.zsh

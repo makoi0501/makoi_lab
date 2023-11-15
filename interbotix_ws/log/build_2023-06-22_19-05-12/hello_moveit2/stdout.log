@@ -1,0 +1,3 @@
+[35m[1mConsolidate compiler generated dependencies of target hello_moveit2[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/hello_moveit2.dir/src/hello_moveit2.cpp.o[0m
+[100%] [32m[1mLinking CXX executable hello_moveit2[0m

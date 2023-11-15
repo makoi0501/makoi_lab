@@ -1,0 +1,36 @@
+[1.520s] Invoking command in '/home/inouemakoto/interbotix_ws/build/openvino_param_lib': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/ros2_openvino_toolkit/openvino_param_lib -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/openvino_param_lib
+[2.727s] -- The C compiler identification is GNU 11.4.0
+[2.727s] -- The CXX compiler identification is GNU 11.4.0
+[2.728s] -- Detecting C compiler ABI info
+[2.728s] -- Detecting C compiler ABI info - done
+[2.728s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.728s] -- Detecting C compile features
+[2.728s] -- Detecting C compile features - done
+[2.728s] -- Detecting CXX compiler ABI info
+[2.728s] -- Detecting CXX compiler ABI info - done
+[2.728s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.728s] -- Detecting CXX compile features
+[2.728s] -- Detecting CXX compile features - done
+[2.728s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.768s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[2.935s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.209s] -- Found yaml_cpp_vendor: 8.0.2 (/opt/ros/humble/share/yaml_cpp_vendor/cmake)
+[3.252s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.492s] -- Added test 'copyright' to check source files copyright and LICENSE
+[3.496s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[3.496s] -- Configured cppcheck include dirs: /home/inouemakoto/interbotix_ws/src/ros2_openvino_toolkit/openvino_param_lib/include
+[3.496s] -- Configured cppcheck exclude dirs and/or files: 
+[3.500s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[3.500s] -- Configured cpplint exclude dirs and/or files: 
+[3.502s] -- Added test 'lint_cmake' to check CMake code style
+[3.505s] -- Added test 'uncrustify' to check C / C++ code style
+[3.506s] -- Configured uncrustify additional arguments: 
+[3.508s] -- Added test 'xmllint' to check XML markup files
+[3.514s] -- Configuring done
+[3.518s] -- Generating done
+[3.519s] -- Build files have been written to: /home/inouemakoto/interbotix_ws/build/openvino_param_lib
+[3.525s] Invoked command in '/home/inouemakoto/interbotix_ws/build/openvino_param_lib' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/ros2_openvino_toolkit/openvino_param_lib -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/openvino_param_lib
+[3.531s] Invoking command in '/home/inouemakoto/interbotix_ws/build/openvino_param_lib': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/openvino_param_lib -- -j20 -l20
+[4.100s] [ 50%] [32mBuilding CXX object CMakeFiles/openvino_param_lib.dir/src/param_manager.cpp.o[0m
+[5.639s] [100%] [32m[1mLinking CXX shared library libopenvino_param_lib.so[0m
+[5.729s] [100%] Built target openvino_param_lib

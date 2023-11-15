@@ -1,0 +1,26 @@
+-- Install configuration: "Debug"
+-- Execute custom install script
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//launch/moveit_demo.launch.py
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/chomp_planning.yaml
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/kinematics.yaml
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/modes.yaml
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/ompl_planning.yaml
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/vx300s.srdf.xacro
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/vx300s_controllers.yaml
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/vx300s_joint_limits.yaml
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config//config/vx300s_ros2_controllers.yaml
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/ament_index/resource_index/package_run_dependencies/vx300s_moveit_config
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/ament_index/resource_index/parent_prefix_path/vx300s_moveit_config
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/environment/ament_prefix_path.sh
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/environment/ament_prefix_path.dsv
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/environment/path.sh
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/environment/path.dsv
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/local_setup.bash
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/local_setup.sh
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/local_setup.zsh
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/local_setup.dsv
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/package.dsv
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/ament_index/resource_index/packages/vx300s_moveit_config
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/cmake/vx300s_moveit_configConfig.cmake
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/cmake/vx300s_moveit_configConfig-version.cmake
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/vx300s_moveit_config/share/vx300s_moveit_config/package.xml

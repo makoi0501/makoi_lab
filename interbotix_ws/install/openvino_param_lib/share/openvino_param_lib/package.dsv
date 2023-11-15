@@ -1,0 +1,6 @@
+source;share/openvino_param_lib/hook/cmake_prefix_path.ps1
+source;share/openvino_param_lib/hook/cmake_prefix_path.dsv
+source;share/openvino_param_lib/hook/cmake_prefix_path.sh
+source;share/openvino_param_lib/hook/ld_library_path_lib.ps1
+source;share/openvino_param_lib/hook/ld_library_path_lib.dsv
+source;share/openvino_param_lib/hook/ld_library_path_lib.sh

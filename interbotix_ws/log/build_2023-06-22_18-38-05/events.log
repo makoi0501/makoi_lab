@@ -1,0 +1,182 @@
+[0.000000] (-) TimerEvent: {}
+[0.000092] (-) JobUnselected: {'identifier': 'dynamixel_workbench_toolbox'}
+[0.000114] (-) JobUnselected: {'identifier': 'graph_msgs'}
+[0.000130] (-) JobUnselected: {'identifier': 'interbotix_common_modules'}
+[0.000144] (-) JobUnselected: {'identifier': 'interbotix_common_sim'}
+[0.000157] (-) JobUnselected: {'identifier': 'interbotix_common_toolbox'}
+[0.000170] (-) JobUnselected: {'identifier': 'interbotix_moveit_interface'}
+[0.000183] (-) JobUnselected: {'identifier': 'interbotix_moveit_interface_msgs'}
+[0.000195] (-) JobUnselected: {'identifier': 'interbotix_ros_xsarms'}
+[0.000208] (-) JobUnselected: {'identifier': 'interbotix_ros_xsarms_examples'}
+[0.000220] (-) JobUnselected: {'identifier': 'interbotix_ros_xseries'}
+[0.000232] (-) JobUnselected: {'identifier': 'interbotix_tf_tools'}
+[0.000245] (-) JobUnselected: {'identifier': 'interbotix_xs_driver'}
+[0.000257] (-) JobUnselected: {'identifier': 'interbotix_xs_modules'}
+[0.000269] (-) JobUnselected: {'identifier': 'interbotix_xs_msgs'}
+[0.000281] (-) JobUnselected: {'identifier': 'interbotix_xs_ros_control'}
+[0.000294] (-) JobUnselected: {'identifier': 'interbotix_xs_rviz'}
+[0.000306] (-) JobUnselected: {'identifier': 'interbotix_xs_sdk'}
+[0.000318] (-) JobUnselected: {'identifier': 'interbotix_xs_toolbox'}
+[0.000331] (-) JobUnselected: {'identifier': 'interbotix_xsarm_control'}
+[0.000346] (-) JobUnselected: {'identifier': 'interbotix_xsarm_descriptions'}
+[0.000359] (-) JobUnselected: {'identifier': 'interbotix_xsarm_joy'}
+[0.000371] (-) JobUnselected: {'identifier': 'interbotix_xsarm_moveit'}
+[0.000384] (-) JobUnselected: {'identifier': 'interbotix_xsarm_moveit_interface'}
+[0.000396] (-) JobUnselected: {'identifier': 'interbotix_xsarm_ros_control'}
+[0.000409] (-) JobUnselected: {'identifier': 'interbotix_xsarm_sim'}
+[0.000421] (-) JobUnselected: {'identifier': 'moveit_interbotix_test1'}
+[0.000433] (-) JobUnselected: {'identifier': 'moveit_visual_tools'}
+[0.000446] (-) JobUnselected: {'identifier': 'rviz_visual_tools'}
+[0.000458] (-) JobUnselected: {'identifier': 'vx300s_moveit_config'}
+[0.000470] (-) JobUnselected: {'identifier': 'vx300s_run_move_group'}
+[0.000485] (hello_moveit2) JobQueued: {'identifier': 'hello_moveit2', 'dependencies': OrderedDict([('graph_msgs', '/home/inouemakoto/interbotix_ws/install/graph_msgs'), ('rviz_visual_tools', '/home/inouemakoto/interbotix_ws/install/rviz_visual_tools'), ('moveit_visual_tools', '/home/inouemakoto/interbotix_ws/install/moveit_visual_tools')])}
+[0.000506] (hello_moveit2) JobStarted: {'identifier': 'hello_moveit2'}
+[0.025626] (hello_moveit2) JobProgress: {'identifier': 'hello_moveit2', 'progress': 'cmake'}
+[0.026220] (hello_moveit2) JobProgress: {'identifier': 'hello_moveit2', 'progress': 'build'}
+[0.026774] (hello_moveit2) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/inouemakoto/interbotix_ws/build/hello_moveit2', '--', '-j20', '-l20'], 'cwd': '/home/inouemakoto/interbotix_ws/build/hello_moveit2', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'inouemakoto'), ('XDG_SESSION_TYPE', 'wayland'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/home/inouemakoto/interbotix_ws/install/moveit_visual_tools/lib:/home/inouemakoto/interbotix_ws/install/rviz_visual_tools/lib:/home/inouemakoto/interbotix_ws/install/graph_msgs/lib:/home/inouemakoto/interbotix_ws/install/interbotix_xs_rviz/lib:/home/inouemakoto/interbotix_ws/install/interbotix_xs_ros_control/lib:/home/inouemakoto/interbotix_ws/install/interbotix_xs_msgs/lib:/home/inouemakoto/interbotix_ws/install/interbotix_xs_driver/lib:/home/inouemakoto/interbotix_ws/install/interbotix_tf_tools/lib:/home/inouemakoto/interbotix_ws/install/interbotix_moveit_interface_msgs/lib:/home/inouemakoto/interbotix_ws/install/dynamixel_workbench_toolbox/lib:/home/inouemakoto/ws_moveit2/install/pilz_industrial_motion_planner_testutils/lib:/home/inouemakoto/ws_moveit2/install/pilz_industrial_motion_planner/lib:/home/inouemakoto/ws_moveit2/install/moveit_visual_tools/lib:/home/inouemakoto/ws_moveit2/install/moveit_ros_control_interface/lib:/home/inouemakoto/ws_moveit2/install/moveit_simple_controller_manager/lib:/home/inouemakoto/ws_moveit2/install/moveit_setup_assistant/lib:/home/inouemakoto/ws_moveit2/install/moveit_setup_srdf_plugins/lib:/home/inouemakoto/ws_moveit2/install/moveit_setup_core_plugins/lib:/home/inouemakoto/ws_moveit2/install/moveit_setup_controllers/lib:/home/inouemakoto/ws_moveit2/install/moveit_setup_app_plugins/lib:/home/inouemakoto/ws_moveit2/install/moveit_setup_framework/lib:/home/inouemakoto/ws_moveit2/install/moveit_servo/lib:/home/inouemakoto/ws_moveit2/install/moveit_ros_visualization/lib:/home/inouemakoto/ws_moveit2/install/moveit_hybrid_planning/lib:/home/inouemakoto/ws_moveit2/install/moveit_ros_planning_interface/lib:/home/inouemakoto/ws_moveit2/install/moveit_ros_benchmarks/lib:/home/inouemakoto/ws_moveit2/install/moveit_ros_warehouse/lib:/home/inouemakoto/ws_moveit2/install/moveit_ros_robot_interaction/lib:/home/inouemakoto/ws_moveit2/install/moveit_ros_perception/lib:/home/inouemakoto/ws_moveit2/install/moveit_ros_move_group/lib:/home/inouemakoto/ws_moveit2/install/moveit_planners_ompl/lib:/home/inouemakoto/ws_moveit2/install/moveit_ros_planning/lib:/home/inouemakoto/ws_moveit2/install/moveit_ros_occupancy_map_monitor/lib:/home/inouemakoto/ws_moveit2/install/moveit_resources_prbt_ikfast_manipulator_plugin/lib:/home/inouemakoto/ws_moveit2/install/moveit_planners_chomp/lib:/home/inouemakoto/ws_moveit2/install/moveit_kinematics/lib:/home/inouemakoto/ws_moveit2/install/moveit_chomp_optimizer_adapter/lib:/home/inouemakoto/ws_moveit2/install/chomp_motion_planner/lib:/home/inouemakoto/ws_moveit2/install/moveit_core/lib:/home/inouemakoto/ws_moveit2/install/srdfdom/lib:/home/inouemakoto/ws_moveit2/install/rviz_marker_tools/lib:/home/inouemakoto/ws_moveit2/install/rosparam_shortcuts/lib:/home/inouemakoto/ws_moveit2/install/moveit_task_constructor_msgs/lib:/home/inouemakoto/robotis_ws/install/dynamixel_sdk_custom_interfaces/lib:/home/inouemakoto/robotis_ws/install/dynamixel_sdk/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins'), ('HOME', '/home/inouemakoto'), ('OLDPWD', '/home/inouemakoto'), ('DESKTOP_SESSION', 'ubuntu'), ('GAZEBO_MASTER_URI', 'http://localhost:11345'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('ROS_IP', '172.24.36.11'), ('SYSTEMD_EXEC_PID', '1324'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('_colcon_cd_root', '/home/inouemakoto/'), ('IM_CONFIG_PHASE', '1'), ('WAYLAND_DISPLAY', 'wayland-0'), ('COLCON_PREFIX_PATH', '/home/inouemakoto/ws_moveit2/install:/home/inouemakoto/interbotix_ws/install:/home/inouemakoto/robotis_ws/install'), ('ROS_DISTRO', 'humble'), ('LOGNAME', 'inouemakoto'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'inouemakoto'), ('TERM', 'xterm-256color'), ('GAZEBO_MODEL_PATH', '/usr/share/gazebo-11/models:'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('OGRE_RESOURCE_PATH', '/usr/lib/x86_64-linux-gnu/OGRE-1.9.0'), ('PATH', '/home/inouemakoto/ws_moveit2/install/moveit_core/bin:/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/inouemakoto-OptiPlex-7090:@/tmp/.ICE-unix/1290,unix/inouemakoto-OptiPlex-7090:/tmp/.ICE-unix/1290'), ('XDG_MENU_PREFIX', 'gnome-'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/d3d5d245_94fa_4d1d_a9d6_24e22d37fab0'), ('GNOME_SETUP_DISPLAY', ':1'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':0'), ('LANG', 'ja_JP.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/.mutter-Xwaylandauth.1M9761'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('GNOME_TERMINAL_SERVICE', ':1.512'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group:/home/inouemakoto/interbotix_ws/install/vx300s_moveit_config:/home/inouemakoto/interbotix_ws/install/interbotix_ros_xsarms_examples:/home/inouemakoto/interbotix_ws/install/interbotix_xsarm_moveit_interface:/home/inouemakoto/interbotix_ws/install/interbotix_moveit_interface:/home/inouemakoto/interbotix_ws/install/moveit_visual_tools:/home/inouemakoto/interbotix_ws/install/rviz_visual_tools:/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1:/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test:/home/inouemakoto/interbotix_ws/install/interbotix_ros_xsarms:/home/inouemakoto/interbotix_ws/install/interbotix_xsarm_moveit:/home/inouemakoto/interbotix_ws/install/interbotix_xsarm_sim:/home/inouemakoto/interbotix_ws/install/interbotix_xsarm_ros_control:/home/inouemakoto/interbotix_ws/install/interbotix_xsarm_joy:/home/inouemakoto/interbotix_ws/install/interbotix_xsarm_control:/home/inouemakoto/interbotix_ws/install/interbotix_xsarm_descriptions:/home/inouemakoto/interbotix_ws/install/interbotix_xs_toolbox:/home/inouemakoto/interbotix_ws/install/interbotix_xs_rviz:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_ros_xseries:/home/inouemakoto/interbotix_ws/install/interbotix_xs_sdk:/home/inouemakoto/interbotix_ws/install/interbotix_xs_ros_control:/home/inouemakoto/interbotix_ws/install/interbotix_xs_msgs:/home/inouemakoto/interbotix_ws/install/interbotix_xs_driver:/home/inouemakoto/interbotix_ws/install/interbotix_tf_tools:/home/inouemakoto/interbotix_ws/install/interbotix_moveit_interface_msgs:/home/inouemakoto/interbotix_ws/install/interbotix_common_toolbox:/home/inouemakoto/interbotix_ws/install/interbotix_common_sim:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/hello_moveit2_interbotix:/home/inouemakoto/interbotix_ws/install/hello_moveit2:/home/inouemakoto/interbotix_ws/install/hello_moveit:/home/inouemakoto/interbotix_ws/install/graph_msgs:/home/inouemakoto/interbotix_ws/install/dynamixel_workbench_toolbox:/home/inouemakoto/ws_moveit2/install/pilz_industrial_motion_planner_testutils:/home/inouemakoto/ws_moveit2/install/moveit_runtime:/home/inouemakoto/ws_moveit2/install/moveit2_tutorials:/home/inouemakoto/ws_moveit2/install/moveit:/home/inouemakoto/ws_moveit2/install/moveit_planners:/home/inouemakoto/ws_moveit2/install/pilz_industrial_motion_planner:/home/inouemakoto/ws_moveit2/install/hello_moveit:/home/inouemakoto/ws_moveit2/install/moveit_visual_tools:/home/inouemakoto/ws_moveit2/install/moveit_ros_control_interface:/home/inouemakoto/ws_moveit2/install/moveit_plugins:/home/inouemakoto/ws_moveit2/install/moveit_simple_controller_manager:/home/inouemakoto/ws_moveit2/install/moveit_setup_assistant:/home/inouemakoto/ws_moveit2/install/moveit_setup_srdf_plugins:/home/inouemakoto/ws_moveit2/install/moveit_setup_core_plugins:/home/inouemakoto/ws_moveit2/install/moveit_setup_controllers:/home/inouemakoto/ws_moveit2/install/moveit_setup_app_plugins:/home/inouemakoto/ws_moveit2/install/moveit_setup_framework:/home/inouemakoto/ws_moveit2/install/moveit_servo:/home/inouemakoto/ws_moveit2/install/moveit_ros:/home/inouemakoto/ws_moveit2/install/moveit_ros_visualization:/home/inouemakoto/ws_moveit2/install/moveit_hybrid_planning:/home/inouemakoto/ws_moveit2/install/moveit_ros_planning_interface:/home/inouemakoto/ws_moveit2/install/moveit_ros_benchmarks:/home/inouemakoto/ws_moveit2/install/moveit_ros_warehouse:/home/inouemakoto/ws_moveit2/install/moveit_ros_robot_interaction:/home/inouemakoto/ws_moveit2/install/moveit_ros_perception:/home/inouemakoto/ws_moveit2/install/moveit_resources_prbt_pg70_support:/home/inouemakoto/ws_moveit2/install/moveit_resources_prbt_moveit_config:/home/inouemakoto/ws_moveit2/install/moveit_ros_move_group:/home/inouemakoto/ws_moveit2/install/moveit_planners_ompl:/home/inouemakoto/ws_moveit2/install/moveit_ros_planning:/home/inouemakoto/ws_moveit2/install/moveit_ros_occupancy_map_monitor:/home/inouemakoto/ws_moveit2/install/moveit_resources_prbt_ikfast_manipulator_plugin:/home/inouemakoto/ws_moveit2/install/moveit_planners_chomp:/home/inouemakoto/ws_moveit2/install/moveit_kinematics:/home/inouemakoto/ws_moveit2/install/moveit_chomp_optimizer_adapter:/home/inouemakoto/ws_moveit2/install/chomp_motion_planner:/home/inouemakoto/ws_moveit2/install/moveit_core:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/srdfdom:/home/inouemakoto/ws_moveit2/install/rviz_marker_tools:/home/inouemakoto/ws_moveit2/install/rosparam_shortcuts:/home/inouemakoto/ws_moveit2/install/moveit_task_constructor_msgs:/home/inouemakoto/ws_moveit2/install/moveit_resources_prbt_support:/home/inouemakoto/ws_moveit2/install/moveit_resources:/home/inouemakoto/ws_moveit2/install/moveit_resources_pr2_description:/home/inouemakoto/ws_moveit2/install/moveit_resources_panda_moveit_config:/home/inouemakoto/ws_moveit2/install/moveit_resources_panda_description:/home/inouemakoto/ws_moveit2/install/moveit_resources_fanuc_moveit_config:/home/inouemakoto/ws_moveit2/install/moveit_resources_fanuc_description:/home/inouemakoto/ws_moveit2/install/moveit_common:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/robotis_ws/install/dynamixel_sdk_examples:/home/inouemakoto/robotis_ws/install/dynamixel_sdk_custom_interfaces:/home/inouemakoto/robotis_ws/install/dynamixel_sdk:/opt/ros/humble'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('GAZEBO_RESOURCE_PATH', '/usr/share/gazebo-11:'), ('GAZEBO_MODEL_DATABASE_URI', 'http://models.gazebosim.org'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/inouemakoto/interbotix_ws/build/hello_moveit2'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('GAZEBO_PLUGIN_PATH', '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/home/inouemakoto/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules/lib/python3.10/site-packages:/home/inouemakoto/interbotix_ws/install/interbotix_xs_msgs/local/lib/python3.10/dist-packages:/home/inouemakoto/interbotix_ws/install/interbotix_moveit_interface_msgs/local/lib/python3.10/dist-packages:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages:/home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils/lib/python3.10/site-packages:/home/inouemakoto/ws_moveit2/install/srdfdom/local/lib/python3.10/dist-packages:/home/inouemakoto/ws_moveit2/install/moveit_task_constructor_msgs/local/lib/python3.10/dist-packages:/home/inouemakoto/ws_moveit2/install/launch_param_builder/lib/python3.10/site-packages:/home/inouemakoto/robotis_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('CMAKE_PREFIX_PATH', '/home/inouemakoto/interbotix_ws/install/moveit_visual_tools:/home/inouemakoto/interbotix_ws/install/rviz_visual_tools:/home/inouemakoto/interbotix_ws/install/graph_msgs:/home/inouemakoto/interbotix_ws/install/vx300s_run_move_group:/home/inouemakoto/interbotix_ws/install/vx300s_moveit_config:/home/inouemakoto/interbotix_ws/install/interbotix_ros_xsarms_examples:/home/inouemakoto/interbotix_ws/install/interbotix_xsarm_moveit_interface:/home/inouemakoto/interbotix_ws/install/interbotix_moveit_interface:/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1:/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test:/home/inouemakoto/interbotix_ws/install/interbotix_ros_xsarms:/home/inouemakoto/interbotix_ws/install/interbotix_xsarm_moveit:/home/inouemakoto/interbotix_ws/install/interbotix_xsarm_sim:/home/inouemakoto/interbotix_ws/install/interbotix_xsarm_ros_control:/home/inouemakoto/interbotix_ws/install/interbotix_xsarm_joy:/home/inouemakoto/interbotix_ws/install/interbotix_xsarm_control:/home/inouemakoto/interbotix_ws/install/interbotix_xsarm_descriptions:/home/inouemakoto/interbotix_ws/install/interbotix_xs_toolbox:/home/inouemakoto/interbotix_ws/install/interbotix_xs_rviz:/home/inouemakoto/interbotix_ws/install/interbotix_ros_xseries:/home/inouemakoto/interbotix_ws/install/interbotix_xs_sdk:/home/inouemakoto/interbotix_ws/install/interbotix_xs_ros_control:/home/inouemakoto/interbotix_ws/install/interbotix_xs_msgs:/home/inouemakoto/interbotix_ws/install/interbotix_xs_driver:/home/inouemakoto/interbotix_ws/install/interbotix_tf_tools:/home/inouemakoto/interbotix_ws/install/interbotix_moveit_interface_msgs:/home/inouemakoto/interbotix_ws/install/interbotix_common_toolbox:/home/inouemakoto/interbotix_ws/install/interbotix_common_sim:/home/inouemakoto/interbotix_ws/install/hello_moveit2_interbotix:/home/inouemakoto/interbotix_ws/install/hello_moveit2:/home/inouemakoto/interbotix_ws/install/hello_moveit:/home/inouemakoto/interbotix_ws/install/dynamixel_workbench_toolbox:/home/inouemakoto/ws_moveit2/install/pilz_industrial_motion_planner_testutils:/home/inouemakoto/ws_moveit2/install/moveit_runtime:/home/inouemakoto/ws_moveit2/install/moveit2_tutorials:/home/inouemakoto/ws_moveit2/install/moveit:/home/inouemakoto/ws_moveit2/install/moveit_planners:/home/inouemakoto/ws_moveit2/install/pilz_industrial_motion_planner:/home/inouemakoto/ws_moveit2/install/hello_moveit:/home/inouemakoto/ws_moveit2/install/moveit_visual_tools:/home/inouemakoto/ws_moveit2/install/moveit_ros_control_interface:/home/inouemakoto/ws_moveit2/install/moveit_plugins:/home/inouemakoto/ws_moveit2/install/moveit_simple_controller_manager:/home/inouemakoto/ws_moveit2/install/moveit_setup_assistant:/home/inouemakoto/ws_moveit2/install/moveit_setup_srdf_plugins:/home/inouemakoto/ws_moveit2/install/moveit_setup_core_plugins:/home/inouemakoto/ws_moveit2/install/moveit_setup_controllers:/home/inouemakoto/ws_moveit2/install/moveit_setup_app_plugins:/home/inouemakoto/ws_moveit2/install/moveit_setup_framework:/home/inouemakoto/ws_moveit2/install/moveit_servo:/home/inouemakoto/ws_moveit2/install/moveit_ros:/home/inouemakoto/ws_moveit2/install/moveit_ros_visualization:/home/inouemakoto/ws_moveit2/install/moveit_hybrid_planning:/home/inouemakoto/ws_moveit2/install/moveit_ros_planning_interface:/home/inouemakoto/ws_moveit2/install/moveit_ros_benchmarks:/home/inouemakoto/ws_moveit2/install/moveit_ros_warehouse:/home/inouemakoto/ws_moveit2/install/moveit_ros_robot_interaction:/home/inouemakoto/ws_moveit2/install/moveit_ros_perception:/home/inouemakoto/ws_moveit2/install/moveit_resources_prbt_pg70_support:/home/inouemakoto/ws_moveit2/install/moveit_resources_prbt_moveit_config:/home/inouemakoto/ws_moveit2/install/moveit_ros_move_group:/home/inouemakoto/ws_moveit2/install/moveit_planners_ompl:/home/inouemakoto/ws_moveit2/install/moveit_ros_planning:/home/inouemakoto/ws_moveit2/install/moveit_ros_occupancy_map_monitor:/home/inouemakoto/ws_moveit2/install/moveit_resources_prbt_ikfast_manipulator_plugin:/home/inouemakoto/ws_moveit2/install/moveit_planners_chomp:/home/inouemakoto/ws_moveit2/install/moveit_kinematics:/home/inouemakoto/ws_moveit2/install/moveit_chomp_optimizer_adapter:/home/inouemakoto/ws_moveit2/install/chomp_motion_planner:/home/inouemakoto/ws_moveit2/install/moveit_core:/home/inouemakoto/ws_moveit2/install/srdfdom:/home/inouemakoto/ws_moveit2/install/rviz_marker_tools:/home/inouemakoto/ws_moveit2/install/rosparam_shortcuts:/home/inouemakoto/ws_moveit2/install/moveit_task_constructor_msgs:/home/inouemakoto/ws_moveit2/install/moveit_resources_prbt_support:/home/inouemakoto/ws_moveit2/install/moveit_resources:/home/inouemakoto/ws_moveit2/install/moveit_resources_pr2_description:/home/inouemakoto/ws_moveit2/install/moveit_resources_panda_moveit_config:/home/inouemakoto/ws_moveit2/install/moveit_resources_panda_description:/home/inouemakoto/ws_moveit2/install/moveit_resources_fanuc_moveit_config:/home/inouemakoto/ws_moveit2/install/moveit_resources_fanuc_description:/home/inouemakoto/ws_moveit2/install/moveit_common:/home/inouemakoto/robotis_ws/install/dynamixel_sdk_examples:/home/inouemakoto/robotis_ws/install/dynamixel_sdk_custom_interfaces:/home/inouemakoto/robotis_ws/install/dynamixel_sdk:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble')]), 'shell': False}
+[0.085998] (hello_moveit2) StdoutLine: {'line': b'\x1b[35m\x1b[1mConsolidate compiler generated dependencies of target hello_moveit2\x1b[0m\n'}
+[0.099112] (-) TimerEvent: {}
+[0.116809] (hello_moveit2) StdoutLine: {'line': b'[ 50%] \x1b[32mBuilding CXX object CMakeFiles/hello_moveit2.dir/src/hello_moveit2.cpp.o\x1b[0m\n'}
+[0.199357] (-) TimerEvent: {}
+[0.299710] (-) TimerEvent: {}
+[0.400000] (-) TimerEvent: {}
+[0.500250] (-) TimerEvent: {}
+[0.600700] (-) TimerEvent: {}
+[0.701273] (-) TimerEvent: {}
+[0.801558] (-) TimerEvent: {}
+[0.901831] (-) TimerEvent: {}
+[1.002105] (-) TimerEvent: {}
+[1.102337] (-) TimerEvent: {}
+[1.202617] (-) TimerEvent: {}
+[1.302892] (-) TimerEvent: {}
+[1.403183] (-) TimerEvent: {}
+[1.503421] (-) TimerEvent: {}
+[1.603710] (-) TimerEvent: {}
+[1.704029] (-) TimerEvent: {}
+[1.804304] (-) TimerEvent: {}
+[1.904568] (-) TimerEvent: {}
+[2.004833] (-) TimerEvent: {}
+[2.105099] (-) TimerEvent: {}
+[2.205358] (-) TimerEvent: {}
+[2.305630] (-) TimerEvent: {}
+[2.405887] (-) TimerEvent: {}
+[2.506149] (-) TimerEvent: {}
+[2.606416] (-) TimerEvent: {}
+[2.706684] (-) TimerEvent: {}
+[2.806947] (-) TimerEvent: {}
+[2.907208] (-) TimerEvent: {}
+[3.007470] (-) TimerEvent: {}
+[3.107740] (-) TimerEvent: {}
+[3.208009] (-) TimerEvent: {}
+[3.308269] (-) TimerEvent: {}
+[3.408559] (-) TimerEvent: {}
+[3.508846] (-) TimerEvent: {}
+[3.609131] (-) TimerEvent: {}
+[3.709405] (-) TimerEvent: {}
+[3.809676] (-) TimerEvent: {}
+[3.909947] (-) TimerEvent: {}
+[4.010228] (-) TimerEvent: {}
+[4.110505] (-) TimerEvent: {}
+[4.210772] (-) TimerEvent: {}
+[4.311047] (-) TimerEvent: {}
+[4.411318] (-) TimerEvent: {}
+[4.511585] (-) TimerEvent: {}
+[4.611865] (-) TimerEvent: {}
+[4.712145] (-) TimerEvent: {}
+[4.812420] (-) TimerEvent: {}
+[4.912694] (-) TimerEvent: {}
+[5.012965] (-) TimerEvent: {}
+[5.113248] (-) TimerEvent: {}
+[5.213526] (-) TimerEvent: {}
+[5.313804] (-) TimerEvent: {}
+[5.414100] (-) TimerEvent: {}
+[5.514394] (-) TimerEvent: {}
+[5.614632] (-) TimerEvent: {}
+[5.714902] (-) TimerEvent: {}
+[5.815142] (-) TimerEvent: {}
+[5.915420] (-) TimerEvent: {}
+[6.015694] (-) TimerEvent: {}
+[6.116001] (-) TimerEvent: {}
+[6.216298] (-) TimerEvent: {}
+[6.316576] (-) TimerEvent: {}
+[6.416851] (-) TimerEvent: {}
+[6.517127] (-) TimerEvent: {}
+[6.617408] (-) TimerEvent: {}
+[6.717683] (-) TimerEvent: {}
+[6.817956] (-) TimerEvent: {}
+[6.918222] (-) TimerEvent: {}
+[6.978523] (hello_moveit2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:\x1b[m\x1b[K In lambda function:\n'}
+[6.978687] (hello_moveit2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:59:22:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Kexpected primary-expression before \xe2\x80\x98\x1b[01m\x1b[K.\x1b[m\x1b[K\xe2\x80\x99 token\n'}
+[6.978753] (hello_moveit2) StderrLine: {'line': b'   59 |   moveit_visual_tools\x1b[01;31m\x1b[K.\x1b[m\x1b[Kprompt(text);\n'}
+[6.978814] (hello_moveit2) StderrLine: {'line': b'      |                      \x1b[01;31m\x1b[K^\x1b[m\x1b[K\n'}
+[6.978971] (hello_moveit2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:\x1b[m\x1b[K In function \xe2\x80\x98\x1b[01m\x1b[Kint main(int, char**)\x1b[m\x1b[K\xe2\x80\x99:\n'}
+[6.979036] (hello_moveit2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:67:3:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kgeometry_asgs\x1b[m\x1b[K\xe2\x80\x99 has not been declared\n'}
+[6.979094] (hello_moveit2) StderrLine: {'line': b'   67 |   \x1b[01;31m\x1b[Kgeometry_asgs\x1b[m\x1b[K::msg::Pose target_pose1;\n'}
+[6.979148] (hello_moveit2) StderrLine: {'line': b'      |   \x1b[01;31m\x1b[K^~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[6.987082] (hello_moveit2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:68:3:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Ktarget_pose1\x1b[m\x1b[K\xe2\x80\x99 was not declared in this scope\n'}
+[6.987172] (hello_moveit2) StderrLine: {'line': b'   68 |   \x1b[01;31m\x1b[Ktarget_pose1\x1b[m\x1b[K.orientation.w = 1.0;\n'}
+[6.987236] (hello_moveit2) StderrLine: {'line': b'      |   \x1b[01;31m\x1b[K^~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[6.987364] (hello_moveit2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:76:61:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kmoveit::core::MoveitErroeCode\x1b[m\x1b[K\xe2\x80\x99 has not been declared\n'}
+[6.987452] (hello_moveit2) StderrLine: {'line': b'   76 |   bool success = (move_group.plan(my_plan) == moveit::core::\x1b[01;31m\x1b[KMoveitErroeCode\x1b[m\x1b[K::SUCCESS);\n'}
+[6.987513] (hello_moveit2) StderrLine: {'line': b'      |                                                             \x1b[01;31m\x1b[K^~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[6.987646] (hello_moveit2) StderrLine: {'line': b'In file included from \x1b[01m\x1b[K/home/inouemakoto/ws_moveit2/install/moveit_core/include/moveit/kinematics_base/kinematics_base.h:42\x1b[m\x1b[K,\n'}
+[6.987734] (hello_moveit2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/inouemakoto/ws_moveit2/install/moveit_core/include/moveit/robot_model/joint_model_group.h:42\x1b[m\x1b[K,\n'}
+[6.987795] (hello_moveit2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/inouemakoto/ws_moveit2/install/moveit_core/include/moveit/robot_model/robot_model.h:45\x1b[m\x1b[K,\n'}
+[6.987852] (hello_moveit2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/inouemakoto/ws_moveit2/install/moveit_core/include/moveit/robot_state/robot_state.h:40\x1b[m\x1b[K,\n'}
+[6.988005] (hello_moveit2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/inouemakoto/ws_moveit2/install/moveit_ros_planning_interface/include/moveit/move_group_interface/move_group_interface.h:41\x1b[m\x1b[K,\n'}
+[6.988072] (hello_moveit2) StderrLine: {'line': b'                 from \x1b[01m\x1b[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:1\x1b[m\x1b[K:\n'}
+[6.988139] (hello_moveit2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:81:3:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[Kexpected \xe2\x80\x98\x1b[01m\x1b[K;\x1b[m\x1b[K\xe2\x80\x99 before \xe2\x80\x98\x1b[01m\x1b[Kdo\x1b[m\x1b[K\xe2\x80\x99\n'}
+[6.988198] (hello_moveit2) StderrLine: {'line': b'   81 |   \x1b[01;31m\x1b[KRCLCPP_INFO\x1b[m\x1b[K(LOGGER, "visualizing plan 1 as trajectory line");\n'}
+[6.988255] (hello_moveit2) StderrLine: {'line': b'      |   \x1b[01;31m\x1b[K^~~~~~~~~~~\x1b[m\x1b[K\n'}
+[6.988312] (hello_moveit2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:82:16:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kmoveit_visual_tools::MoveItVisualToolsPtr\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Kclass std::shared_ptr<moveit_visual_tools::MoveItVisualTools>\x1b[m\x1b[K\xe2\x80\x99} has no member named \xe2\x80\x98\x1b[01m\x1b[KpublishAxisLabeled\x1b[m\x1b[K\xe2\x80\x99\n'}
+[6.988372] (hello_moveit2) StderrLine: {'line': b'   82 |   visual_tools.\x1b[01;31m\x1b[KpublishAxisLabeled\x1b[m\x1b[K(target_pose1, "pose1");\n'}
+[6.988501] (hello_moveit2) StderrLine: {'line': b'      |                \x1b[01;31m\x1b[K^~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[6.988584] (hello_moveit2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:83:16:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kmoveit_visual_tools::MoveItVisualToolsPtr\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Kclass std::shared_ptr<moveit_visual_tools::MoveItVisualTools>\x1b[m\x1b[K\xe2\x80\x99} has no member named \xe2\x80\x98\x1b[01m\x1b[KpublishText\x1b[m\x1b[K\xe2\x80\x99\n'}
+[6.988648] (hello_moveit2) StderrLine: {'line': b'   83 |   visual_tools.\x1b[01;31m\x1b[KpublishText\x1b[m\x1b[K(text_pose, "Pose_Goal", rvt::WHITE, rvt::XLARGE);\n'}
+[6.988705] (hello_moveit2) StderrLine: {'line': b'      |                \x1b[01;31m\x1b[K^~~~~~~~~~~\x1b[m\x1b[K\n'}
+[6.988759] (hello_moveit2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:83:52:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Krvt\x1b[m\x1b[K\xe2\x80\x99 has not been declared\n'}
+[6.988813] (hello_moveit2) StderrLine: {'line': b'   83 |   visual_tools.publishText(text_pose, "Pose_Goal", \x1b[01;31m\x1b[Krvt\x1b[m\x1b[K::WHITE, rvt::XLARGE);\n'}
+[6.988866] (hello_moveit2) StderrLine: {'line': b'      |                                                    \x1b[01;31m\x1b[K^~~\x1b[m\x1b[K\n'}
+[6.988919] (hello_moveit2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:83:64:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Krvt\x1b[m\x1b[K\xe2\x80\x99 has not been declared\n'}
+[6.988980] (hello_moveit2) StderrLine: {'line': b'   83 |   visual_tools.publishText(text_pose, "Pose_Goal", rvt::WHITE, \x1b[01;31m\x1b[Krvt\x1b[m\x1b[K::XLARGE);\n'}
+[6.989052] (hello_moveit2) StderrLine: {'line': b'      |                                                                \x1b[01;31m\x1b[K^~~\x1b[m\x1b[K\n'}
+[6.989105] (hello_moveit2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:84:16:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kmoveit_visual_tools::MoveItVisualToolsPtr\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Kclass std::shared_ptr<moveit_visual_tools::MoveItVisualTools>\x1b[m\x1b[K\xe2\x80\x99} has no member named \xe2\x80\x98\x1b[01m\x1b[KpublishTrajectoryLine\x1b[m\x1b[K\xe2\x80\x99\n'}
+[6.989160] (hello_moveit2) StderrLine: {'line': b'   84 |   visual_tools.\x1b[01;31m\x1b[KpublishTrajectoryLine\x1b[m\x1b[K(myplan.trajectory, joint_model_group);\n'}
+[6.989212] (hello_moveit2) StderrLine: {'line': b'      |                \x1b[01;31m\x1b[K^~~~~~~~~~~~~~~~~~~~~\x1b[m\x1b[K\n'}
+[6.991690] (hello_moveit2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:84:38:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kmyplan\x1b[m\x1b[K\xe2\x80\x99 was not declared in this scope; did you mean \xe2\x80\x98\x1b[01m\x1b[Kmy_plan\x1b[m\x1b[K\xe2\x80\x99?\n'}
+[6.991781] (hello_moveit2) StderrLine: {'line': b'   84 |   visual_tools.publishTrajectoryLine(\x1b[01;31m\x1b[Kmyplan\x1b[m\x1b[K.trajectory, joint_model_group);\n'}
+[6.991841] (hello_moveit2) StderrLine: {'line': b'      |                                      \x1b[01;31m\x1b[K^~~~~~\x1b[m\x1b[K\n'}
+[6.991897] (hello_moveit2) StderrLine: {'line': b'      |                                      \x1b[32m\x1b[Kmy_plan\x1b[m\x1b[K\n'}
+[6.991950] (hello_moveit2) StderrLine: {'line': b'\x1b[01m\x1b[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:85:16:\x1b[m\x1b[K \x1b[01;31m\x1b[Kerror: \x1b[m\x1b[K\xe2\x80\x98\x1b[01m\x1b[Kmoveit_visual_tools::MoveItVisualToolsPtr\x1b[m\x1b[K\xe2\x80\x99 {aka \xe2\x80\x98\x1b[01m\x1b[Kclass std::shared_ptr<moveit_visual_tools::MoveItVisualTools>\x1b[m\x1b[K\xe2\x80\x99} has no member named \xe2\x80\x98\x1b[01m\x1b[Ktrigger\x1b[m\x1b[K\xe2\x80\x99\n'}
+[6.992006] (hello_moveit2) StderrLine: {'line': b'   85 |   visual_tools.\x1b[01;31m\x1b[Ktrigger\x1b[m\x1b[K();\n'}
+[6.992058] (hello_moveit2) StderrLine: {'line': b'      |                \x1b[01;31m\x1b[K^~~~~~~\x1b[m\x1b[K\n'}
+[7.018340] (-) TimerEvent: {}
+[7.118602] (-) TimerEvent: {}
+[7.218872] (-) TimerEvent: {}
+[7.319144] (-) TimerEvent: {}
+[7.419414] (-) TimerEvent: {}
+[7.519683] (-) TimerEvent: {}
+[7.619955] (-) TimerEvent: {}
+[7.720232] (-) TimerEvent: {}
+[7.820504] (-) TimerEvent: {}
+[7.920772] (-) TimerEvent: {}
+[8.021045] (-) TimerEvent: {}
+[8.121315] (-) TimerEvent: {}
+[8.221585] (-) TimerEvent: {}
+[8.321855] (-) TimerEvent: {}
+[8.422124] (-) TimerEvent: {}
+[8.522406] (-) TimerEvent: {}
+[8.622679] (-) TimerEvent: {}
+[8.722923] (-) TimerEvent: {}
+[8.823210] (-) TimerEvent: {}
+[8.923479] (-) TimerEvent: {}
+[9.023746] (-) TimerEvent: {}
+[9.124024] (-) TimerEvent: {}
+[9.224322] (-) TimerEvent: {}
+[9.282038] (hello_moveit2) StderrLine: {'line': b'gmake[2]: *** [CMakeFiles/hello_moveit2.dir/build.make:76: CMakeFiles/hello_moveit2.dir/src/hello_moveit2.cpp.o] Error 1\n'}
+[9.282247] (hello_moveit2) StderrLine: {'line': b'gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/hello_moveit2.dir/all] Error 2\n'}
+[9.282543] (hello_moveit2) StderrLine: {'line': b'gmake: *** [Makefile:146: all] Error 2\n'}
+[9.284252] (hello_moveit2) CommandEnded: {'returncode': 2}
+[9.324564] (-) TimerEvent: {}
+[9.333988] (hello_moveit2) JobEnded: {'identifier': 'hello_moveit2', 'rc': 2}
+[9.344982] (-) EventReactorShutdown: {}

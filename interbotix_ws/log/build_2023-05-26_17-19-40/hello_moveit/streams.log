@@ -1,0 +1,73 @@
+[0.262s] Invoking command in '/home/inouemakoto/interbotix_ws/build/hello_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/hello_moveit -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/hello_moveit
+[0.372s] -- The C compiler identification is GNU 11.3.0
+[0.472s] -- The CXX compiler identification is GNU 11.3.0
+[0.482s] -- Detecting C compiler ABI info
+[0.549s] -- Detecting C compiler ABI info - done
+[0.554s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.555s] -- Detecting C compile features
+[0.555s] -- Detecting C compile features - done
+[0.562s] -- Detecting CXX compiler ABI info
+[0.625s] -- Detecting CXX compiler ABI info - done
+[0.632s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.632s] -- Detecting CXX compile features
+[0.633s] -- Detecting CXX compile features - done
+[0.638s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.813s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.928s] -- Found moveit_ros_planning_interface: 2.5.4 (/opt/ros/humble/share/moveit_ros_planning_interface/cmake)
+[1.087s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: date_time filesystem program_options system thread 
+[1.157s] -- Found rosidl_generator_c: 3.1.4 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.169s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.181s] -- Found rosidl_generator_cpp: 3.1.4 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.203s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.235s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.123s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+[2.144s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: filesystem 
+[2.260s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.266s] -- Found rmw_fastrtps_cpp: 6.2.2 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[2.366s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[2.395s] -- Found FastRTPS: /opt/ros/humble/include  
+[2.446s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[2.461s] -- Found Threads: TRUE  
+[2.664s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[2.824s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[2.825s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[3.349s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread chrono 
+[3.849s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: thread system filesystem regex date_time program_options 
+[4.094s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread 
+[4.506s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.588s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.588s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/inouemakoto/interbotix_ws/src/hello_moveit/include>
+[4.588s] -- Configured cppcheck exclude dirs and/or files: 
+[4.592s] -- Added test 'lint_cmake' to check CMake code style
+[4.596s] -- Added test 'uncrustify' to check C / C++ code style
+[4.596s] -- Configured uncrustify additional arguments: 
+[4.598s] -- Added test 'xmllint' to check XML markup files
+[4.602s] -- Configuring done
+[4.628s] -- Generating done
+[4.630s] -- Build files have been written to: /home/inouemakoto/interbotix_ws/build/hello_moveit
+[4.640s] Invoked command in '/home/inouemakoto/interbotix_ws/build/hello_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/hello_moveit -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/hello_moveit
+[4.641s] Invoking command in '/home/inouemakoto/interbotix_ws/build/hello_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/hello_moveit -- -j20 -l20
+[4.683s] [ 50%] [32mBuilding CXX object CMakeFiles/hello_moveit.dir/src/hello_moveit.cpp.o[0m
+[11.250s] [100%] [32m[1mLinking CXX executable hello_moveit[0m
+[11.505s] [100%] Built target hello_moveit
+[11.513s] Invoked command in '/home/inouemakoto/interbotix_ws/build/hello_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/hello_moveit -- -j20 -l20
+[11.534s] Invoking command in '/home/inouemakoto/interbotix_ws/build/hello_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/hello_moveit
+[11.540s] -- Install configuration: ""
+[11.540s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/lib/hello_moveit/hello_moveit
+[11.541s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/hello_moveit/lib/hello_moveit/hello_moveit" to ""
+[11.541s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/share/ament_index/resource_index/package_run_dependencies/hello_moveit
+[11.541s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/share/ament_index/resource_index/parent_prefix_path/hello_moveit
+[11.541s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/share/hello_moveit/environment/ament_prefix_path.sh
+[11.541s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/share/hello_moveit/environment/ament_prefix_path.dsv
+[11.541s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/share/hello_moveit/environment/path.sh
+[11.542s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/share/hello_moveit/environment/path.dsv
+[11.542s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/share/hello_moveit/local_setup.bash
+[11.542s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/share/hello_moveit/local_setup.sh
+[11.542s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/share/hello_moveit/local_setup.zsh
+[11.542s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/share/hello_moveit/local_setup.dsv
+[11.542s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/share/hello_moveit/package.dsv
+[11.542s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/share/ament_index/resource_index/packages/hello_moveit
+[11.542s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/share/hello_moveit/cmake/hello_moveitConfig.cmake
+[11.542s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/share/hello_moveit/cmake/hello_moveitConfig-version.cmake
+[11.542s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit/share/hello_moveit/package.xml
+[11.545s] Invoked command in '/home/inouemakoto/interbotix_ws/build/hello_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/hello_moveit

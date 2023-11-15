@@ -1,0 +1,74 @@
+[1.894s] Invoking command in '/home/inouemakoto/interbotix_ws/build/graph_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/graph_msgs -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/graph_msgs
+[2.007s] -- The C compiler identification is GNU 11.4.0
+[2.154s] -- The CXX compiler identification is GNU 11.4.0
+[2.169s] -- Detecting C compiler ABI info
+[2.347s] -- Detecting C compiler ABI info - done
+[2.361s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.361s] -- Detecting C compile features
+[2.361s] -- Detecting C compile features - done
+[2.366s] -- Detecting CXX compiler ABI info
+[2.578s] -- Detecting CXX compiler ABI info - done
+[2.596s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.596s] -- Detecting CXX compile features
+[2.596s] -- Detecting CXX compile features - done
+[2.620s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[3.782s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[4.233s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[4.299s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.352s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[4.499s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[4.632s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[4.702s] -- Found std_msgs: 4.2.3 (/opt/ros/humble/share/std_msgs/cmake)
+[4.767s] -- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+[5.457s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[6.049s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[6.624s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[6.657s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[6.668s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[6.716s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[6.716s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[6.717s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[6.717s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[6.763s] -- Found PythonExtra: .so  
+[7.162s] -- Found ament_lint_auto: 0.12.8 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[7.210s] -- Configuring done
+[7.300s] -- Generating done
+[7.305s] -- Build files have been written to: /home/inouemakoto/interbotix_ws/build/graph_msgs
+[7.806s] Invoked command in '/home/inouemakoto/interbotix_ws/build/graph_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/graph_msgs -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/graph_msgs
+[7.807s] Invoking command in '/home/inouemakoto/interbotix_ws/build/graph_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/graph_msgs -- -j20 -l20
+[7.889s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_generator_c[0m
+[7.922s] [ 10%] Built target graph_msgs__rosidl_generator_c
+[7.925s] [ 12%] Built target graph_msgs__cpp
+[7.960s] [ 12%] Built target ament_cmake_python_copy_graph_msgs
+[7.978s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_fastrtps_c[0m
+[7.995s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_c[0m
+[7.999s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_introspection_cpp[0m
+[8.002s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_introspection_c[0m
+[8.010s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[8.028s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_cpp[0m
+[8.044s] [ 23%] Built target graph_msgs__rosidl_typesupport_fastrtps_c
+[8.101s] [ 33%] Built target graph_msgs__rosidl_typesupport_introspection_c
+[8.115s] [ 43%] Built target graph_msgs__rosidl_typesupport_c
+[8.128s] [ 53%] Built target graph_msgs__rosidl_typesupport_introspection_cpp
+[8.144s] [ 64%] Built target graph_msgs__rosidl_typesupport_cpp
+[8.156s] [ 74%] Built target graph_msgs__rosidl_typesupport_fastrtps_cpp
+[8.246s] [ 74%] Built target graph_msgs
+[8.312s] [ 76%] Built target graph_msgs__py
+[8.350s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_generator_py[0m
+[8.385s] [ 84%] Built target graph_msgs__rosidl_generator_py
+[8.431s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[8.440s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[8.457s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_c__pyext[0m
+[8.471s] [ 87%] [32m[1mLinking C shared library rosidl_generator_py/graph_msgs/graph_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so[0m
+[8.492s] [ 89%] [32m[1mLinking C shared library rosidl_generator_py/graph_msgs/graph_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so[0m
+[8.516s] running egg_info
+[8.540s] [ 92%] [32m[1mLinking C shared library rosidl_generator_py/graph_msgs/graph_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so[0m
+[8.558s] writing graph_msgs.egg-info/PKG-INFO
+[8.559s] writing dependency_links to graph_msgs.egg-info/dependency_links.txt
+[8.559s] writing top-level names to graph_msgs.egg-info/top_level.txt
+[8.623s] [ 94%] Built target graph_msgs__rosidl_typesupport_fastrtps_c__pyext
+[8.641s] [ 97%] Built target graph_msgs__rosidl_typesupport_introspection_c__pyext
+[8.654s] reading manifest file 'graph_msgs.egg-info/SOURCES.txt'
+[8.655s] writing manifest file 'graph_msgs.egg-info/SOURCES.txt'
+[8.690s] [100%] Built target graph_msgs__rosidl_typesupport_c__pyext
+[8.753s] [100%] Built target ament_cmake_python_build_graph_msgs_egg

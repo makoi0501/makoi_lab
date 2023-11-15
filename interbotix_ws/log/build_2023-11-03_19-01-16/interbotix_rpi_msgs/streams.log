@@ -1,0 +1,32 @@
+[2.055s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_rpi_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/yolov5_ros2:/home/inouemakoto/interbotix_ws/install/interbotix_landmark_modules:/home/inouemakoto/interbotix_ws/install/interbotix_perception_modules:/home/inouemakoto/interbotix_ws/install/pick_vision:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/opencv_tests:/home/inouemakoto/interbotix_ws/install/opencv_ros2:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/interbotix_ws/install/camera:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_moveit_interface_msgs:/home/inouemakoto/install/interbotix_common_modules:/home/inouemakoto/install/camera:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/interbotix_rpi_msgs -- -j20 -l20
+[3.453s] [  3%] Built target interbotix_rpi_msgs__cpp
+[3.453s] [ 12%] Built target interbotix_rpi_msgs__rosidl_generator_c
+[3.453s] [ 12%] Built target ament_cmake_python_copy_interbotix_rpi_msgs
+[3.453s] [ 22%] Built target interbotix_rpi_msgs__rosidl_typesupport_fastrtps_cpp
+[3.453s] [ 32%] Built target interbotix_rpi_msgs__rosidl_typesupport_cpp
+[3.453s] [ 41%] Built target interbotix_rpi_msgs__rosidl_typesupport_introspection_cpp
+[3.454s] [ 51%] Built target interbotix_rpi_msgs__rosidl_typesupport_c
+[3.454s] [ 61%] Built target interbotix_rpi_msgs__rosidl_typesupport_introspection_c
+[3.454s] [ 70%] Built target interbotix_rpi_msgs__rosidl_typesupport_fastrtps_c
+[3.455s] Traceback (most recent call last):
+[3.455s]   File "/home/inouemakoto/interbotix_ws/build/interbotix_rpi_msgs/ament_cmake_python/interbotix_rpi_msgs/setup.py", line 1, in <module>
+[3.455s]     from setuptools import find_packages
+[3.455s]   File "/home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/__init__.py", line 3, in <module>
+[3.455s] gmake[2]: *** [CMakeFiles/interbotix_rpi_msgs.dir/build.make:114: CMakeFiles/interbotix_rpi_msgs.dir/depend] Interrupt
+[3.455s]     from fnmatch import fnmatchcase
+[3.455s]   File "/usr/lib/python3.10/fnmatch.py", line 14, in <module>
+[3.455s] gmake[1]: *** [CMakeFiles/Makefile2:186: CMakeFiles/interbotix_rpi_msgs.dir/all] Interrupt
+[3.455s]     import re
+[3.455s]   File "/usr/lib/python3.10/re.py", line 336, in <module>
+[3.455s]     import copyreg
+[3.455s]   File "<frozen importlib._bootstrap>", line 1027, in _find_and_load
+[3.455s]   File "<frozen importlib._bootstrap>", line 1002, in _find_and_load_unlocked
+[3.455s]   File "<frozen importlib._bootstrap>", line 945, in _find_spec
+[3.455s]   File "<frozen importlib._bootstrap_external>", line 1439, in find_spec
+[3.456s]   File "<frozen importlib._bootstrap_external>", line 1411, in _get_spec
+[3.456s]   File "<frozen importlib._bootstrap_external>", line 1572, in find_spec
+[3.456s]   File "<frozen importlib._bootstrap_external>", line 126, in _path_join
+[3.456s] KeyboardInterrupt
+[3.456s] gmake[2]: *** [CMakeFiles/ament_cmake_python_build_interbotix_rpi_msgs_egg.dir/build.make:70: CMakeFiles/ament_cmake_python_build_interbotix_rpi_msgs_egg] Interrupt
+[3.456s] gmake[1]: *** [CMakeFiles/Makefile2:447: CMakeFiles/ament_cmake_python_build_interbotix_rpi_msgs_egg.dir/all] Interrupt
+[3.456s] gmake: *** [Makefile:146: all] Interrupt

@@ -1,0 +1,31 @@
+[0.156s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_xs_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_msgs -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/interbotix_xs_msgs
+[0.776s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.776s] -- Found ament_cmake_core: 1.3.4 (/opt/ros/humble/share/ament_cmake_core/cmake)
+[0.776s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.777s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.777s] -- Found rosidl_adapter: 3.1.4 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.777s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.777s] -- Found std_msgs: 4.2.3 (/opt/ros/humble/share/std_msgs/cmake)
+[0.777s] -- Found trajectory_msgs: 4.2.3 (/opt/ros/humble/share/trajectory_msgs/cmake)
+[1.048s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[1.374s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.773s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.801s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.828s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.829s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.829s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[2.013s] -- Found ament_lint_auto: 0.12.6 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.039s] -- Configuring done
+[2.096s] -- Generating done
+[2.100s] -- Build files have been written to: /home/inouemakoto/interbotix_ws/build/interbotix_xs_msgs
+[2.116s] Invoked command in '/home/inouemakoto/interbotix_ws/build/interbotix_xs_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/src/interbotix_ros_core/interbotix_ros_xseries/interbotix_xs_msgs -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/interbotix_xs_msgs
+[2.117s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_xs_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/interbotix_xs_msgs -- -j20 -l20
+[2.175s] [35m[1mConsolidate compiler generated dependencies of target interbotix_xs_msgs__rosidl_generator_c[0m
+[2.185s] failed to create symbolic link '/home/inouemakoto/interbotix_ws/build/interbotix_xs_msgs/ament_cmake_python/interbotix_xs_msgs/interbotix_xs_msgs' because existing path cannot be removed: Is a directory
+[2.186s] gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_interbotix_xs_msgs.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_interbotix_xs_msgs] Error 1
+[2.186s] gmake[1]: *** [CMakeFiles/Makefile2:421: CMakeFiles/ament_cmake_python_symlink_interbotix_xs_msgs.dir/all] Error 2
+[2.186s] gmake[1]: *** Waiting for unfinished jobs....
+[2.188s] [  0%] Built target interbotix_xs_msgs__cpp
+[2.194s] [ 12%] Built target interbotix_xs_msgs__rosidl_generator_c
+[2.194s] gmake: *** [Makefile:146: all] Error 2
+[2.196s] Invoked command in '/home/inouemakoto/interbotix_ws/build/interbotix_xs_msgs' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/interbotix_xs_msgs -- -j20 -l20

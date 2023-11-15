@@ -1,0 +1,1 @@
+/home/inouemakoto/interbotix_ws/src/vx300s_moveit_config/launch/moveit_demo.launch.py

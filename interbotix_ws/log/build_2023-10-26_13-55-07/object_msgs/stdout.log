@@ -1,0 +1,7 @@
+[35m[1mConsolidate compiler generated dependencies of target object_msgs__rosidl_generator_c[0m
+[  0%] Built target object_msgs__cpp
+[ 12%] Built target object_msgs__rosidl_generator_c
+[35m[1mConsolidate compiler generated dependencies of target object_msgs__rosidl_typesupport_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target object_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[ 24%] Built target object_msgs__rosidl_typesupport_cpp
+[ 36%] Built target object_msgs__rosidl_typesupport_fastrtps_cpp

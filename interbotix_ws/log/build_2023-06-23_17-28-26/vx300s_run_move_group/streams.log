@@ -1,0 +1,20 @@
+[0.277s] Invoking command in '/home/inouemakoto/interbotix_ws/build/vx300s_run_move_group': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/vx300s_run_move_group -- -j20 -l20
+[0.330s] Invoked command in '/home/inouemakoto/interbotix_ws/build/vx300s_run_move_group' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/vx300s_run_move_group -- -j20 -l20
+[0.450s] Invoking command in '/home/inouemakoto/interbotix_ws/build/vx300s_run_move_group': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/vx300s_run_move_group
+[0.459s] -- Install configuration: ""
+[0.459s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/ament_index/resource_index/package_run_dependencies/vx300s_run_move_group
+[0.459s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/ament_index/resource_index/parent_prefix_path/vx300s_run_move_group
+[0.459s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/environment/ament_prefix_path.sh
+[0.460s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/environment/ament_prefix_path.dsv
+[0.460s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/environment/path.sh
+[0.460s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/environment/path.dsv
+[0.460s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/local_setup.bash
+[0.460s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/local_setup.sh
+[0.460s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/local_setup.zsh
+[0.461s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/local_setup.dsv
+[0.461s] -- Installing: /home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/package.dsv
+[0.461s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/ament_index/resource_index/packages/vx300s_run_move_group
+[0.461s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/cmake/vx300s_run_move_groupConfig.cmake
+[0.461s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/cmake/vx300s_run_move_groupConfig-version.cmake
+[0.461s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/vx300s_run_move_group/share/vx300s_run_move_group/package.xml
+[0.486s] Invoked command in '/home/inouemakoto/interbotix_ws/build/vx300s_run_move_group' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/vx300s_run_move_group

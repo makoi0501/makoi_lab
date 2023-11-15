@@ -1,0 +1,9 @@
+[0.250s] Invoking command in '/home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/src/build/moveit_visual_tools -- -j20 -l20
+[0.297s] [ 33%] [32mBuilding CXX object CMakeFiles/moveit_visual_tools.dir/src/moveit_visual_tools.cpp.o[0m
+[0.297s] [ 33%] [32mBuilding CXX object CMakeFiles/moveit_visual_tools.dir/src/imarker_robot_state.cpp.o[0m
+[0.297s] [ 50%] [32mBuilding CXX object CMakeFiles/moveit_visual_tools.dir/src/imarker_end_effector.cpp.o[0m
+[17.984s] [ 66%] [32m[1mLinking CXX shared library libmoveit_visual_tools.so[0m
+[18.377s] [ 66%] Built target moveit_visual_tools
+[18.394s] [ 83%] [32mBuilding CXX object CMakeFiles/moveit_visual_tools_demo.dir/src/moveit_visual_tools_demo.cpp.o[0m
+[27.973s] [100%] [32m[1mLinking CXX executable moveit_visual_tools_demo[0m
+[28.382s] [100%] Built target moveit_visual_tools_demo

@@ -1,0 +1,1 @@
+Invoking command in '/home/inouemakoto/interbotix_ws/build/camera': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/camera/prefix_override:/home/inouemakoto/interbotix_ws/install/camera/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/inouemakoto/interbotix_ws/build/camera/build --no-deps install_data

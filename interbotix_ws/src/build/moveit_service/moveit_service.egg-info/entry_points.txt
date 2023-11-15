@@ -1,0 +1,4 @@
+[console_scripts]
+interbotix_gripper = moveit_service.interbotix_gripper:main
+moveit_order = moveit_service.moveit_order:main
+

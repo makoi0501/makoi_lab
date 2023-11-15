@@ -1,0 +1,4 @@
+/home/inouemakoto/interbotix_ws/build/openvino_msgs/rosidl_adapter/openvino_msgs:msg/Connection.idl
+/home/inouemakoto/interbotix_ws/build/openvino_msgs/rosidl_adapter/openvino_msgs:msg/PipelineRequest.idl
+/home/inouemakoto/interbotix_ws/build/openvino_msgs/rosidl_adapter/openvino_msgs:msg/Pipeline.idl
+/home/inouemakoto/interbotix_ws/build/openvino_msgs/rosidl_adapter/openvino_msgs:srv/PipelineSrv.idl

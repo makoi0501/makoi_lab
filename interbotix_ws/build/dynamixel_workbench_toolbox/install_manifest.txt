@@ -1,0 +1,1 @@
+/home/inouemakoto/interbotix_ws/install/dynamixel_workbench_toolbox/share/dynamixel_workbench_toolbox/package.dsv

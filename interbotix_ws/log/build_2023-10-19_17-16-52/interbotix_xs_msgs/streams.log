@@ -1,0 +1,24 @@
+[1.930s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_xs_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_moveit_interface:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/interbotix_xs_msgs -- -j20 -l20
+[3.000s] [  0%] Built target interbotix_xs_msgs__cpp
+[3.001s] [ 12%] Built target interbotix_xs_msgs__rosidl_generator_c
+[3.002s] [ 12%] Built target ament_cmake_python_copy_interbotix_xs_msgs
+[3.002s] [ 26%] Built target interbotix_xs_msgs__rosidl_typesupport_introspection_c
+[3.003s] [ 36%] Built target interbotix_xs_msgs__rosidl_typesupport_c
+[3.004s] [ 65%] Built target interbotix_xs_msgs__rosidl_typesupport_introspection_cpp
+[3.004s] [ 69%] Built target interbotix_xs_msgs__rosidl_typesupport_cpp
+[3.004s] [ 72%] Built target interbotix_xs_msgs__rosidl_typesupport_fastrtps_c
+[3.004s] [ 84%] Built target interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp
+[3.005s] [ 84%] Built target interbotix_xs_msgs
+[3.005s] [ 85%] Built target interbotix_xs_msgs__py
+[3.006s] [ 96%] Built target interbotix_xs_msgs__rosidl_generator_py
+[3.006s] [100%] Built target interbotix_xs_msgs__rosidl_typesupport_fastrtps_c__pyext
+[3.007s] [100%] Built target interbotix_xs_msgs__rosidl_typesupport_c__pyext
+[3.008s] [100%] Built target interbotix_xs_msgs__rosidl_typesupport_introspection_c__pyext
+[3.009s] running egg_info
+[3.009s] writing interbotix_xs_msgs.egg-info/PKG-INFO
+[3.009s] writing dependency_links to interbotix_xs_msgs.egg-info/dependency_links.txt
+[3.009s] writing top-level names to interbotix_xs_msgs.egg-info/top_level.txt
+[3.009s] reading manifest file 'interbotix_xs_msgs.egg-info/SOURCES.txt'
+[3.009s] writing manifest file 'interbotix_xs_msgs.egg-info/SOURCES.txt'
+[3.010s] [100%] Built target ament_cmake_python_build_interbotix_xs_msgs_egg
+[3.042s] Invoked command in '/home/inouemakoto/interbotix_ws/build/interbotix_xs_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_moveit_interface:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/interbotix_xs_msgs -- -j20 -l20

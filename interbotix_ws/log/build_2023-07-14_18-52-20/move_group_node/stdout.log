@@ -1,0 +1,19 @@
+[100%] Built target run_move_group
+-- Install configuration: "Debug"
+-- Execute custom install script
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/lib/move_group_node/run_move_group
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/share/ament_index/resource_index/package_run_dependencies/move_group_node
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/share/ament_index/resource_index/parent_prefix_path/move_group_node
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/share/move_group_node/environment/ament_prefix_path.sh
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/share/move_group_node/environment/ament_prefix_path.dsv
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/share/move_group_node/environment/path.sh
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/share/move_group_node/environment/path.dsv
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/share/move_group_node/local_setup.bash
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/share/move_group_node/local_setup.sh
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/share/move_group_node/local_setup.zsh
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/share/move_group_node/local_setup.dsv
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/share/move_group_node/package.dsv
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/share/ament_index/resource_index/packages/move_group_node
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/share/move_group_node/cmake/move_group_nodeConfig.cmake
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/share/move_group_node/cmake/move_group_nodeConfig-version.cmake
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/move_group_node/share/move_group_node/package.xml

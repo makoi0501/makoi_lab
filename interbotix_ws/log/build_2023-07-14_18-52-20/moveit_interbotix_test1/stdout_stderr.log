@@ -1,0 +1,19 @@
+[100%] Built target moveit_interbotix_test
+-- Install configuration: "Debug"
+-- Execute custom install script
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/lib/moveit_interbotix_test1/moveit_interbotix_test
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/ament_index/resource_index/package_run_dependencies/moveit_interbotix_test1
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/ament_index/resource_index/parent_prefix_path/moveit_interbotix_test1
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/environment/ament_prefix_path.sh
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/environment/ament_prefix_path.dsv
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/environment/path.sh
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/environment/path.dsv
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/local_setup.bash
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/local_setup.sh
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/local_setup.zsh
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/local_setup.dsv
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/package.dsv
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/ament_index/resource_index/packages/moveit_interbotix_test1
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/cmake/moveit_interbotix_test1Config.cmake
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/cmake/moveit_interbotix_test1Config-version.cmake
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/package.xml

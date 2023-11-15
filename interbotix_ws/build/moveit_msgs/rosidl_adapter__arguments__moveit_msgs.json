@@ -1,0 +1,12 @@
+{
+  "package_name": "moveit_msgs",
+  "non_idl_tuples": [
+    "/home/inouemakoto/interbotix_ws/src/ros2_grasp_library/moveit_msgs_light:msg/CollisionObject.msg",
+    "/home/inouemakoto/interbotix_ws/src/ros2_grasp_library/moveit_msgs_light:msg/Grasp.msg",
+    "/home/inouemakoto/interbotix_ws/src/ros2_grasp_library/moveit_msgs_light:msg/GripperTranslation.msg",
+    "/home/inouemakoto/interbotix_ws/src/ros2_grasp_library/moveit_msgs_light:msg/MoveItErrorCodes.msg",
+    "/home/inouemakoto/interbotix_ws/src/ros2_grasp_library/moveit_msgs_light:msg/ObjectType.msg",
+    "/home/inouemakoto/interbotix_ws/src/ros2_grasp_library/moveit_msgs_light:msg/PlaceLocation.msg",
+    "/home/inouemakoto/interbotix_ws/src/ros2_grasp_library/moveit_msgs_light:srv/GraspPlanning.srv"
+  ]
+}

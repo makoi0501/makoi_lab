@@ -1,0 +1,80 @@
+[5.068s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_common_modules': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/interbotix_common_modules/prefix_override:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/inouemakoto/interbotix_ws/build/interbotix_common_modules/build
+[5.552s] running develop
+[5.552s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[5.552s] !!
+[5.552s] 
+[5.552s]         ********************************************************************************
+[5.552s]         Please avoid running ``setup.py`` and ``easy_install``.
+[5.553s]         Instead, use pypa/build, pypa/installer or other
+[5.553s]         standards-based tools.
+[5.553s] 
+[5.553s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[5.553s]         ********************************************************************************
+[5.553s] 
+[5.553s] !!
+[5.553s]   easy_install.initialize_options(self)
+[5.602s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[5.602s] !!
+[5.602s] 
+[5.602s]         ********************************************************************************
+[5.603s]         Please avoid running ``setup.py`` directly.
+[5.603s]         Instead, use pypa/build, pypa/installer or other
+[5.603s]         standards-based tools.
+[5.603s] 
+[5.603s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[5.603s]         ********************************************************************************
+[5.603s] 
+[5.603s] !!
+[5.603s]   self.initialize_options()
+[5.863s] Removing /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix-common-modules.egg-link (link to .)
+[6.229s] Invoked command in '/home/inouemakoto/interbotix_ws/build/interbotix_common_modules' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/interbotix_common_modules/prefix_override:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/inouemakoto/interbotix_ws/build/interbotix_common_modules/build
+[6.232s] Invoking command in '/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_common_modules': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/interbotix_common_modules/prefix_override:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../../../build/interbotix_common_modules build --build-base /home/inouemakoto/interbotix_ws/build/interbotix_common_modules/build install --record /home/inouemakoto/interbotix_ws/build/interbotix_common_modules/install.log --single-version-externally-managed
+[6.554s] running egg_info
+[6.571s] writing ../../../../build/interbotix_common_modules/interbotix_common_modules.egg-info/PKG-INFO
+[6.571s] writing dependency_links to ../../../../build/interbotix_common_modules/interbotix_common_modules.egg-info/dependency_links.txt
+[6.571s] writing requirements to ../../../../build/interbotix_common_modules/interbotix_common_modules.egg-info/requires.txt
+[6.572s] writing top-level names to ../../../../build/interbotix_common_modules/interbotix_common_modules.egg-info/top_level.txt
+[6.608s] reading manifest file '../../../../build/interbotix_common_modules/interbotix_common_modules.egg-info/SOURCES.txt'
+[6.609s] writing manifest file '../../../../build/interbotix_common_modules/interbotix_common_modules.egg-info/SOURCES.txt'
+[6.609s] running build
+[6.609s] running build_py
+[6.610s] running install
+[6.610s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[6.610s] !!
+[6.610s] 
+[6.610s]         ********************************************************************************
+[6.610s]         Please avoid running ``setup.py`` directly.
+[6.610s]         Instead, use pypa/build, pypa/installer or other
+[6.610s]         standards-based tools.
+[6.610s] 
+[6.610s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[6.610s]         ********************************************************************************
+[6.610s] 
+[6.610s] !!
+[6.611s]   self.initialize_options()
+[6.615s] running install_lib
+[6.631s] creating /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules
+[6.631s] creating /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/py_common
+[6.631s] copying /home/inouemakoto/interbotix_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/py_common/params.py -> /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/py_common
+[6.631s] copying /home/inouemakoto/interbotix_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/py_common/__init__.py -> /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/py_common
+[6.632s] creating /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/launch
+[6.632s] copying /home/inouemakoto/interbotix_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/launch/and_condition.py -> /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/launch
+[6.632s] copying /home/inouemakoto/interbotix_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/launch/or_condition.py -> /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/launch
+[6.632s] copying /home/inouemakoto/interbotix_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/launch/__init__.py -> /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/launch
+[6.632s] copying /home/inouemakoto/interbotix_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/__init__.py -> /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules
+[6.632s] creating /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/angle_manipulation
+[6.632s] copying /home/inouemakoto/interbotix_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/angle_manipulation/__init__.py -> /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/angle_manipulation
+[6.632s] copying /home/inouemakoto/interbotix_ws/build/interbotix_common_modules/build/lib/interbotix_common_modules/angle_manipulation/angle_manipulation.py -> /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/angle_manipulation
+[6.633s] byte-compiling /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/py_common/params.py to params.cpython-310.pyc
+[6.633s] byte-compiling /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/py_common/__init__.py to __init__.cpython-310.pyc
+[6.634s] byte-compiling /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/launch/and_condition.py to and_condition.cpython-310.pyc
+[6.634s] byte-compiling /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/launch/or_condition.py to or_condition.cpython-310.pyc
+[6.634s] byte-compiling /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/launch/__init__.py to __init__.cpython-310.pyc
+[6.634s] byte-compiling /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/__init__.py to __init__.cpython-310.pyc
+[6.635s] byte-compiling /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/angle_manipulation/__init__.py to __init__.cpython-310.pyc
+[6.635s] byte-compiling /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules/angle_manipulation/angle_manipulation.py to angle_manipulation.cpython-310.pyc
+[6.635s] running install_data
+[6.650s] running install_egg_info
+[6.666s] Copying ../../../../build/interbotix_common_modules/interbotix_common_modules.egg-info to /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix_common_modules-0.0.0-py3.10.egg-info
+[6.667s] running install_scripts
+[6.806s] writing list of installed files to '/home/inouemakoto/interbotix_ws/build/interbotix_common_modules/install.log'

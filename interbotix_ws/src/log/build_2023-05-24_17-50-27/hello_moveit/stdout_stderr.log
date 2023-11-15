@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target hello_moveit[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/hello_moveit.dir/src/hello_moveit.cpp.o[0m
+[100%] [32m[1mLinking CXX executable hello_moveit[0m
+[100%] Built target hello_moveit
+-- Install configuration: ""
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/lib/hello_moveit/hello_moveit
+-- Set runtime path of "/home/inouemakoto/interbotix_ws/src/install/hello_moveit/lib/hello_moveit/hello_moveit" to ""
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/ament_index/resource_index/package_run_dependencies/hello_moveit
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/ament_index/resource_index/parent_prefix_path/hello_moveit
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/environment/ament_prefix_path.sh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/environment/ament_prefix_path.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/environment/path.sh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/environment/path.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/local_setup.bash
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/local_setup.sh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/local_setup.zsh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/local_setup.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/package.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/ament_index/resource_index/packages/hello_moveit
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/cmake/hello_moveitConfig.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/cmake/hello_moveitConfig-version.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/package.xml

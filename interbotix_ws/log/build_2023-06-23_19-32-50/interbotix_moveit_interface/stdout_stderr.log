@@ -1,0 +1,33 @@
+[ 33%] [32mBuilding CXX object CMakeFiles/moveit_interface.dir/src/moveit_interface.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/moveit_interface.dir/src/moveit_interface_obj.cpp.o[0m
+In file included from [01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface.cpp:29[m[K:
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include/interbotix_moveit_interface/moveit_interface_obj.hpp:64:3:[m[K [01;31m[Kerror: [m[K‘[01m[Ktarget_pose1[m[K’ does not name a type
+   64 |   [01;31m[Ktarget_pose1[m[K.orientation.w = 1.0;
+      |   [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include/interbotix_moveit_interface/moveit_interface_obj.hpp:65:3:[m[K [01;31m[Kerror: [m[K‘[01m[Ktarget_pose1[m[K’ does not name a type
+   65 |   [01;31m[Ktarget_pose1[m[K.position.x = 0.28;
+      |   [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include/interbotix_moveit_interface/moveit_interface_obj.hpp:66:3:[m[K [01;31m[Kerror: [m[K‘[01m[Ktarget_pose1[m[K’ does not name a type
+   66 |   [01;31m[Ktarget_pose1[m[K.position.y = -0.2;
+      |   [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include/interbotix_moveit_interface/moveit_interface_obj.hpp:67:3:[m[K [01;31m[Kerror: [m[K‘[01m[Ktarget_pose1[m[K’ does not name a type
+   67 |   [01;31m[Ktarget_pose1[m[K.position.z = 0.5;
+      |   [01;31m[K^~~~~~~~~~~~[m[K
+In file included from [01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:29[m[K:
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include/interbotix_moveit_interface/moveit_interface_obj.hpp:64:3:[m[K [01;31m[Kerror: [m[K‘[01m[Ktarget_pose1[m[K’ does not name a type
+   64 |   [01;31m[Ktarget_pose1[m[K.orientation.w = 1.0;
+      |   [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include/interbotix_moveit_interface/moveit_interface_obj.hpp:65:3:[m[K [01;31m[Kerror: [m[K‘[01m[Ktarget_pose1[m[K’ does not name a type
+   65 |   [01;31m[Ktarget_pose1[m[K.position.x = 0.28;
+      |   [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include/interbotix_moveit_interface/moveit_interface_obj.hpp:66:3:[m[K [01;31m[Kerror: [m[K‘[01m[Ktarget_pose1[m[K’ does not name a type
+   66 |   [01;31m[Ktarget_pose1[m[K.position.y = -0.2;
+      |   [01;31m[K^~~~~~~~~~~~[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include/interbotix_moveit_interface/moveit_interface_obj.hpp:67:3:[m[K [01;31m[Kerror: [m[K‘[01m[Ktarget_pose1[m[K’ does not name a type
+   67 |   [01;31m[Ktarget_pose1[m[K.position.z = 0.5;
+      |   [01;31m[K^~~~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/moveit_interface.dir/build.make:76: CMakeFiles/moveit_interface.dir/src/moveit_interface.cpp.o] Error 1
+gmake[2]: *** Waiting for unfinished jobs....
+gmake[2]: *** [CMakeFiles/moveit_interface.dir/build.make:90: CMakeFiles/moveit_interface.dir/src/moveit_interface_obj.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/moveit_interface.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

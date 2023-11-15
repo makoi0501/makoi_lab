@@ -1,0 +1,23 @@
+[0.391s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_xs_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/interbotix_xs_msgs -- -j20 -l20
+[1.537s] [  0%] Built target interbotix_xs_msgs__cpp
+[1.540s] [ 12%] Built target interbotix_xs_msgs__rosidl_generator_c
+[1.544s] [ 12%] Built target ament_cmake_python_copy_interbotix_xs_msgs
+[1.546s] [ 24%] Built target interbotix_xs_msgs__rosidl_typesupport_introspection_cpp
+[1.548s] [ 36%] Built target interbotix_xs_msgs__rosidl_typesupport_cpp
+[1.548s] [ 48%] Built target interbotix_xs_msgs__rosidl_typesupport_fastrtps_cpp
+[1.551s] [ 60%] Built target interbotix_xs_msgs__rosidl_typesupport_c
+[1.557s] [ 72%] Built target interbotix_xs_msgs__rosidl_typesupport_introspection_c
+[1.560s] [ 84%] Built target interbotix_xs_msgs__rosidl_typesupport_fastrtps_c
+[1.560s] [ 84%] Built target interbotix_xs_msgs
+[1.561s] [ 85%] Built target interbotix_xs_msgs__py
+[1.561s] [ 96%] Built target interbotix_xs_msgs__rosidl_generator_py
+[1.561s] [ 98%] Built target interbotix_xs_msgs__rosidl_typesupport_c__pyext
+[1.562s] [ 99%] Built target interbotix_xs_msgs__rosidl_typesupport_introspection_c__pyext
+[1.562s] [100%] Built target interbotix_xs_msgs__rosidl_typesupport_fastrtps_c__pyext
+[1.772s] running egg_info
+[1.776s] writing interbotix_xs_msgs.egg-info/PKG-INFO
+[1.784s] writing dependency_links to interbotix_xs_msgs.egg-info/dependency_links.txt
+[1.785s] writing top-level names to interbotix_xs_msgs.egg-info/top_level.txt
+[1.822s] reading manifest file 'interbotix_xs_msgs.egg-info/SOURCES.txt'
+[1.830s] writing manifest file 'interbotix_xs_msgs.egg-info/SOURCES.txt'
+[2.395s] [100%] Built target ament_cmake_python_build_interbotix_xs_msgs_egg

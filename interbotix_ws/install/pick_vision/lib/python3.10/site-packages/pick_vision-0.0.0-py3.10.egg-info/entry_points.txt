@@ -1,0 +1,7 @@
+[console_scripts]
+detect = pick_vision.detect:main
+detector = pick_vision.detector:main
+object_detection = pick_vision.object_detection:main
+object_detection_srv = pick_vision.object_detection_srv:main
+object_detection_tf = pick_vision.object_detection_tf:main
+

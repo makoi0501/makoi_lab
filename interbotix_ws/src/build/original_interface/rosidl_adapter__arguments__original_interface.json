@@ -1,0 +1,6 @@
+{
+  "package_name": "original_interface",
+  "non_idl_tuples": [
+    "/home/inouemakoto/interbotix_ws/src/original_interface:srv/TargetPos.srv"
+  ]
+}

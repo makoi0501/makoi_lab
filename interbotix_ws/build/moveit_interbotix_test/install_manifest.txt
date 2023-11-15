@@ -1,0 +1,15 @@
+/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/ament_index/resource_index/package_run_dependencies/moveit_interbotix_test
+/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/ament_index/resource_index/parent_prefix_path/moveit_interbotix_test
+/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/environment/ament_prefix_path.sh
+/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/environment/ament_prefix_path.dsv
+/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/environment/path.sh
+/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/environment/path.dsv
+/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/local_setup.bash
+/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/local_setup.sh
+/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/local_setup.zsh
+/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/local_setup.dsv
+/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/package.dsv
+/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/ament_index/resource_index/packages/moveit_interbotix_test
+/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/cmake/moveit_interbotix_testConfig.cmake
+/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/cmake/moveit_interbotix_testConfig-version.cmake
+/home/inouemakoto/interbotix_ws/install/moveit_interbotix_test/share/moveit_interbotix_test/package.xml

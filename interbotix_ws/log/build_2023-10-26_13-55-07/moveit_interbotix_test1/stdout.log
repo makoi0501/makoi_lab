@@ -1,0 +1,21 @@
+[35m[1mConsolidate compiler generated dependencies of target moveit_interbotix_test[0m
+[ 50%] [32m[1mLinking CXX executable moveit_interbotix_test[0m
+[100%] Built target moveit_interbotix_test
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/lib/moveit_interbotix_test1/moveit_interbotix_test
+-- Up-to-date symlink: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/ament_index/resource_index/package_run_dependencies/moveit_interbotix_test1
+-- Up-to-date symlink: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/ament_index/resource_index/parent_prefix_path/moveit_interbotix_test1
+-- Up-to-date symlink: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/environment/path.sh
+-- Up-to-date symlink: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/environment/path.dsv
+-- Up-to-date symlink: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/local_setup.bash
+-- Up-to-date symlink: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/local_setup.sh
+-- Up-to-date symlink: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/local_setup.zsh
+-- Up-to-date symlink: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/local_setup.dsv
+-- Symlinking: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/package.dsv
+-- Up-to-date symlink: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/ament_index/resource_index/packages/moveit_interbotix_test1
+-- Up-to-date symlink: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/cmake/moveit_interbotix_test1Config.cmake
+-- Up-to-date symlink: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/cmake/moveit_interbotix_test1Config-version.cmake
+-- Up-to-date symlink: /home/inouemakoto/interbotix_ws/install/moveit_interbotix_test1/share/moveit_interbotix_test1/package.xml

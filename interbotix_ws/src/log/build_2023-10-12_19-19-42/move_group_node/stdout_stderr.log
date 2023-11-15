@@ -1,0 +1,21 @@
+[35m[1mConsolidate compiler generated dependencies of target run_move_group[0m
+[ 50%] [32m[1mLinking CXX executable run_move_group[0m
+[100%] Built target run_move_group
+-- Install configuration: ""
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/move_group_node/lib/move_group_node/run_move_group
+-- Set runtime path of "/home/inouemakoto/interbotix_ws/src/install/move_group_node/lib/move_group_node/run_move_group" to ""
+-- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/move_group_node/share/ament_index/resource_index/package_run_dependencies/move_group_node
+-- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/move_group_node/share/ament_index/resource_index/parent_prefix_path/move_group_node
+-- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/move_group_node/share/move_group_node/environment/ament_prefix_path.sh
+-- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/move_group_node/share/move_group_node/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/move_group_node/share/move_group_node/environment/path.sh
+-- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/move_group_node/share/move_group_node/environment/path.dsv
+-- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/move_group_node/share/move_group_node/local_setup.bash
+-- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/move_group_node/share/move_group_node/local_setup.sh
+-- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/move_group_node/share/move_group_node/local_setup.zsh
+-- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/move_group_node/share/move_group_node/local_setup.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/move_group_node/share/move_group_node/package.dsv
+-- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/move_group_node/share/ament_index/resource_index/packages/move_group_node
+-- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/move_group_node/share/move_group_node/cmake/move_group_nodeConfig.cmake
+-- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/move_group_node/share/move_group_node/cmake/move_group_nodeConfig-version.cmake
+-- Up-to-date: /home/inouemakoto/interbotix_ws/src/install/move_group_node/share/move_group_node/package.xml

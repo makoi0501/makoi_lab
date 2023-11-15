@@ -1,0 +1,24 @@
+[2.024s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_perception_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_moveit_interface:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/interbotix_perception_msgs -- -j20 -l20
+[2.736s] [  1%] Built target interbotix_perception_msgs__cpp
+[2.737s] [ 12%] Built target interbotix_perception_msgs__rosidl_generator_c
+[2.737s] [ 12%] Built target ament_cmake_python_copy_interbotix_perception_msgs
+[2.738s] [ 23%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp
+[2.738s] [ 34%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_cpp
+[2.738s] [ 45%] Built target interbotix_perception_msgs__rosidl_typesupport_cpp
+[2.738s] [ 56%] Built target interbotix_perception_msgs__rosidl_typesupport_c
+[2.738s] [ 67%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_c
+[2.738s] [ 78%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_c
+[2.739s] [ 78%] Built target interbotix_perception_msgs
+[2.739s] [ 80%] Built target interbotix_perception_msgs__py
+[2.739s] [ 89%] Built target interbotix_perception_msgs__rosidl_generator_py
+[2.739s] [ 92%] Built target interbotix_perception_msgs__rosidl_typesupport_c__pyext
+[2.739s] [ 96%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_c__pyext
+[2.739s] [100%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_c__pyext
+[2.740s] running egg_info
+[2.740s] writing interbotix_perception_msgs.egg-info/PKG-INFO
+[2.740s] writing dependency_links to interbotix_perception_msgs.egg-info/dependency_links.txt
+[2.740s] writing top-level names to interbotix_perception_msgs.egg-info/top_level.txt
+[2.740s] reading manifest file 'interbotix_perception_msgs.egg-info/SOURCES.txt'
+[2.740s] writing manifest file 'interbotix_perception_msgs.egg-info/SOURCES.txt'
+[2.740s] [100%] Built target ament_cmake_python_build_interbotix_perception_msgs_egg
+[2.783s] Invoked command in '/home/inouemakoto/interbotix_ws/build/interbotix_perception_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_moveit_interface:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/interbotix_perception_msgs -- -j20 -l20

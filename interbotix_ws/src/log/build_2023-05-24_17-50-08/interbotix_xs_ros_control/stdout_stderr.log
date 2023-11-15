@@ -1,0 +1,39 @@
+[35m[1mConsolidate compiler generated dependencies of target gmock_main[0m
+[35m[1mConsolidate compiler generated dependencies of target gmock[0m
+[35m[1mConsolidate compiler generated dependencies of target interbotix_xs_ros_control[0m
+[ 22%] Built target gmock_main
+[ 55%] Built target gmock
+[ 77%] Built target interbotix_xs_ros_control
+[35m[1mConsolidate compiler generated dependencies of target test_load_xs_hardware_interface[0m
+[100%] Built target test_load_xs_hardware_interface
+-- Install configuration: ""
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/interbotix_xs_ros_control.xml
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/include
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/include/interbotix_xs_ros_control
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/include/interbotix_xs_ros_control/xs_hardware_interface.hpp
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/lib/libinterbotix_xs_ros_control.so
+-- Set runtime path of "/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/lib/libinterbotix_xs_ros_control.so" to ""
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/environment/library_path.sh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/environment/library_path.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/ament_index/resource_index/package_run_dependencies/interbotix_xs_ros_control
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/ament_index/resource_index/parent_prefix_path/interbotix_xs_ros_control
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/environment/ament_prefix_path.sh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/environment/ament_prefix_path.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/environment/path.sh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/environment/path.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/local_setup.bash
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/local_setup.sh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/local_setup.zsh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/local_setup.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/package.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/ament_index/resource_index/packages/interbotix_xs_ros_control
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/interbotix_xs_ros_control
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/export_interbotix_xs_ros_controlExport.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/export_interbotix_xs_ros_controlExport-noconfig.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/ament_cmake_export_libraries-extras.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/ament_cmake_export_targets-extras.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/interbotix_xs_ros_controlConfig.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/cmake/interbotix_xs_ros_controlConfig-version.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_ros_control/share/interbotix_xs_ros_control/package.xml

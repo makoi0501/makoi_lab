@@ -1,0 +1,28 @@
+[5.184s] Invoking command in '/home/inouemakoto/interbotix_ws/build/moveit_service': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/moveit_service/prefix_override:/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/inouemakoto/interbotix_ws/build/moveit_service/build
+[5.890s] running develop
+[6.497s] Invoked command in '/home/inouemakoto/interbotix_ws/build/moveit_service' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/moveit_service/prefix_override:/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/inouemakoto/interbotix_ws/build/moveit_service/build
+[6.500s] Invoking command in '/home/inouemakoto/interbotix_ws/src/moveit_service': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/moveit_service/prefix_override:/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/moveit_service build --build-base /home/inouemakoto/interbotix_ws/build/moveit_service/build install --record /home/inouemakoto/interbotix_ws/build/moveit_service/install.log --single-version-externally-managed
+[7.264s] running egg_info
+[7.265s] writing ../../build/moveit_service/moveit_service.egg-info/PKG-INFO
+[7.268s] writing dependency_links to ../../build/moveit_service/moveit_service.egg-info/dependency_links.txt
+[7.269s] writing entry points to ../../build/moveit_service/moveit_service.egg-info/entry_points.txt
+[7.270s] writing requirements to ../../build/moveit_service/moveit_service.egg-info/requires.txt
+[7.270s] writing top-level names to ../../build/moveit_service/moveit_service.egg-info/top_level.txt
+[7.277s] reading manifest file '../../build/moveit_service/moveit_service.egg-info/SOURCES.txt'
+[7.280s] writing manifest file '../../build/moveit_service/moveit_service.egg-info/SOURCES.txt'
+[7.280s] running build
+[7.280s] running build_py
+[7.281s] copying moveit_service/interbotix_gripper.py -> /home/inouemakoto/interbotix_ws/build/moveit_service/build/lib/moveit_service
+[7.281s] running install
+[7.286s] running install_lib
+[7.294s] copying /home/inouemakoto/interbotix_ws/build/moveit_service/build/lib/moveit_service/interbotix_gripper.py -> /home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service
+[7.294s] byte-compiling /home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service/interbotix_gripper.py to interbotix_gripper.cpython-310.pyc
+[7.295s] running install_data
+[7.295s] running install_egg_info
+[7.298s] removing '/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service-0.0.0-py3.10.egg-info' (and everything under it)
+[7.299s] Copying ../../build/moveit_service/moveit_service.egg-info to /home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service-0.0.0-py3.10.egg-info
+[7.300s] running install_scripts
+[7.376s] Installing interbotix_gripper script to /home/inouemakoto/interbotix_ws/install/moveit_service/lib/moveit_service
+[7.377s] Installing moveit_order script to /home/inouemakoto/interbotix_ws/install/moveit_service/lib/moveit_service
+[7.378s] writing list of installed files to '/home/inouemakoto/interbotix_ws/build/moveit_service/install.log'
+[7.763s] Invoked command in '/home/inouemakoto/interbotix_ws/src/moveit_service' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/moveit_service/prefix_override:/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/moveit_service build --build-base /home/inouemakoto/interbotix_ws/build/moveit_service/build install --record /home/inouemakoto/interbotix_ws/build/moveit_service/install.log --single-version-externally-managed

@@ -1,0 +1,28 @@
+[1.211s] Invoking command in '/home/inouemakoto/interbotix_ws/build/interbotix_common_modules': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/interbotix_common_modules/prefix_override:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/inouemakoto/interbotix_ws/build/interbotix_common_modules/build --no-deps install_data
+[1.516s] running develop
+[1.517s] /usr/lib/python3/dist-packages/setuptools/command/easy_install.py:158: EasyInstallDeprecationWarning: easy_install command is deprecated. Use build and pip and other standards-based tools.
+[1.517s]   warnings.warn(
+[1.519s] /usr/lib/python3/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[1.519s]   warnings.warn(
+[1.586s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.16.0-unknown is an invalid version and will not be supported in a future release
+[1.586s]   warnings.warn(
+[1.586s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 0.1.43ubuntu1 is an invalid version and will not be supported in a future release
+[1.586s]   warnings.warn(
+[1.587s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.1build1 is an invalid version and will not be supported in a future release
+[1.587s]   warnings.warn(
+[1.587s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.12.1-git20200711.33e2d80-dfsg1-0.6 is an invalid version and will not be supported in a future release
+[1.587s]   warnings.warn(
+[1.707s] running egg_info
+[1.707s] writing interbotix_common_modules.egg-info/PKG-INFO
+[1.707s] writing dependency_links to interbotix_common_modules.egg-info/dependency_links.txt
+[1.707s] writing entry points to interbotix_common_modules.egg-info/entry_points.txt
+[1.707s] writing requirements to interbotix_common_modules.egg-info/requires.txt
+[1.708s] writing top-level names to interbotix_common_modules.egg-info/top_level.txt
+[1.710s] reading manifest file 'interbotix_common_modules.egg-info/SOURCES.txt'
+[1.711s] writing manifest file 'interbotix_common_modules.egg-info/SOURCES.txt'
+[1.754s] running build_ext
+[1.754s] Creating /home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages/interbotix-common-modules.egg-link (link to .)
+[1.755s] 
+[1.755s] Installed /home/inouemakoto/interbotix_ws/build/interbotix_common_modules
+[1.755s] running install_data
+[1.791s] Invoked command in '/home/inouemakoto/interbotix_ws/build/interbotix_common_modules' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/interbotix_common_modules/prefix_override:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/inouemakoto/interbotix_ws/build/interbotix_common_modules/build --no-deps install_data

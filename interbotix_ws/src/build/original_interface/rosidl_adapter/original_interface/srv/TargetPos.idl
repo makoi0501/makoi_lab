@@ -1,0 +1,21 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from original_interface/srv/TargetPos.srv
+// generated code does not contain a copyright notice
+
+
+module original_interface {
+  module srv {
+    struct TargetPos_Request {
+      int32 target_num;
+    };
+    struct TargetPos_Response {
+      double targetx;
+
+      double targety;
+
+      double targetz;
+
+      boolean success;
+    };
+  };
+};

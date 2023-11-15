@@ -1,0 +1,21 @@
+[3.138s] Invoking command in '/home/inouemakoto/interbotix_ws/src/makoto': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/makoto/prefix_override:/home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/makoto build --build-base /home/inouemakoto/interbotix_ws/build/makoto/build install --record /home/inouemakoto/interbotix_ws/build/makoto/install.log --single-version-externally-managed
+[3.429s] running egg_info
+[3.429s] writing ../../build/makoto/makoto.egg-info/PKG-INFO
+[3.430s] writing dependency_links to ../../build/makoto/makoto.egg-info/dependency_links.txt
+[3.430s] writing entry points to ../../build/makoto/makoto.egg-info/entry_points.txt
+[3.430s] writing requirements to ../../build/makoto/makoto.egg-info/requires.txt
+[3.430s] writing top-level names to ../../build/makoto/makoto.egg-info/top_level.txt
+[3.432s] reading manifest file '../../build/makoto/makoto.egg-info/SOURCES.txt'
+[3.433s] writing manifest file '../../build/makoto/makoto.egg-info/SOURCES.txt'
+[3.433s] running build
+[3.433s] running build_py
+[3.433s] running install
+[3.433s] running install_lib
+[3.434s] running install_data
+[3.435s] running install_egg_info
+[3.436s] removing '/home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto-0.0.0-py3.10.egg-info' (and everything under it)
+[3.437s] Copying ../../build/makoto/makoto.egg-info to /home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto-0.0.0-py3.10.egg-info
+[3.437s] running install_scripts
+[3.458s] Installing pick__place script to /home/inouemakoto/interbotix_ws/install/makoto/lib/makoto
+[3.458s] writing list of installed files to '/home/inouemakoto/interbotix_ws/build/makoto/install.log'
+[3.968s] Invoked command in '/home/inouemakoto/interbotix_ws/src/makoto' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/makoto/prefix_override:/home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/makoto build --build-base /home/inouemakoto/interbotix_ws/build/makoto/build install --record /home/inouemakoto/interbotix_ws/build/makoto/install.log --single-version-externally-managed

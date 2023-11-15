@@ -1,0 +1,4 @@
+gmake[1]: *** [CMakeFiles/Makefile2:555: gtest/CMakeFiles/gtest.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:581: gtest/CMakeFiles/gtest_main.dir/all] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:203: CMakeFiles/rviz_visual_tools_remote_control.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

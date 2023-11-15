@@ -1,0 +1,25 @@
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:[m[K In constructor ‘[01m[Kinterbotix::InterbotixMoveItInterface::InterbotixMoveItInterface(rclcpp::Node::SharedPtr&)[m[K’:
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:100:14:[m[K [01;31m[Kerror: [m[K‘[01m[Kclass std::shared_ptr<moveit::planning_interface::MoveGroupInterface>[m[K’ has no member named ‘[01m[KsetPoseTarget[m[K’
+  100 |   move_group.[01;31m[KsetPoseTarget[m[K(target_pose);
+      |              [01;31m[K^~~~~~~~~~~~~[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:103:34:[m[K [01;31m[Kerror: [m[Kcapture of non-variable ‘[01m[Kinterbotix::InterbotixMoveItInterface::move_group[m[K’
+  103 |   auto const [success, plan] = [&[01;31m[Kmove_group[m[K]{
+      |                                  [01;31m[K^~~~~~~~~~[m[K
+In file included from [01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:29[m[K:
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include/interbotix_moveit_interface/moveit_interface_obj.hpp:151:67:[m[K [01;36m[Knote: [m[K‘[01m[Kstd::shared_ptr<moveit::planning_interface::MoveGroupInterface> interbotix::InterbotixMoveItInterface::move_group[m[K’ declared here
+  151 | :shared_ptr<moveit::planning_interface::MoveGroupInterface> [01;36m[Kmove_group[m[K;
+      |                                                             [01;36m[K^~~~~~~~~~[m[K
+
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:[m[K In lambda function:
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:105:39:[m[K [01;31m[Kerror: [m[K‘[01m[Kthis[m[K’ was not captured for this lambda function
+  105 |     auto const ok = static_cast<bool>([01;31m[Kmove_group[m[K.plan(msg));
+      |                                       [01;31m[K^~~~~~~~~~[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:105:39:[m[K [01;31m[Kerror: [m[Kinvalid use of non-static data member ‘[01m[Kinterbotix::InterbotixMoveItInterface::move_group[m[K’
+In file included from [01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:29[m[K:
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include/interbotix_moveit_interface/moveit_interface_obj.hpp:151:67:[m[K [01;36m[Knote: [m[Kdeclared here
+  151 | :shared_ptr<moveit::planning_interface::MoveGroupInterface> [01;36m[Kmove_group[m[K;
+      |                                                             [01;36m[K^~~~~~~~~~[m[K
+
+gmake[2]: *** [CMakeFiles/moveit_interface.dir/build.make:90: CMakeFiles/moveit_interface.dir/src/moveit_interface_obj.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/moveit_interface.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

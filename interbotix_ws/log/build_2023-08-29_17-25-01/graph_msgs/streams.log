@@ -1,0 +1,210 @@
+[0.448s] Invoking command in '/home/inouemakoto/interbotix_ws/build/graph_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/graph_msgs -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/graph_msgs
+[0.891s] -- The C compiler identification is GNU 11.4.0
+[0.891s] -- The CXX compiler identification is GNU 11.4.0
+[0.891s] -- Detecting C compiler ABI info
+[0.891s] -- Detecting C compiler ABI info - done
+[0.891s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.892s] -- Detecting C compile features
+[0.892s] -- Detecting C compile features - done
+[0.892s] -- Detecting CXX compiler ABI info
+[0.892s] -- Detecting CXX compiler ABI info - done
+[0.892s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.892s] -- Detecting CXX compile features
+[0.892s] -- Detecting CXX compile features - done
+[0.892s] -- Found ament_cmake: 1.3.5 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.180s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[1.452s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[1.513s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.563s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.735s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.829s] -- Found builtin_interfaces: 1.2.1 (/opt/ros/humble/share/builtin_interfaces/cmake)
+[1.872s] -- Found std_msgs: 4.2.3 (/opt/ros/humble/share/std_msgs/cmake)
+[1.915s] -- Found geometry_msgs: 4.2.3 (/opt/ros/humble/share/geometry_msgs/cmake)
+[2.357s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[2.769s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.192s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.223s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[3.232s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[3.281s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[3.281s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.281s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[3.281s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[3.308s] -- Found PythonExtra: .so  
+[3.560s] -- Found ament_lint_auto: 0.12.7 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[3.593s] -- Configuring done
+[3.628s] -- Generating done
+[3.631s] -- Build files have been written to: /home/inouemakoto/interbotix_ws/build/graph_msgs
+[3.642s] Invoked command in '/home/inouemakoto/interbotix_ws/build/graph_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/inouemakoto/interbotix_ws/graph_msgs -DCMAKE_INSTALL_PREFIX=/home/inouemakoto/interbotix_ws/install/graph_msgs
+[3.645s] Invoking command in '/home/inouemakoto/interbotix_ws/build/graph_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/graph_msgs -- -j20 -l20
+[3.716s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_generator_c[0m
+[3.742s] [  2%] Built target graph_msgs__cpp
+[3.749s] [ 12%] Built target graph_msgs__rosidl_generator_c
+[3.759s] [ 12%] Built target ament_cmake_python_copy_graph_msgs
+[3.769s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[3.770s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_introspection_cpp[0m
+[3.770s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_cpp[0m
+[3.782s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_fastrtps_c[0m
+[3.800s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_c[0m
+[3.807s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_introspection_c[0m
+[3.813s] [ 33%] Built target graph_msgs__rosidl_typesupport_cpp
+[3.813s] [ 33%] Built target graph_msgs__rosidl_typesupport_fastrtps_cpp
+[3.815s] [ 43%] Built target graph_msgs__rosidl_typesupport_introspection_cpp
+[3.816s] [ 53%] Built target graph_msgs__rosidl_typesupport_fastrtps_c
+[3.827s] [ 64%] Built target graph_msgs__rosidl_typesupport_introspection_c
+[3.828s] [ 74%] Built target graph_msgs__rosidl_typesupport_c
+[3.863s] [ 74%] Built target graph_msgs
+[3.908s] [ 76%] Built target graph_msgs__py
+[3.926s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_generator_py[0m
+[3.951s] [ 84%] Built target graph_msgs__rosidl_generator_py
+[3.977s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[3.977s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[3.977s] [35m[1mConsolidate compiler generated dependencies of target graph_msgs__rosidl_typesupport_c__pyext[0m
+[4.001s] [ 89%] Built target graph_msgs__rosidl_typesupport_fastrtps_c__pyext
+[4.003s] [ 94%] Built target graph_msgs__rosidl_typesupport_introspection_c__pyext
+[4.005s] [100%] Built target graph_msgs__rosidl_typesupport_c__pyext
+[4.157s] running egg_info
+[4.157s] writing graph_msgs.egg-info/PKG-INFO
+[4.158s] writing dependency_links to graph_msgs.egg-info/dependency_links.txt
+[4.158s] writing top-level names to graph_msgs.egg-info/top_level.txt
+[4.162s] reading manifest file 'graph_msgs.egg-info/SOURCES.txt'
+[4.162s] writing manifest file 'graph_msgs.egg-info/SOURCES.txt'
+[4.198s] [100%] Built target ament_cmake_python_build_graph_msgs_egg
+[4.212s] Invoked command in '/home/inouemakoto/interbotix_ws/build/graph_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/graph_msgs -- -j20 -l20
+[4.357s] Invoking command in '/home/inouemakoto/interbotix_ws/build/graph_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/graph_msgs
+[4.368s] -- Install configuration: ""
+[4.368s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/ament_index/resource_index/rosidl_interfaces/graph_msgs
+[4.368s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs
+[4.369s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg
+[4.369s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/edges.h
+[4.369s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/geometry_graph.h
+[4.369s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/rosidl_generator_c__visibility_control.h
+[4.369s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail
+[4.369s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/edges__functions.h
+[4.369s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/geometry_graph__functions.c
+[4.370s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/geometry_graph__type_support.h
+[4.370s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/geometry_graph__functions.h
+[4.370s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/geometry_graph__struct.h
+[4.370s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/edges__functions.c
+[4.370s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/edges__type_support.h
+[4.370s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/edges__struct.h
+[4.371s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/environment/library_path.sh
+[4.371s] -- Installing: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/environment/library_path.dsv
+[4.371s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/lib/libgraph_msgs__rosidl_generator_c.so
+[4.371s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs
+[4.371s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg
+[4.371s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail
+[4.371s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/geometry_graph__rosidl_typesupport_fastrtps_c.h
+[4.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/edges__rosidl_typesupport_fastrtps_c.h
+[4.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[4.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/lib/libgraph_msgs__rosidl_typesupport_fastrtps_c.so
+[4.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs
+[4.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg
+[4.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[4.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail
+[4.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/edges__type_support.c
+[4.372s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/geometry_graph__type_support.c
+[4.373s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/geometry_graph__rosidl_typesupport_introspection_c.h
+[4.373s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/edges__rosidl_typesupport_introspection_c.h
+[4.373s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/lib/libgraph_msgs__rosidl_typesupport_introspection_c.so
+[4.373s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/lib/libgraph_msgs__rosidl_typesupport_c.so
+[4.373s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs
+[4.373s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg
+[4.373s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/geometry_graph.hpp
+[4.373s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail
+[4.374s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/geometry_graph__traits.hpp
+[4.374s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/geometry_graph__builder.hpp
+[4.374s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/edges__builder.hpp
+[4.374s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/edges__struct.hpp
+[4.374s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/edges__traits.hpp
+[4.374s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/geometry_graph__struct.hpp
+[4.374s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/edges.hpp
+[4.374s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs
+[4.374s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg
+[4.375s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[4.375s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail
+[4.375s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/dds_fastrtps
+[4.375s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/edges__rosidl_typesupport_fastrtps_cpp.hpp
+[4.375s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/geometry_graph__rosidl_typesupport_fastrtps_cpp.hpp
+[4.375s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/lib/libgraph_msgs__rosidl_typesupport_fastrtps_cpp.so
+[4.375s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs
+[4.375s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg
+[4.375s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail
+[4.376s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/geometry_graph__type_support.cpp
+[4.376s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/geometry_graph__rosidl_typesupport_introspection_cpp.hpp
+[4.376s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/edges__rosidl_typesupport_introspection_cpp.hpp
+[4.376s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/include/graph_msgs/graph_msgs/msg/detail/edges__type_support.cpp
+[4.376s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/lib/libgraph_msgs__rosidl_typesupport_introspection_cpp.so
+[4.376s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/lib/libgraph_msgs__rosidl_typesupport_cpp.so
+[4.376s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/environment/pythonpath.sh
+[4.376s] -- Installing: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/environment/pythonpath.dsv
+[4.377s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs-0.2.0-py3.10.egg-info
+[4.377s] -- Installing: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs-0.2.0-py3.10.egg-info/top_level.txt
+[4.377s] -- Installing: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs-0.2.0-py3.10.egg-info/dependency_links.txt
+[4.377s] -- Installing: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs-0.2.0-py3.10.egg-info/SOURCES.txt
+[4.377s] -- Installing: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs-0.2.0-py3.10.egg-info/PKG-INFO
+[4.378s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs
+[4.378s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/graph_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[4.378s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/msg
+[4.378s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/msg/_edges_s.c
+[4.378s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/msg/_geometry_graph.py
+[4.378s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/msg/__init__.py
+[4.378s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/msg/_edges.py
+[4.378s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/msg/_geometry_graph_s.c
+[4.379s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/_graph_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[4.379s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/_graph_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[4.379s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/graph_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[4.379s] -- Installing: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/__init__.py
+[4.379s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/graph_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[4.379s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/_graph_msgs_s.ep.rosidl_typesupport_c.c
+[4.380s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/libgraph_msgs__rosidl_generator_py.so
+[4.414s] Listing '/home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs'...
+[4.414s] Compiling '/home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/__init__.py'...
+[4.414s] Listing '/home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/msg'...
+[4.419s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/graph_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[4.420s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/graph_msgs_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[4.420s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/local/lib/python3.10/dist-packages/graph_msgs/graph_msgs_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[4.420s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/lib/libgraph_msgs__rosidl_generator_py.so
+[4.420s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/msg/Edges.idl
+[4.421s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/msg/GeometryGraph.idl
+[4.421s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/msg/Edges.msg
+[4.421s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/msg/GeometryGraph.msg
+[4.421s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/ament_index/resource_index/package_run_dependencies/graph_msgs
+[4.421s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/ament_index/resource_index/parent_prefix_path/graph_msgs
+[4.421s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/environment/ament_prefix_path.sh
+[4.421s] -- Installing: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/environment/ament_prefix_path.dsv
+[4.422s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/environment/path.sh
+[4.422s] -- Installing: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/environment/path.dsv
+[4.422s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/local_setup.bash
+[4.422s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/local_setup.sh
+[4.422s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/local_setup.zsh
+[4.422s] -- Installing: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/local_setup.dsv
+[4.422s] -- Installing: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/package.dsv
+[4.423s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/ament_index/resource_index/packages/graph_msgs
+[4.423s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/export_graph_msgs__rosidl_generator_cExport.cmake
+[4.423s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/export_graph_msgs__rosidl_generator_cExport-noconfig.cmake
+[4.423s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/export_graph_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[4.423s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/export_graph_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[4.423s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/graph_msgs__rosidl_typesupport_introspection_cExport.cmake
+[4.423s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/graph_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[4.423s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/graph_msgs__rosidl_typesupport_cExport.cmake
+[4.423s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/graph_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[4.423s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/export_graph_msgs__rosidl_generator_cppExport.cmake
+[4.423s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/export_graph_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[4.424s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/export_graph_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[4.424s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/graph_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[4.424s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/graph_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[4.424s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/graph_msgs__rosidl_typesupport_cppExport.cmake
+[4.424s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/graph_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[4.424s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/export_graph_msgs__rosidl_generator_pyExport.cmake
+[4.424s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/export_graph_msgs__rosidl_generator_pyExport-noconfig.cmake
+[4.424s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/rosidl_cmake-extras.cmake
+[4.424s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[4.424s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[4.424s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[4.424s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[4.425s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[4.425s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[4.425s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/graph_msgsConfig.cmake
+[4.425s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/cmake/graph_msgsConfig-version.cmake
+[4.425s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/graph_msgs/share/graph_msgs/package.xml
+[4.430s] Invoked command in '/home/inouemakoto/interbotix_ws/build/graph_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/graph_msgs

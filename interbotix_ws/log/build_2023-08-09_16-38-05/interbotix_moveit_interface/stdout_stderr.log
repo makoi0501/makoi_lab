@@ -1,0 +1,13 @@
+[35m[1mConsolidate compiler generated dependencies of target moveit_interface[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/moveit_interface.dir/src/moveit_interface_obj.cpp.o[0m
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:126:6:[m[K [01;31m[Kerror: [m[Kno declaration matches ‘[01m[Kbool interbotix::InterbotixMoveItInterface::moveit_plan_gripper(std::string)[m[K’
+  126 | bool [01;31m[KInterbotixMoveItInterface[m[K::moveit_plan_gripper(
+      |      [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:126:6:[m[K [01;36m[Knote: [m[Kno functions named ‘[01m[Kbool interbotix::InterbotixMoveItInterface::moveit_plan_gripper(std::string)[m[K’
+In file included from [01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/src/moveit_interface_obj.cpp:29[m[K:
+[01m[K/home/inouemakoto/interbotix_ws/src/interbotix_ros_toolboxes/interbotix_common_toolbox/interbotix_moveit_interface/include/interbotix_moveit_interface/moveit_interface_obj.hpp:65:7:[m[K [01;36m[Knote: [m[K‘[01m[Kclass interbotix::InterbotixMoveItInterface[m[K’ defined here
+   65 | class [01;36m[KInterbotixMoveItInterface[m[K
+      |       [01;36m[K^~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/moveit_interface.dir/build.make:90: CMakeFiles/moveit_interface.dir/src/moveit_interface_obj.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/moveit_interface.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

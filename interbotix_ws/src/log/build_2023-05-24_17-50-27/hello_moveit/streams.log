@@ -1,0 +1,26 @@
+[0.248s] Invoking command in '/home/inouemakoto/interbotix_ws/src/build/hello_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/src/build/hello_moveit -- -j20 -l20
+[0.281s] [35m[1mConsolidate compiler generated dependencies of target hello_moveit[0m
+[0.312s] [ 50%] [32mBuilding CXX object CMakeFiles/hello_moveit.dir/src/hello_moveit.cpp.o[0m
+[7.213s] [100%] [32m[1mLinking CXX executable hello_moveit[0m
+[7.942s] [100%] Built target hello_moveit
+[7.951s] Invoked command in '/home/inouemakoto/interbotix_ws/src/build/hello_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/src/build/hello_moveit -- -j20 -l20
+[7.974s] Invoking command in '/home/inouemakoto/interbotix_ws/src/build/hello_moveit': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/src/build/hello_moveit
+[7.980s] -- Install configuration: ""
+[7.980s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/lib/hello_moveit/hello_moveit
+[7.980s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/src/install/hello_moveit/lib/hello_moveit/hello_moveit" to ""
+[7.980s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/ament_index/resource_index/package_run_dependencies/hello_moveit
+[7.980s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/ament_index/resource_index/parent_prefix_path/hello_moveit
+[7.981s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/environment/ament_prefix_path.sh
+[7.981s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/environment/ament_prefix_path.dsv
+[7.981s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/environment/path.sh
+[7.981s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/environment/path.dsv
+[7.981s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/local_setup.bash
+[7.981s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/local_setup.sh
+[7.981s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/local_setup.zsh
+[7.981s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/local_setup.dsv
+[7.981s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/package.dsv
+[7.981s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/ament_index/resource_index/packages/hello_moveit
+[7.981s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/cmake/hello_moveitConfig.cmake
+[7.982s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/cmake/hello_moveitConfig-version.cmake
+[7.982s] -- Installing: /home/inouemakoto/interbotix_ws/src/install/hello_moveit/share/hello_moveit/package.xml
+[7.983s] Invoked command in '/home/inouemakoto/interbotix_ws/src/build/hello_moveit' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/src/build/hello_moveit

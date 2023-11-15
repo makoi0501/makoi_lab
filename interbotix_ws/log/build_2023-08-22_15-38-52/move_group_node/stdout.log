@@ -1,0 +1,5 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/run_move_group.dir/src/run_move_group.cpp.o[0m
+[100%] [32m[1mLinking CXX executable run_move_group[0m
+[100%] Built target run_move_group
+-- Install configuration: ""
+-- Installing: /home/inouemakoto/interbotix_ws/install/move_group_node/share/move_group_node/package.dsv

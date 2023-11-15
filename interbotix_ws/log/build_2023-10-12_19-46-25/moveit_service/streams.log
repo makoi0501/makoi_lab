@@ -1,0 +1,25 @@
+[2.817s] Invoking command in '/home/inouemakoto/interbotix_ws/src/moveit_service': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/moveit_service/prefix_override:/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/moveit_service build --build-base /home/inouemakoto/interbotix_ws/build/moveit_service/build install --record /home/inouemakoto/interbotix_ws/build/moveit_service/install.log --single-version-externally-managed
+[3.098s] running egg_info
+[3.098s] writing ../../build/moveit_service/moveit_service.egg-info/PKG-INFO
+[3.099s] writing dependency_links to ../../build/moveit_service/moveit_service.egg-info/dependency_links.txt
+[3.099s] writing entry points to ../../build/moveit_service/moveit_service.egg-info/entry_points.txt
+[3.099s] writing requirements to ../../build/moveit_service/moveit_service.egg-info/requires.txt
+[3.099s] writing top-level names to ../../build/moveit_service/moveit_service.egg-info/top_level.txt
+[3.100s] reading manifest file '../../build/moveit_service/moveit_service.egg-info/SOURCES.txt'
+[3.101s] writing manifest file '../../build/moveit_service/moveit_service.egg-info/SOURCES.txt'
+[3.101s] running build
+[3.102s] running build_py
+[3.102s] copying moveit_service/moveit_order.py -> /home/inouemakoto/interbotix_ws/build/moveit_service/build/lib/moveit_service
+[3.102s] running install
+[3.102s] running install_lib
+[3.103s] copying /home/inouemakoto/interbotix_ws/build/moveit_service/build/lib/moveit_service/moveit_order.py -> /home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service
+[3.103s] byte-compiling /home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service/moveit_order.py to moveit_order.cpython-310.pyc
+[3.104s] running install_data
+[3.105s] running install_egg_info
+[3.106s] removing '/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service-0.0.0-py3.10.egg-info' (and everything under it)
+[3.107s] Copying ../../build/moveit_service/moveit_service.egg-info to /home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages/moveit_service-0.0.0-py3.10.egg-info
+[3.107s] running install_scripts
+[3.129s] Installing interbotix_gripper script to /home/inouemakoto/interbotix_ws/install/moveit_service/lib/moveit_service
+[3.129s] Installing moveit_order script to /home/inouemakoto/interbotix_ws/install/moveit_service/lib/moveit_service
+[3.129s] writing list of installed files to '/home/inouemakoto/interbotix_ws/build/moveit_service/install.log'
+[3.662s] Invoked command in '/home/inouemakoto/interbotix_ws/src/moveit_service' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/moveit_service/prefix_override:/home/inouemakoto/interbotix_ws/install/moveit_service/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/moveit_service build --build-base /home/inouemakoto/interbotix_ws/build/moveit_service/build install --record /home/inouemakoto/interbotix_ws/build/moveit_service/install.log --single-version-externally-managed

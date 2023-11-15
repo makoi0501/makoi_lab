@@ -1,0 +1,9 @@
+{
+  "package_name": "openvino_msgs",
+  "non_idl_tuples": [
+    "/home/inouemakoto/interbotix_ws/src/ros2_openvino_toolkit/openvino_msgs:msg/Connection.msg",
+    "/home/inouemakoto/interbotix_ws/src/ros2_openvino_toolkit/openvino_msgs:msg/PipelineRequest.msg",
+    "/home/inouemakoto/interbotix_ws/src/ros2_openvino_toolkit/openvino_msgs:msg/Pipeline.msg",
+    "/home/inouemakoto/interbotix_ws/src/ros2_openvino_toolkit/openvino_msgs:srv/PipelineSrv.srv"
+  ]
+}

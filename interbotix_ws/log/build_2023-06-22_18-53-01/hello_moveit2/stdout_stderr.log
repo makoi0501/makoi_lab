@@ -1,0 +1,22 @@
+[35m[1mConsolidate compiler generated dependencies of target hello_moveit2[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/hello_moveit2.dir/src/hello_moveit2.cpp.o[0m
+[01m[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:81:16:[m[K [01;31m[Kerror: [m[K‘[01m[Kmoveit_visual_tools::MoveItVisualToolsPtr[m[K’ {aka ‘[01m[Kclass std::shared_ptr<moveit_visual_tools::MoveItVisualTools>[m[K’} has no member named ‘[01m[KpublishAxisLabeled[m[K’
+   81 |   visual_tools.[01;31m[KpublishAxisLabeled[m[K(target_pose1, "pose1");
+      |                [01;31m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:82:16:[m[K [01;31m[Kerror: [m[K‘[01m[Kmoveit_visual_tools::MoveItVisualToolsPtr[m[K’ {aka ‘[01m[Kclass std::shared_ptr<moveit_visual_tools::MoveItVisualTools>[m[K’} has no member named ‘[01m[KpublishText[m[K’
+   82 |   visual_tools.[01;31m[KpublishText[m[K(text_pose, "Pose_Goal", rvt::WHITE, rvt::XLARGE);
+      |                [01;31m[K^~~~~~~~~~~[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:83:16:[m[K [01;31m[Kerror: [m[K‘[01m[Kmoveit_visual_tools::MoveItVisualToolsPtr[m[K’ {aka ‘[01m[Kclass std::shared_ptr<moveit_visual_tools::MoveItVisualTools>[m[K’} has no member named ‘[01m[KpublishTrajectoryLine[m[K’
+   83 |   visual_tools.[01;31m[KpublishTrajectoryLine[m[K(my_plan.trajectory, joint_model_group);
+      |                [01;31m[K^~~~~~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:83:46:[m[K [01;31m[Kerror: [m[K‘[01m[Kstruct moveit::planning_interface::MoveGroupInterface::Plan[m[K’ has no member named ‘[01m[Ktrajectory[m[K’; did you mean ‘[01m[Ktrajectory_[m[K’?
+   83 |   visual_tools.publishTrajectoryLine(my_plan.[01;31m[Ktrajectory[m[K, joint_model_group);
+      |                                              [01;31m[K^~~~~~~~~~[m[K
+      |                                              [32m[Ktrajectory_[m[K
+[01m[K/home/inouemakoto/interbotix_ws/src/hello_moveit2/src/hello_moveit2.cpp:84:16:[m[K [01;31m[Kerror: [m[K‘[01m[Kmoveit_visual_tools::MoveItVisualToolsPtr[m[K’ {aka ‘[01m[Kclass std::shared_ptr<moveit_visual_tools::MoveItVisualTools>[m[K’} has no member named ‘[01m[Ktrigger[m[K’
+   84 |   visual_tools.[01;31m[Ktrigger[m[K();
+      |                [01;31m[K^~~~~~~[m[K
+gmake[2]: *** [CMakeFiles/hello_moveit2.dir/build.make:76: CMakeFiles/hello_moveit2.dir/src/hello_moveit2.cpp.o] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/hello_moveit2.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

@@ -1,0 +1,25 @@
+[0.018s] Invoking command in '/home/inouemakoto/interbotix_ws/build/hello_moveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/hello_moveit2 -- -j20 -l20
+[0.079s] [ 50%] [32mBuilding CXX object CMakeFiles/hello_moveit2.dir/src/hello_moveit2.cpp.o[0m
+[6.792s] [100%] [32m[1mLinking CXX executable hello_moveit2[0m
+[7.541s] [100%] Built target hello_moveit2
+[7.552s] Invoked command in '/home/inouemakoto/interbotix_ws/build/hello_moveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/hello_moveit2 -- -j20 -l20
+[7.594s] Invoking command in '/home/inouemakoto/interbotix_ws/build/hello_moveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/hello_moveit2
+[7.603s] -- Install configuration: "Debug"
+[7.603s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit2/lib/hello_moveit2/hello_moveit2
+[7.607s] -- Set runtime path of "/home/inouemakoto/interbotix_ws/install/hello_moveit2/lib/hello_moveit2/hello_moveit2" to ""
+[7.607s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/hello_moveit2/share/ament_index/resource_index/package_run_dependencies/hello_moveit2
+[7.608s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/hello_moveit2/share/ament_index/resource_index/parent_prefix_path/hello_moveit2
+[7.608s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/environment/ament_prefix_path.sh
+[7.608s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/environment/ament_prefix_path.dsv
+[7.608s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/environment/path.sh
+[7.608s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/environment/path.dsv
+[7.608s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/local_setup.bash
+[7.608s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/local_setup.sh
+[7.608s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/local_setup.zsh
+[7.608s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/local_setup.dsv
+[7.608s] -- Installing: /home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/package.dsv
+[7.608s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/hello_moveit2/share/ament_index/resource_index/packages/hello_moveit2
+[7.608s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/cmake/hello_moveit2Config.cmake
+[7.608s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/cmake/hello_moveit2Config-version.cmake
+[7.608s] -- Up-to-date: /home/inouemakoto/interbotix_ws/install/hello_moveit2/share/hello_moveit2/package.xml
+[7.609s] Invoked command in '/home/inouemakoto/interbotix_ws/build/hello_moveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/opt/ros/humble /usr/bin/cmake --install /home/inouemakoto/interbotix_ws/build/hello_moveit2

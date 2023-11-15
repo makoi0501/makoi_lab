@@ -1,0 +1,16 @@
+[  3%] Built target interbotix_moveit_interface_msgs__cpp
+failed to create symbolic link '/home/inouemakoto/interbotix_ws/build/interbotix_moveit_interface_msgs/ament_cmake_python/interbotix_moveit_interface_msgs/interbotix_moveit_interface_msgs' because existing path cannot be removed: Is a directory
+[ 12%] Built target interbotix_moveit_interface_msgs__rosidl_generator_c
+gmake[2]: *** [CMakeFiles/ament_cmake_python_symlink_interbotix_moveit_interface_msgs.dir/build.make:70: CMakeFiles/ament_cmake_python_symlink_interbotix_moveit_interface_msgs] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:421: CMakeFiles/ament_cmake_python_symlink_interbotix_moveit_interface_msgs.dir/all] Error 2
+gmake[1]: *** Waiting for unfinished jobs....
+[35m[1mConsolidate compiler generated dependencies of target interbotix_moveit_interface_msgs__rosidl_typesupport_fastrtps_c[0m
+[35m[1mConsolidate compiler generated dependencies of target interbotix_moveit_interface_msgs__rosidl_typesupport_c[0m
+[35m[1mConsolidate compiler generated dependencies of target interbotix_moveit_interface_msgs__rosidl_typesupport_introspection_c[0m
+[ 22%] Built target interbotix_moveit_interface_msgs__rosidl_typesupport_fastrtps_cpp
+[ 32%] Built target interbotix_moveit_interface_msgs__rosidl_typesupport_cpp
+[ 41%] Built target interbotix_moveit_interface_msgs__rosidl_typesupport_introspection_cpp
+[ 51%] Built target interbotix_moveit_interface_msgs__rosidl_typesupport_introspection_c
+[ 64%] Built target interbotix_moveit_interface_msgs__rosidl_typesupport_fastrtps_c
+[ 70%] Built target interbotix_moveit_interface_msgs__rosidl_typesupport_c
+gmake: *** [Makefile:146: all] Error 2

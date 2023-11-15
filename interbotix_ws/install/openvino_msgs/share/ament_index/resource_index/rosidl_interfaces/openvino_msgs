@@ -1,0 +1,10 @@
+msg/Connection.idl
+msg/Connection.msg
+msg/Pipeline.idl
+msg/Pipeline.msg
+msg/PipelineRequest.idl
+msg/PipelineRequest.msg
+srv/PipelineSrv.idl
+srv/PipelineSrv.srv
+srv/PipelineSrv_Request.msg
+srv/PipelineSrv_Response.msg

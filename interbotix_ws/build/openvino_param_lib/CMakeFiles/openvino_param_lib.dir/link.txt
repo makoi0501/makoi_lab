@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fPIE -fstack-protector-strong -fPIC -fno-operator-names -Wformat -Wformat-security -Wall -std=c++17  -z noexecstack -z relro -z now -shared -Wl,-soname,libopenvino_param_lib.so -o libopenvino_param_lib.so CMakeFiles/openvino_param_lib.dir/src/param_manager.cpp.o  /usr/lib/x86_64-linux-gnu/libyaml-cpp.so.0.7.0 

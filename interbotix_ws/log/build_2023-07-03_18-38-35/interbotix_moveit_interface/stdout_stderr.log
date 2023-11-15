@@ -1,0 +1,8 @@
+[ 33%] [32mBuilding CXX object CMakeFiles/moveit_interface.dir/src/moveit_interface_obj.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable moveit_interface[0m
+/usr/bin/ld: CMakeFiles/moveit_interface.dir/src/moveit_interface.cpp.o: in function `void __gnu_cxx::new_allocator<interbotix::InterbotixMoveItInterface>::destroy<interbotix::InterbotixMoveItInterface>(interbotix::InterbotixMoveItInterface*)':
+/usr/include/c++/11/ext/new_allocator.h:168: undefined reference to `interbotix::InterbotixMoveItInterface::~InterbotixMoveItInterface()'
+collect2: error: ld returned 1 exit status
+gmake[2]: *** [CMakeFiles/moveit_interface.dir/build.make:432: moveit_interface] Error 1
+gmake[1]: *** [CMakeFiles/Makefile2:137: CMakeFiles/moveit_interface.dir/all] Error 2
+gmake: *** [Makefile:146: all] Error 2

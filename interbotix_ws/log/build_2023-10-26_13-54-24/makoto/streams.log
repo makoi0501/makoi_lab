@@ -1,0 +1,31 @@
+[2.941s] Invoking command in '/home/inouemakoto/interbotix_ws/build/makoto': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/makoto/prefix_override:/home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/inouemakoto/interbotix_ws/build/makoto/build
+[3.543s] running develop
+[3.544s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[3.544s] !!
+[3.544s] 
+[3.544s]         ********************************************************************************
+[3.544s]         Please avoid running ``setup.py`` and ``easy_install``.
+[3.544s]         Instead, use pypa/build, pypa/installer or other
+[3.544s]         standards-based tools.
+[3.545s] 
+[3.545s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[3.545s]         ********************************************************************************
+[3.545s] 
+[3.545s] !!
+[3.545s]   easy_install.initialize_options(self)
+[3.588s] /home/inouemakoto/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[3.589s] !!
+[3.589s] 
+[3.589s]         ********************************************************************************
+[3.590s]         Please avoid running ``setup.py`` directly.
+[3.590s]         Instead, use pypa/build, pypa/installer or other
+[3.590s]         standards-based tools.
+[3.590s] 
+[3.590s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[3.590s]         ********************************************************************************
+[3.591s] 
+[3.591s] !!
+[3.591s]   self.initialize_options()
+[3.813s] Removing /home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages/makoto.egg-link (link to .)
+[4.269s] Invoked command in '/home/inouemakoto/interbotix_ws/build/makoto' returned '0': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/makoto/prefix_override:/home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --uninstall --editable --build-directory /home/inouemakoto/interbotix_ws/build/makoto/build
+[4.271s] Invoking command in '/home/inouemakoto/interbotix_ws/src/makoto': PYTHONPATH=/home/inouemakoto/interbotix_ws/build/makoto/prefix_override:/home/inouemakoto/interbotix_ws/install/makoto/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/makoto build --build-base /home/inouemakoto/interbotix_ws/build/makoto/build install --record /home/inouemakoto/interbotix_ws/build/makoto/install.log --single-version-externally-managed

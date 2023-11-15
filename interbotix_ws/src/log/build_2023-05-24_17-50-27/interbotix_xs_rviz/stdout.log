@@ -1,0 +1,37 @@
+[ 20%] [34m[1mAutomatic MOC for target interbotix_xs_rviz[0m
+[ 20%] Built target interbotix_xs_rviz_autogen
+[35m[1mConsolidate compiler generated dependencies of target interbotix_xs_rviz[0m
+[100%] Built target interbotix_xs_rviz
+-- Install configuration: ""
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/plugin_description.xml
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/lib/libinterbotix_xs_rviz.so
+-- Set runtime path of "/home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/lib/libinterbotix_xs_rviz.so" to ""
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/include/
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/include//interbotix_xs_rviz
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/include//interbotix_xs_rviz/interbotix_control_panel.hpp
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/include//interbotix_xs_rviz/xs_register_descriptions.hpp
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz//icons
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz//icons/classes
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz//icons/classes/Interbotix Control Panel.png
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/environment/library_path.sh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/environment/library_path.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/ament_index/resource_index/package_run_dependencies/interbotix_xs_rviz
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/ament_index/resource_index/parent_prefix_path/interbotix_xs_rviz
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/environment/ament_prefix_path.sh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/environment/ament_prefix_path.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/environment/path.sh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/environment/path.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/local_setup.bash
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/local_setup.sh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/local_setup.zsh
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/local_setup.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/package.dsv
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/ament_index/resource_index/packages/interbotix_xs_rviz
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/ament_index/resource_index/rviz_common__pluginlib__plugin/interbotix_xs_rviz
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/cmake/interbotix_xs_rvizExport.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/cmake/interbotix_xs_rvizExport-noconfig.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/cmake/ament_cmake_export_targets-extras.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/cmake/interbotix_xs_rvizConfig.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/cmake/interbotix_xs_rvizConfig-version.cmake
+-- Installing: /home/inouemakoto/interbotix_ws/src/install/interbotix_xs_rviz/share/interbotix_xs_rviz/package.xml

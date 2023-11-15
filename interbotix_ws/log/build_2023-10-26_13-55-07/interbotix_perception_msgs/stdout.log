@@ -1,0 +1,12 @@
+[  1%] Built target interbotix_perception_msgs__cpp
+[ 12%] Built target interbotix_perception_msgs__rosidl_generator_c
+[35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_typesupport_introspection_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_typesupport_fastrtps_c[0m
+[35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_typesupport_cpp[0m
+[35m[1mConsolidate compiler generated dependencies of target interbotix_perception_msgs__rosidl_typesupport_introspection_c[0m
+[ 23%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_cpp
+[ 36%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_cpp
+[ 45%] Built target interbotix_perception_msgs__rosidl_typesupport_cpp
+[ 56%] Built target interbotix_perception_msgs__rosidl_typesupport_fastrtps_c
+[ 67%] Built target interbotix_perception_msgs__rosidl_typesupport_introspection_c

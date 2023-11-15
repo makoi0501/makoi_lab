@@ -1,0 +1,4 @@
+source;share/openvino_param_lib/local_setup.bash
+source;share/openvino_param_lib/local_setup.dsv
+source;share/openvino_param_lib/local_setup.sh
+source;share/openvino_param_lib/local_setup.zsh

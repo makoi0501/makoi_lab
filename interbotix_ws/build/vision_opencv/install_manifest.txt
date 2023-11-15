@@ -1,0 +1,15 @@
+/home/inouemakoto/interbotix_ws/install/vision_opencv/share/ament_index/resource_index/package_run_dependencies/vision_opencv
+/home/inouemakoto/interbotix_ws/install/vision_opencv/share/ament_index/resource_index/parent_prefix_path/vision_opencv
+/home/inouemakoto/interbotix_ws/install/vision_opencv/share/vision_opencv/environment/ament_prefix_path.sh
+/home/inouemakoto/interbotix_ws/install/vision_opencv/share/vision_opencv/environment/ament_prefix_path.dsv
+/home/inouemakoto/interbotix_ws/install/vision_opencv/share/vision_opencv/environment/path.sh
+/home/inouemakoto/interbotix_ws/install/vision_opencv/share/vision_opencv/environment/path.dsv
+/home/inouemakoto/interbotix_ws/install/vision_opencv/share/vision_opencv/local_setup.bash
+/home/inouemakoto/interbotix_ws/install/vision_opencv/share/vision_opencv/local_setup.sh
+/home/inouemakoto/interbotix_ws/install/vision_opencv/share/vision_opencv/local_setup.zsh
+/home/inouemakoto/interbotix_ws/install/vision_opencv/share/vision_opencv/local_setup.dsv
+/home/inouemakoto/interbotix_ws/install/vision_opencv/share/vision_opencv/package.dsv
+/home/inouemakoto/interbotix_ws/install/vision_opencv/share/ament_index/resource_index/packages/vision_opencv
+/home/inouemakoto/interbotix_ws/install/vision_opencv/share/vision_opencv/cmake/vision_opencvConfig.cmake
+/home/inouemakoto/interbotix_ws/install/vision_opencv/share/vision_opencv/cmake/vision_opencvConfig-version.cmake
+/home/inouemakoto/interbotix_ws/install/vision_opencv/share/vision_opencv/package.xml

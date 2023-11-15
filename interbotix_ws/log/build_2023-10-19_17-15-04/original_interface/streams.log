@@ -1,0 +1,24 @@
+[1.071s] Invoking command in '/home/inouemakoto/interbotix_ws/build/original_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_moveit_interface:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/original_interface -- -j20 -l20
+[1.799s] [  3%] Built target original_interface__cpp
+[1.799s] [ 12%] Built target original_interface__rosidl_generator_c
+[1.799s] [ 12%] Built target ament_cmake_python_copy_original_interface
+[1.800s] [ 22%] Built target original_interface__rosidl_typesupport_fastrtps_cpp
+[1.800s] [ 32%] Built target original_interface__rosidl_typesupport_introspection_cpp
+[1.800s] [ 51%] Built target original_interface__rosidl_typesupport_c
+[1.800s] [ 51%] Built target original_interface__rosidl_typesupport_cpp
+[1.800s] [ 61%] Built target original_interface__rosidl_typesupport_fastrtps_c
+[1.800s] [ 70%] Built target original_interface__rosidl_typesupport_introspection_c
+[1.800s] [ 70%] Built target original_interface
+[1.801s] [ 74%] Built target original_interface__py
+[1.801s] [ 80%] Built target original_interface__rosidl_generator_py
+[1.801s] [ 87%] Built target original_interface__rosidl_typesupport_c__pyext
+[1.801s] [100%] Built target original_interface__rosidl_typesupport_fastrtps_c__pyext
+[1.801s] [100%] Built target original_interface__rosidl_typesupport_introspection_c__pyext
+[1.801s] running egg_info
+[1.801s] writing original_interface.egg-info/PKG-INFO
+[1.801s] writing dependency_links to original_interface.egg-info/dependency_links.txt
+[1.801s] writing top-level names to original_interface.egg-info/top_level.txt
+[1.802s] reading manifest file 'original_interface.egg-info/SOURCES.txt'
+[1.802s] writing manifest file 'original_interface.egg-info/SOURCES.txt'
+[1.802s] [100%] Built target ament_cmake_python_build_original_interface_egg
+[1.809s] Invoked command in '/home/inouemakoto/interbotix_ws/build/original_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/inouemakoto/interbotix_ws/install/interbotix_moveit_interface:/home/inouemakoto/interbotix_ws/install/moveit_service:/home/inouemakoto/interbotix_ws/install/makoto:/home/inouemakoto/interbotix_ws/install/interbotix_xs_modules:/home/inouemakoto/interbotix_ws/install/interbotix_rpi_modules:/home/inouemakoto/interbotix_ws/install/interbotix_common_modules:/home/inouemakoto/ws_moveit2/install/moveit_configs_utils:/home/inouemakoto/ws_moveit2/install/launch_param_builder:/home/inouemakoto/install/moveit_service:/home/inouemakoto/install/interbotix_xs_modules:/home/inouemakoto/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/inouemakoto/interbotix_ws/build/original_interface -- -j20 -l20
